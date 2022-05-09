@@ -27,7 +27,32 @@
       switchTab();
       window.addEventListener('hashchange', switchTab, false);
   })();
-  </script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.1.0"></head><body class="is-3-column"><nav class="navbar navbar-main"><div class="container navbar-container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/">Chen Yulin&#039;s Blog</a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">Home</a><a class="navbar-item" href="/archives">Archives</a><a class="navbar-item" href="/categories">Categories</a><a class="navbar-item" href="/tags">Tags</a><a class="navbar-item" href="/about">About</a></div><div class="navbar-end"><a class="navbar-item night" id="night-nav" title="Night Mode" href="javascript:;"><i class="fas fa-moon" id="night-icon"></i></a><a class="navbar-item" target="_blank" rel="noopener" title="Download on GitHub" href="https://github.com/ppoffice/hexo-theme-icarus"><i class="fab fa-github"></i></a><a class="navbar-item search" title="Search" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-6-widescreen"><div class="card"><div class="card-content"><nav class="breadcrumb" aria-label="breadcrumbs"><ul><li><a href="/tags">Tags</a></li><li class="is-active"><a href="#" aria-current="page">Python</a></li></ul></nav></div></div><div class="card"><div class="card-image"><a class="image is-7by3" href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/"><img class="fill" src="/gallery/UAV-fw.png" alt="CADC Ground Investigation Visual Solution"></a></div><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item">Posted&nbsp;<time dateTime="2022-04-23T08:26:48.000Z" title="4/23/2022, 4:26:48 PM">2022-04-23</time></span><span class="level-item">Updated&nbsp;<time dateTime="2022-05-09T08:18:34.759Z" title="5/9/2022, 4:18:34 PM">2022-05-09</time></span><span class="level-item"><a class="link-muted" href="/categories/Review/">Review</a></span><span class="level-item">4 minutes read (About 625 words)</span></div></div><h1 class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/">CADC Ground Investigation Visual Solution</a></h1><div class="content"><h1 id="Introduce"><a href="#Introduce" class="headerlink" title="Introduce"></a>Introduce</h1><h2 id="Motivation"><a href="#Motivation" class="headerlink" title="Motivation"></a>Motivation</h2><p>We want to apply computer vision to the plane to fullfill ground investigation task automatically.</p>
+  </script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.1.0"></head><body class="is-3-column"><nav class="navbar navbar-main"><div class="container navbar-container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/">Chen Yulin&#039;s Blog</a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">Home</a><a class="navbar-item" href="/archives">Archives</a><a class="navbar-item" href="/categories">Categories</a><a class="navbar-item" href="/tags">Tags</a><a class="navbar-item" href="/about">About</a></div><div class="navbar-end"><a class="navbar-item night" id="night-nav" title="Night Mode" href="javascript:;"><i class="fas fa-moon" id="night-icon"></i></a><a class="navbar-item" target="_blank" rel="noopener" title="Download on GitHub" href="https://github.com/ppoffice/hexo-theme-icarus"><i class="fab fa-github"></i></a><a class="navbar-item search" title="Search" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-6-widescreen"><div class="card"><div class="card-content"><nav class="breadcrumb" aria-label="breadcrumbs"><ul><li><a href="/tags">Tags</a></li><li class="is-active"><a href="#" aria-current="page">Python</a></li></ul></nav></div></div><div class="card"><div class="card-image"><a class="image is-7by3" href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/"><img class="fill" src="/gallery/UAV-fw.png" alt="CADC Ground Investigation Visual Solution"></a></div><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item">Posted&nbsp;<time dateTime="2022-04-23T08:26:48.000Z" title="4/23/2022, 4:26:48 PM">2022-04-23</time></span><span class="level-item">Updated&nbsp;<time dateTime="2022-05-09T12:12:05.884Z" title="5/9/2022, 8:12:05 PM">2022-05-09</time></span><span class="level-item"><a class="link-muted" href="/categories/Review/">Review</a></span><span class="level-item">5 minutes read (About 676 words)</span></div></div><h1 class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/">CADC Ground Investigation Visual Solution</a></h1><div class="content"><h1 id="Catalog"><a href="#Catalog" class="headerlink" title="Catalog"></a>Catalog</h1><!-- vim-markdown-toc Marked -->
+
+<ul>
+<li><a href="#introduce">Introduce</a><ul>
+<li><a href="#motivation">Motivation</a></li>
+<li><a href="#objective">Objective</a></li>
+</ul>
+</li>
+<li><a href="#implementation">Implementation</a><ul>
+<li><a href="#environment-preparation">Environment Preparation</a></li>
+<li><a href="#foundation">Foundation</a></li>
+<li><a href="#code-review">Code Review</a><ul>
+<li><a href="#%60detect_target%60"><code>detect_target</code></a><ul>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#get-the-estimated-area-of-the-target-by-color-filtering">Get the estimated area of the target by color filtering</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<!-- vim-markdown-toc -->
+
+
+<h1 id="Introduce"><a href="#Introduce" class="headerlink" title="Introduce"></a>Introduce</h1><h2 id="Motivation"><a href="#Motivation" class="headerlink" title="Motivation"></a>Motivation</h2><p>We want to apply computer vision to the plane to fullfill ground investigation task automatically.</p>
 <h2 id="Objective"><a href="#Objective" class="headerlink" title="Objective"></a>Objective</h2><p>The input image looks like this:<br><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/img56.png" alt="InputImg" title="img56"></p>
 <p>And we hope the output prediction to be <font color=#00bbbb>56</font>.</p>
 <h1 id="Implementation"><a href="#Implementation" class="headerlink" title="Implementation"></a>Implementation</h1><h2 id="Environment-Preparation"><a href="#Environment-Preparation" class="headerlink" title="Environment Preparation"></a>Environment Preparation</h2><ul>
@@ -67,7 +92,7 @@
 </ul>
 <h2 id="Code-Review"><a href="#Code-Review" class="headerlink" title="Code Review"></a>Code Review</h2><p><a target="_blank" rel="noopener" href="https://github.com/Chen-Yulin/CADC-Visual-Solution">Source code</a><br>in <code>detect.py</code>, there are two large function</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">def detect_target(image):</span><br><span class="line">    ...</span><br><span class="line">def get_numberShot(img, rect_list, ROI):</span><br><span class="line">    ...</span><br></pre></td></tr></table></figure>
-<h3 id="Function-detect-target"><a href="#Function-detect-target" class="headerlink" title="Function detect_target"></a>Function <code>detect_target</code></h3><h4 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h4><p><code>detect_target</code> receive image data(three channels, BGR), detect the colored targets and returns the index of them.</p>
+<h3 id="detect-target"><a href="#detect-target" class="headerlink" title="detect_target"></a><code>detect_target</code></h3><h4 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h4><p><code>detect_target</code> receive image data(three channels, BGR), detect the colored targets and returns the index of them.</p>
 <p>index:</p>
 <ul>
 <li>rect_list</li>
