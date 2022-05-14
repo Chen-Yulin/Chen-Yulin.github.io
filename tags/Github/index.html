@@ -28,7 +28,7 @@
       window.addEventListener('hashchange', switchTab, false);
   })();
   </script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.1.0"></head><body class="is-3-column"><nav class="navbar navbar-main"><div class="container navbar-container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/">Chen Yulin&#039;s Blog</a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">Home</a><a class="navbar-item" href="/archives">Archives</a><a class="navbar-item" href="/categories">Categories</a><a class="navbar-item" href="/tags">Tags</a><a class="navbar-item" href="/about">About</a></div><div class="navbar-end"><a class="navbar-item night" id="night-nav" title="Night Mode" href="javascript:;"><i class="fas fa-moon" id="night-icon"></i></a><a class="navbar-item" target="_blank" rel="noopener" title="Download on GitHub" href="https://github.com/ppoffice/hexo-theme-icarus"><i class="fab fa-github"></i></a><a class="navbar-item search" title="Search" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-6-widescreen"><div class="card"><div class="card-content"><nav class="breadcrumb" aria-label="breadcrumbs"><ul><li><a href="/tags">Tags</a></li><li class="is-active"><a href="#" aria-current="page">Github</a></li></ul></nav></div></div><div class="card"><div class="card-image"><a class="image is-7by3" href="/2022/04/11/How-I-set-up-my-blog-site/"><img class="fill" src="/gallery/hexo.png" alt="How I set up my blog site"></a></div><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item">Posted&nbsp;<time dateTime="2022-04-11T14:07:33.000Z" title="4/11/2022, 10:07:33 PM">2022-04-11</time></span><span class="level-item">Updated&nbsp;<time dateTime="2022-05-13T13:43:24.936Z" title="5/13/2022, 9:43:24 PM">2022-05-13</time></span><span class="level-item"><a class="link-muted" href="/categories/Review/">Review</a></span><span class="level-item">a minute read (About 211 words)</span></div></div><h1 class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2022/04/11/How-I-set-up-my-blog-site/">How I set up my blog site</a></h1><div class="content"><p>This post record the steps I set up this blog site.</p>
-<h1><span id="catalog">Catalog</span></h1><!-- vim-markdown-toc Marked -->
+<h1 id="Catalog"><a href="#Catalog" class="headerlink" title="Catalog"></a>Catalog</h1><!-- vim-markdown-toc Marked -->
 
 <ul>
 <li><a href="#env-preparation">Env preparation</a></li>
@@ -42,7 +42,7 @@
 </ul>
 <!-- vim-markdown-toc -->
 
-<h2><span id="env-preparation">Env preparation</span></h2><p>Installation</p>
+<h2 id="Env-preparation"><a href="#Env-preparation" class="headerlink" title="Env preparation"></a>Env preparation</h2><p>Installation</p>
 <ul>
 <li>Install <a target="_blank" rel="noopener" href="https://nodejs.org/zh-cn/">Node.js</a></li>
 <li>Install Git</li>
@@ -50,15 +50,15 @@
 <p>Use following command to confirm:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ node -v</span><br><span class="line">$ npm -v</span><br><span class="line">$ git --version</span><br></pre></td></tr></table></figure>
 
-<h2><span id="github">Github</span></h2><h3><span id="connection">Connection</span></h3><p>Create and copy SSH key:</p>
+<h2 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h2><h3 id="Connection"><a href="#Connection" class="headerlink" title="Connection"></a>Connection</h3><p>Create and copy SSH key:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ ssh-keygen -t rsa -C <span class="string">&quot;GitHub email&quot;</span></span><br><span class="line">$ <span class="built_in">cd</span> ~/.ssh</span><br><span class="line">$ vim id_rsa.pub</span><br></pre></td></tr></table></figure>
 <p>Copy the contents</p>
 <p>Go to Github -&gt; Settings and Add SSH key</p>
 <p>Confirm the connection:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ ssh -T git@github.com</span><br></pre></td></tr></table></figure>
 
-<h3><span id="setup-github-pages-repository">Setup Github Pages repository</span></h3><p>Create Username.github.io(your URL)</p>
-<h2><span id="install-hexo">Install Hexo</span></h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+<h3 id="Setup-Github-Pages-repository"><a href="#Setup-Github-Pages-repository" class="headerlink" title="Setup Github Pages repository"></a>Setup Github Pages repository</h3><p>Create Username.github.io(your URL)</p>
+<h2 id="Install-Hexo"><a href="#Install-Hexo" class="headerlink" title="Install Hexo"></a>Install Hexo</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
 
 <p>Setup a local workspace:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ git init</span><br><span class="line">$ hexo init</span><br><span class="line">$ npm install</span><br></pre></td></tr></table></figure>
@@ -68,7 +68,7 @@
 <p>or use following command to specify port:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server -p 5000</span><br></pre></td></tr></table></figure>
 <p>visit <a target="_blank" rel="noopener" href="http://localhost:4000/">http://localhost:4000</a></p>
-<h2><span id="deploy-to-github-server">Deploy to Github server</span></h2><p>Install hexo-developer-git:</p>
+<h2 id="Deploy-to-Github-server"><a href="#Deploy-to-Github-server" class="headerlink" title="Deploy to Github server"></a>Deploy to Github server</h2><p>Install hexo-developer-git:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
 
 <p>edit _config file’s <em>Deployment</em> part:</p>
