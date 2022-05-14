@@ -1,0 +1,152 @@
+\documentclass{article}
+\usepackage{
+    amsthm,
+    amsmath,
+    amssymb,
+    mathtools
+}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[subsection]
+\newtheorem{theorem}{Theorem}
+
+\begin{document}
+
+\section{Basic Set Theory}
+
+Paul R.~Halmos, Naive Set Theory.
+\begin{definition}[Set]
+    A set is an unordered colleciton of distinct objects, called \emph{elements} or \emph{menbers} of the set. A set is said to contain its elements. We write
+    \begin{itemize}
+        \item $a \in A$ if $a$ is an element of the set $A$.
+    \end{itemize}
+\end{definition}
+\subsection{Set Operation}
+\begin{align*}
+    U & = \{x \mid x \in X, x \in \mathbb{C} \} \\
+      & = U_{x \in C}C
+\end{align*}
+
+\subsubsection{Set difference}
+The set difference of A and B ,denoted by $A-B$, or $A \backslash B$
+\subsubsection{Symmetric Difference}
+\begin{equation}
+    A \Delta B = (A-B)\cup(B-A)
+\end{equation}
+
+\subsubsection{Power Set}
+The power set of A is the set of all subsets of A, denoted by $\mathcal{P}(A)$ or $2^A$
+
+\subsubsection{Set Algebras}
+De Morgan's Laws
+\begin{itemize}
+    \item $C - (A \cup B) = (C-A) \cap (C-B)$
+    \item $C - (A \cap B) = (C-A) \cup (C-B) $
+\end{itemize}
+
+\subsubsection{Cartesian Product}
+\begin{definition}[Cartesian]
+    The Cartesian product of sets A and B is the set of ordered pairs, such that
+    \begin{equation}
+        A \times B = \{ (a,b) \mid a \in A, b \in B \}
+    \end{equation}
+\end{definition}
+\begin{definition}[Cartesian]
+    By Kuratowski\\
+    An ordered pair $(a,b)$ is given by
+    \begin{equation}
+        (a,b):=\{ \{a\}, \{a,b\} \}
+    \end{equation}
+\end{definition}
+\begin{theorem}[Cartesian]
+    If $a \in C$ and $b \in C$, then $(a,b) = \mathcal{P}(\mathcal{P}(C))$.\\
+    If $a \in A, b \in B$, then take $C = A \cup B$
+\end{theorem}
+\begin{theorem}[Cartesian]
+    $(x,y)=(a,b)$ \it{iff} $x=a$ and $y=b$
+\end{theorem}
+\boldmath{Proof}
+\begin{itemize}
+    \item $\Leftarrow$: Trival
+    \item $\Rightarrow$: By definition, we need to show that:
+       \begin{equation}
+           \underbrace{\{\{x\},\{x,y\}\}}_{{}U} = \underbrace{\{\{a\},\{a,b\}\}}_{{}V} \Rightarrow x=a\; and\; y=b
+       \end{equation} 
+       \begin{itemize}
+           \item If $x \neq y$, then $\lvert U \rvert  = \lvert V\rvert = 2$, by matching size, we have $\{x\}=\{a\} \; \{y\}=\{b\}$
+           \item If $x=y$, similarly $x=y=a=b$
+       \end{itemize}
+\end{itemize}
+Note: a definitio of ordered pairs is rational as long as it can indicate order.
+\subsubsection{Associative Set Operations}
+Let $A_1,A_1,\dotsm,A_n$ be sets, then
+\begin{itemize}
+    \item $A_1 \cap A_2 \cap \dotsm \cap A_n = \mathop{\cap}\limits_{i=1}^{n}A_i$
+    \item for $\cup,\times,\Delta$ are the same.
+\end{itemize}
+\subsection{Simple Graphs}
+k-element subsets\\
+Let X be a finit set. For a positive integer k, let $\tbinom{X}{k}$ denote the set of all k-element subsets. Note that $\lvert \tbinom{X}{k}\rvert = \tbinom{\lvert X\rvert}{k}$
+\begin{definition}[Graph]
+    A finit simple \it{graph} $G$ is a pair $(V,E)$ where V is a non-empty finit set and E is a set of 2-element subsets of V, i.e., $E \in \tbinom{V}{2}$
+    Elements of V called vertics, also denoted as $V(G)$.
+    Elements of E called edges,also denoed as $E(G)$.
+\end{definition}
+
+\section{Logic}
+\subsection{CNF and DNF}
+\begin{itemize}
+    \item Conjunctive Normal Form (CNF):\\
+        a junction of one or more clauses, where a clause is a disjunction of literals\\
+        like \textbf{roduct of sums} or \textbf{AND of ORs}
+    \item Disjunction Normal Forn (DNF):\\
+        like \textbf{sum of products} or \textbf{OR of ANDs}
+\end{itemize}
+\subsection{Conditional Statements}
+\begin{table}[h]
+    \centering
+    \caption{Conditional truth table}
+
+    \begin{tabular}{|c|c|c|}
+        \hline  $p$   &   $q$   &   $p \rightarrow q$   \\
+        \hline  0   &   0   &   1   \\
+        \hline  0   &   1   &   1   \\
+        \hline  1   &   0   &   0   \\
+        \hline  1   &   1   &   1   \\
+        \hline
+    \end{tabular}
+\end{table}
+\begin{itemize}
+    \item $p$: hyposhesis
+    \item $q$: thesis/conclusion
+\end{itemize}
+\textbf{Equivalent forms}
+\begin{itemize}
+    \item if p, then q
+    \item q is a sufficient condition for q
+    \item q is necessary for p
+\end{itemize}
+\textbf{remark}
+\begin{itemize}
+    \item either $p$ is false
+    \item or $q$ is true
+    \item i.e. $\neg p \lor q$
+    \item same as $\neg q \rightarrow \neg p$
+\end{itemize}
+\subsection{Tautology and Contradiction}
+\begin{itemize}
+    \item Tautology: All cases evaluates to 1.
+    \item Contradiction: All cases evaluates to 0.
+\end{itemize}
+\subsubsection{Tautological Equivalence}
+\begin{itemize}
+    \item Absorption
+        \begin{align*}
+            &   p \land (p \lor q) \Leftrightarrow p    \\
+            &   p \lor (p \land q) \Leftrightarrow p
+        \end{align*}
+\end{itemize}
+
+
+
+\end{document}
