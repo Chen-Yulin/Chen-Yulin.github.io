@@ -1,10 +1,13 @@
+http://chen-yulin.github.io/2023/05/08/obsidian/WoodOxen/WeeklyProgress/m1/
 http://chen-yulin.github.io/2023/05/11/obsidian/SmartCity/autonomousDriving/
+http://chen-yulin.github.io/2023/06/07/obsidian/QuantumInformation/basic/
+http://chen-yulin.github.io/2023/06/07/obsidian/IPP_Robot_Motion_Planning/Human%20motion%20prediction/
+http://chen-yulin.github.io/2023/06/07/obsidian/[Human3.6M/
 http://chen-yulin.github.io/2023/05/09/obsidian/Git/merge/
 http://chen-yulin.github.io/2023/05/11/obsidian/EmbededSystem/basic/
 http://chen-yulin.github.io/2023/05/10/%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%EF%BC%8C%E8%AF%BB%E7%82%B9%E4%B9%A6%E5%90%A7/
 http://chen-yulin.github.io/2023/05/08/obsidian/XbortPark/Lecture/March21/
 http://chen-yulin.github.io/2023/05/08/obsidian/AI/AIGC/March24/
-http://chen-yulin.github.io/2023/05/08/obsidian/WoodOxen/WeeklyProgress/m1/
 http://chen-yulin.github.io/2023/05/08/obsidian/WoodOxen/UnityRef/
 http://chen-yulin.github.io/2023/05/08/obsidian/WoodOxen/RoadArchitect/
 http://chen-yulin.github.io/2023/05/08/obsidian/Unity/Prefab/
@@ -92,6 +95,7 @@ http://chen-yulin.github.io/tags/git/
 http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
+http://chen-yulin.github.io/tags/RNN/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/ML/
@@ -116,6 +120,7 @@ http://chen-yulin.github.io/tags/bs4/
 http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
+http://chen-yulin.github.io/tags/Quantum-Information/
 http://chen-yulin.github.io/tags/SQL/
 http://chen-yulin.github.io/tags/Shader/
 http://chen-yulin.github.io/tags/autonomousDriving/
