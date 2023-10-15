@@ -74,8 +74,8 @@ http://chen-yulin.github.io/tags/Python/
 http://chen-yulin.github.io/tags/CNN/
 http://chen-yulin.github.io/tags/Haskell/
 http://chen-yulin.github.io/tags/Functional-programming/
-http://chen-yulin.github.io/tags/Hexo/
 http://chen-yulin.github.io/tags/WSL/
+http://chen-yulin.github.io/tags/Hexo/
 http://chen-yulin.github.io/tags/Github/
 http://chen-yulin.github.io/tags/Javascript/
 http://chen-yulin.github.io/tags/HTML/
@@ -125,8 +125,8 @@ http://chen-yulin.github.io/tags/bs4/
 http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
-http://chen-yulin.github.io/tags/Quantum-Information/
 http://chen-yulin.github.io/tags/SQL/
+http://chen-yulin.github.io/tags/Quantum-Information/
 http://chen-yulin.github.io/tags/Shader/
 http://chen-yulin.github.io/tags/Control/
 http://chen-yulin.github.io/tags/autonomousDriving/
