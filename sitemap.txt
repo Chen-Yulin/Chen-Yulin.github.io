@@ -119,10 +119,10 @@ http://chen-yulin.github.io/tags/Postgraduate/
 http://chen-yulin.github.io/tags/dataframe/
 http://chen-yulin.github.io/tags/python/
 http://chen-yulin.github.io/tags/pandas/
+http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/scrap/
 http://chen-yulin.github.io/tags/html/
 http://chen-yulin.github.io/tags/bs4/
-http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
 http://chen-yulin.github.io/tags/Quantum-Information/
