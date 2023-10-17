@@ -87,12 +87,12 @@ http://chen-yulin.github.io/tags/SJTU-Lecture/
 http://chen-yulin.github.io/tags/Tech-Communication/
 http://chen-yulin.github.io/tags/Discrete-Mathematics/
 http://chen-yulin.github.io/tags/Signals-and-Systems/
-http://chen-yulin.github.io/tags/Probability/
 http://chen-yulin.github.io/tags/Plugin/
 http://chen-yulin.github.io/tags/Vim/
 http://chen-yulin.github.io/tags/Snippets/
 http://chen-yulin.github.io/tags/Reading/
 http://chen-yulin.github.io/tags/emotion/
+http://chen-yulin.github.io/tags/Probability/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Embeded-System/
