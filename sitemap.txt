@@ -1,4 +1,4 @@
-http://chen-yulin.github.io/2023/10/14/%E6%9C%80%E6%98%AF%E4%BA%BA%E9%97%B4%E7%95%99%E4%B8%8D%E4%BD%8F/
+http://chen-yulin.github.io/2023/10/14/%E4%B8%89%E5%8D%83%E5%BC%B1%E6%B0%B4%E6%9C%80%E6%BE%84%E6%BE%88%E7%9A%84%E9%82%A3%E4%B8%80%E7%89%87/
 http://chen-yulin.github.io/2023/05/08/obsidian/Unity/Prefab/
 http://chen-yulin.github.io/2023/06/07/obsidian/IPP_Robot_Motion_Planning/Human%20motion%20prediction/
 http://chen-yulin.github.io/2023/07/22/obsidian/SmartCity/Aircraft%20control%20policy/
@@ -87,12 +87,12 @@ http://chen-yulin.github.io/tags/SJTU-Lecture/
 http://chen-yulin.github.io/tags/Tech-Communication/
 http://chen-yulin.github.io/tags/Discrete-Mathematics/
 http://chen-yulin.github.io/tags/Signals-and-Systems/
+http://chen-yulin.github.io/tags/Probability/
 http://chen-yulin.github.io/tags/Plugin/
 http://chen-yulin.github.io/tags/Vim/
 http://chen-yulin.github.io/tags/Snippets/
-http://chen-yulin.github.io/tags/Reading/
 http://chen-yulin.github.io/tags/emotion/
-http://chen-yulin.github.io/tags/Probability/
+http://chen-yulin.github.io/tags/Reading/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Embeded-System/
