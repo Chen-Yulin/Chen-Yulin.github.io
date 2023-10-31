@@ -1105,13 +1105,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/nvim/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1120,6 +1113,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/plugin/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
