@@ -524,7 +524,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/04/11/How-I-set-up-my-blog-site/</loc>
+    <loc>http://chen-yulin.github.io/2022/05/11/Latex-Symbol/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -533,7 +533,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/05/11/Latex-Symbol/</loc>
+    <loc>http://chen-yulin.github.io/2022/04/11/How-I-set-up-my-blog-site/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -657,6 +657,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Hexo/</loc>
+    <lastmod>2023-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/Haskell/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -671,7 +678,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Hexo/</loc>
+    <loc>http://chen-yulin.github.io/tags/Latex/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -700,13 +707,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Web/</loc>
-    <lastmod>2023-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Latex/</loc>
     <lastmod>2023-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
