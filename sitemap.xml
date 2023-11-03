@@ -542,6 +542,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2022/04/29/Haskell-Study-Note/</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2022/04/23/CADC-Ground-Investigation-Visual-Solution/</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -552,15 +561,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2022/05/13/Check-for-WSL-GUI-Service/</loc>
-    
-    <lastmod>2023-05-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2022/04/29/Haskell-Study-Note/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -615,6 +615,20 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Haskell/</loc>
+    <lastmod>2023-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Functional-programming/</loc>
+    <lastmod>2023-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/CADC/</loc>
     <lastmod>2023-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -651,20 +665,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/WSL/</loc>
-    <lastmod>2023-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Haskell/</loc>
-    <lastmod>2023-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Functional-programming/</loc>
     <lastmod>2023-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1240,6 +1240,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/categories/Note/</loc>
+    <lastmod>2023-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/categories/Review/</loc>
     <lastmod>2023-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -1248,13 +1255,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/categories/Guide/</loc>
-    <lastmod>2023-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/categories/Note/</loc>
     <lastmod>2023-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
