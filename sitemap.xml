@@ -960,13 +960,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Postgraduate/</loc>
-    <lastmod>2023-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/dataframe/</loc>
     <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -1024,6 +1017,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/numpy/</loc>
+    <lastmod>2023-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Postgraduate/</loc>
     <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
