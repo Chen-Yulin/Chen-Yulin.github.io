@@ -918,13 +918,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Postgraduate/</loc>
-    <lastmod>2023-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/PSY/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -967,6 +960,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Postgraduate/</loc>
+    <lastmod>2023-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/dataframe/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -988,6 +988,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/regex/</loc>
+    <lastmod>2023-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/scrap/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1003,13 +1010,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/bs4/</loc>
-    <lastmod>2023-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/regex/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1065,6 +1065,20 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/TOEFL/</loc>
+    <lastmod>2023-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/oral/</loc>
+    <lastmod>2023-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/Prefab/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1094,20 +1108,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/beautify/</loc>
-    <lastmod>2023-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/TOEFL/</loc>
-    <lastmod>2023-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/oral/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
