@@ -806,6 +806,20 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/recursive/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -828,20 +842,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/version-management/</loc>
-    <lastmod>2023-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
-    <lastmod>2023-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/recursive/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -904,20 +904,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/math/</loc>
-    <lastmod>2023-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/LinearAlgebra/</loc>
-    <lastmod>2023-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/PSY/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -926,6 +912,20 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/motivation/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/math/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/LinearAlgebra/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1016,13 +1016,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Quantum-Information/</loc>
-    <lastmod>2023-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/sklearn/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -1031,6 +1024,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/numpy/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Quantum-Information/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1114,6 +1114,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/nvim/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -1122,13 +1129,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/plugin/</loc>
-    <lastmod>2023-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
