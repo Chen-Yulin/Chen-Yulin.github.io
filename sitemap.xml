@@ -13,7 +13,7 @@
   <url>
     <loc>http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/</loc>
     
-    <lastmod>2023-12-17</lastmod>
+    <lastmod>2023-12-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -560,7 +560,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/05/13/Check-for-WSL-GUI-Service/</loc>
+    <loc>http://chen-yulin.github.io/2022/04/29/Haskell-Study-Note/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/04/29/Haskell-Study-Note/</loc>
+    <loc>http://chen-yulin.github.io/2022/05/13/Check-for-WSL-GUI-Service/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -659,13 +659,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/WSL/</loc>
-    <lastmod>2023-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Haskell/</loc>
     <lastmod>2023-12-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -715,7 +708,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Latex/</loc>
+    <loc>http://chen-yulin.github.io/tags/WSL/</loc>
     <lastmod>2023-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -723,6 +716,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/ROS/</loc>
+    <lastmod>2023-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Latex/</loc>
     <lastmod>2023-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -792,14 +792,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Reading/</loc>
+    <loc>http://chen-yulin.github.io/tags/emotion/</loc>
     <lastmod>2023-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/emotion/</loc>
+    <loc>http://chen-yulin.github.io/tags/Reading/</loc>
     <lastmod>2023-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1256,14 +1256,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Guide/</loc>
+    <loc>http://chen-yulin.github.io/categories/Note/</loc>
     <lastmod>2023-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Note/</loc>
+    <loc>http://chen-yulin.github.io/categories/Guide/</loc>
     <lastmod>2023-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
