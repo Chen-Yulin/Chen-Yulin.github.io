@@ -1165,20 +1165,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/GPT/</loc>
-    <lastmod>2023-12-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Method/</loc>
-    <lastmod>2023-12-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/AIGC/</loc>
     <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1187,6 +1173,20 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/meeting/</loc>
+    <lastmod>2023-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/GPT/</loc>
+    <lastmod>2023-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Method/</loc>
     <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
