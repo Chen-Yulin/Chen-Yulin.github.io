@@ -1,6 +1,6 @@
+http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/
 http://chen-yulin.github.io/2023/10/14/%E4%B8%89%E5%8D%83%E5%BC%B1%E6%B0%B4%E6%9C%80%E6%BE%84%E6%BE%88%E7%9A%84%E9%82%A3%E4%B8%80%E7%89%87/
 http://chen-yulin.github.io/2023/12/31/2023-Review/
-http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/
 http://chen-yulin.github.io/2023/12/23/obsidian/Travel/2023%20Christmas/
 http://chen-yulin.github.io/2023/05/08/obsidian/Unity/Prefab/
 http://chen-yulin.github.io/2023/06/07/obsidian/IPP_Robot_Motion_Planning/Human%20motion%20prediction/
@@ -143,8 +143,8 @@ http://chen-yulin.github.io/tags/window-manager/
 http://chen-yulin.github.io/tags/beautify/
 http://chen-yulin.github.io/tags/ssh/
 http://chen-yulin.github.io/tags/nvim/
-http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/plugin/
+http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/AI/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
