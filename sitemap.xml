@@ -13,7 +13,7 @@
   <url>
     <loc>http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/</loc>
     
-    <lastmod>2024-01-12</lastmod>
+    <lastmod>2024-01-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -632,6 +632,34 @@
 
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Game/</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Mod/</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Unity/</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/CSharp/</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/CADC/</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -661,34 +689,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/CNN/</loc>
-    <lastmod>2024-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Game/</loc>
-    <lastmod>2024-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Mod/</loc>
-    <lastmod>2024-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Unity/</loc>
-    <lastmod>2024-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/CSharp/</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -870,14 +870,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/version-management/</loc>
+    <loc>http://chen-yulin.github.io/tags/repository/</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/repository/</loc>
+    <loc>http://chen-yulin.github.io/tags/version-management/</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1285,14 +1285,14 @@
 
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Review/</loc>
+    <loc>http://chen-yulin.github.io/categories/Record/</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Record/</loc>
+    <loc>http://chen-yulin.github.io/categories/Review/</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
