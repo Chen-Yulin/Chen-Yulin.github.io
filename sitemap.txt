@@ -161,8 +161,8 @@ http://chen-yulin.github.io/tags/operational-ability/
 http://chen-yulin.github.io/tags/academic-ability/
 http://chen-yulin.github.io/tags/mason/
 http://chen-yulin.github.io/tags/LSP/
-http://chen-yulin.github.io/categories/Record/
 http://chen-yulin.github.io/categories/Review/
+http://chen-yulin.github.io/categories/Record/
 http://chen-yulin.github.io/categories/Guide/
 http://chen-yulin.github.io/categories/Note/
 http://chen-yulin.github.io/categories/Reference/
