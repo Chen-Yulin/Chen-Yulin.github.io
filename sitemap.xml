@@ -587,7 +587,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/05/13/Check-for-WSL-GUI-Service/</loc>
+    <loc>http://chen-yulin.github.io/2022/04/23/CADC-Ground-Investigation-Visual-Solution/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -596,7 +596,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/04/23/CADC-Ground-Investigation-Visual-Solution/</loc>
+    <loc>http://chen-yulin.github.io/2022/05/13/Check-for-WSL-GUI-Service/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -660,13 +660,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/WSL/</loc>
-    <lastmod>2024-01-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/CADC/</loc>
     <lastmod>2024-01-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -696,6 +689,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/CNN/</loc>
+    <lastmod>2024-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/WSL/</loc>
     <lastmod>2024-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -856,13 +856,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
-    <lastmod>2024-01-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/git/</loc>
     <lastmod>2024-01-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -871,6 +864,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/repository/</loc>
+    <lastmod>2024-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
