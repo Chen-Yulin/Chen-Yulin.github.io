@@ -828,14 +828,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/emotion/</loc>
+    <loc>http://chen-yulin.github.io/tags/Reading/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Reading/</loc>
+    <loc>http://chen-yulin.github.io/tags/emotion/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1052,6 +1052,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Quantum-Information/</loc>
+    <lastmod>2024-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/sklearn/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1060,13 +1067,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/numpy/</loc>
-    <lastmod>2024-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Quantum-Information/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
