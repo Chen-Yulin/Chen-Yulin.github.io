@@ -96,8 +96,8 @@ http://chen-yulin.github.io/tags/Probability/
 http://chen-yulin.github.io/tags/Plugin/
 http://chen-yulin.github.io/tags/Vim/
 http://chen-yulin.github.io/tags/Snippets/
-http://chen-yulin.github.io/tags/Reading/
 http://chen-yulin.github.io/tags/emotion/
+http://chen-yulin.github.io/tags/Reading/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Embeded-System/
@@ -108,6 +108,10 @@ http://chen-yulin.github.io/tags/submodule/
 http://chen-yulin.github.io/tags/RNN/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/idea/
+http://chen-yulin.github.io/tags/ML/
+http://chen-yulin.github.io/tags/supervised-learning/
+http://chen-yulin.github.io/tags/unsupervised-learning/
+http://chen-yulin.github.io/tags/reinforcement-learning/
 http://chen-yulin.github.io/tags/math/
 http://chen-yulin.github.io/tags/LinearAlgebra/
 http://chen-yulin.github.io/tags/PSY/
@@ -116,10 +120,6 @@ http://chen-yulin.github.io/tags/well-being/
 http://chen-yulin.github.io/tags/health/
 http://chen-yulin.github.io/tags/Behaviorism/
 http://chen-yulin.github.io/tags/Humanism/
-http://chen-yulin.github.io/tags/ML/
-http://chen-yulin.github.io/tags/supervised-learning/
-http://chen-yulin.github.io/tags/unsupervised-learning/
-http://chen-yulin.github.io/tags/reinforcement-learning/
 http://chen-yulin.github.io/tags/Postgraduate/
 http://chen-yulin.github.io/tags/dataframe/
 http://chen-yulin.github.io/tags/python/
@@ -138,8 +138,8 @@ http://chen-yulin.github.io/tags/autonomousDriving/
 http://chen-yulin.github.io/tags/TOEFL/
 http://chen-yulin.github.io/tags/oral/
 http://chen-yulin.github.io/tags/Prefab/
-http://chen-yulin.github.io/tags/travel/
 http://chen-yulin.github.io/tags/reference/
+http://chen-yulin.github.io/tags/travel/
 http://chen-yulin.github.io/tags/linux/
 http://chen-yulin.github.io/tags/window-manager/
 http://chen-yulin.github.io/tags/beautify/

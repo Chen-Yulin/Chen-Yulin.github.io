@@ -828,14 +828,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Reading/</loc>
+    <loc>http://chen-yulin.github.io/tags/emotion/</loc>
     <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/emotion/</loc>
+    <loc>http://chen-yulin.github.io/tags/Reading/</loc>
     <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -912,6 +912,34 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/ML/</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/supervised-learning/</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/unsupervised-learning/</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/math/</loc>
     <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -962,34 +990,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Humanism/</loc>
-    <lastmod>2024-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/ML/</loc>
-    <lastmod>2024-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/supervised-learning/</loc>
-    <lastmod>2024-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/unsupervised-learning/</loc>
-    <lastmod>2024-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1122,14 +1122,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/travel/</loc>
+    <loc>http://chen-yulin.github.io/tags/reference/</loc>
     <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/reference/</loc>
+    <loc>http://chen-yulin.github.io/tags/travel/</loc>
     <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
