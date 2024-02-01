@@ -148,9 +148,9 @@ http://chen-yulin.github.io/tags/nvim/
 http://chen-yulin.github.io/tags/plugin/
 http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/AI/
+http://chen-yulin.github.io/tags/GPT/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
-http://chen-yulin.github.io/tags/GPT/
 http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/json/
 http://chen-yulin.github.io/tags/csharp/
