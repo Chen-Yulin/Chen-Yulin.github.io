@@ -4,7 +4,7 @@
   <url>
     <loc>http://chen-yulin.github.io/2023/10/14/%E4%B8%89%E5%8D%83%E5%BC%B1%E6%B0%B4%E6%9C%80%E6%BE%84%E6%BE%88%E7%9A%84%E9%82%A3%E4%B8%80%E7%89%87/</loc>
     
-    <lastmod>2024-03-17</lastmod>
+    <lastmod>2024-03-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -515,15 +515,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/04/12/ROS-Org-note/</loc>
-    
-    <lastmod>2023-05-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2022/04/15/ROS-Publisher/</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -533,7 +524,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/04/12/Regular-Expression/</loc>
+    <loc>http://chen-yulin.github.io/2022/04/12/ROS-Org-note/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -543,6 +534,15 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2022/04/16/ROS-Subscriber/</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2022/04/12/Regular-Expression/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -623,7 +623,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/04/29/Haskell-Study-Note/</loc>
+    <loc>http://chen-yulin.github.io/2022/05/13/Check-for-WSL-GUI-Service/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -632,7 +632,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/05/13/Check-for-WSL-GUI-Service/</loc>
+    <loc>http://chen-yulin.github.io/2022/04/29/Haskell-Study-Note/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -722,6 +722,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/WSL/</loc>
+    <lastmod>2024-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/Haskell/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -730,13 +737,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Functional-programming/</loc>
-    <lastmod>2024-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/WSL/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -827,6 +827,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Probability/</loc>
+    <lastmod>2024-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/Plugin/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -848,13 +855,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Probability/</loc>
-    <lastmod>2024-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/emotion/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -869,20 +869,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/AI/</loc>
-    <lastmod>2024-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
-    <lastmod>2024-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -891,6 +877,20 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/recursive/</loc>
+    <lastmod>2024-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AI/</loc>
+    <lastmod>2024-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -953,6 +953,20 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/math/</loc>
+    <lastmod>2024-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/LinearAlgebra/</loc>
+    <lastmod>2024-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/ML/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -975,20 +989,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2024-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/math/</loc>
-    <lastmod>2024-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/LinearAlgebra/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1333,14 +1333,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Note/</loc>
+    <loc>http://chen-yulin.github.io/categories/Guide/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Guide/</loc>
+    <loc>http://chen-yulin.github.io/categories/Note/</loc>
     <lastmod>2024-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
