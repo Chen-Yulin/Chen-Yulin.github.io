@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/03/18/obsidian/AI/Wechat%20bot/</loc>
+    <loc>http://chen-yulin.github.io/2024/03/18/%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%8A%B1%E7%B4%A7%E6%9C%80%E7%88%B1%E7%9A%84%E4%BD%A0/</loc>
     
     <lastmod>2024-03-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/03/18/%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%8A%B1%E7%B4%A7%E6%9C%80%E7%88%B1%E7%9A%84%E4%BD%A0/</loc>
+    <loc>http://chen-yulin.github.io/2024/03/18/obsidian/AI/Wechat%20bot/</loc>
     
     <lastmod>2024-03-21</lastmod>
     
@@ -569,6 +569,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2022/04/16/ROS-Subscriber/</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2022/04/12/Regular-Expression/</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -579,15 +588,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2022/05/09/TC300-note/</loc>
-    
-    <lastmod>2023-05-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2022/04/16/ROS-Subscriber/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -623,7 +623,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2022/04/11/How-I-set-up-my-blog-site/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/06/Hexo-start/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -632,7 +632,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/06/Hexo-start/</loc>
+    <loc>http://chen-yulin.github.io/2022/04/11/How-I-set-up-my-blog-site/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -765,14 +765,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Haskell/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Functional-programming/</loc>
+    <loc>http://chen-yulin.github.io/tags/Hexo/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -780,13 +773,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Github/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Hexo/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -863,13 +849,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Probability/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Plugin/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -885,6 +864,27 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Snippets/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Probability/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Haskell/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Functional-programming/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -926,13 +926,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/app/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -941,6 +934,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/python/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1136,6 +1136,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/regex/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/sklearn/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -1151,13 +1158,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Quantum-Information/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/regex/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1248,6 +1248,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/nvim/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -1262,21 +1269,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/path/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/GPT/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1291,6 +1284,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/meeting/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/GPT/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1390,14 +1390,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Note/</loc>
+    <loc>http://chen-yulin.github.io/categories/Reference/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Reference/</loc>
+    <loc>http://chen-yulin.github.io/categories/Note/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
