@@ -1,5 +1,6 @@
-http://chen-yulin.github.io/2024/03/18/obsidian/AI/Wechat%20bot/
+http://chen-yulin.github.io/2024/03/21/obsidian/ENGR496%20Note/
 http://chen-yulin.github.io/2024/03/18/%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%8A%B1%E7%B4%A7%E6%9C%80%E7%88%B1%E7%9A%84%E4%BD%A0/
+http://chen-yulin.github.io/2024/03/18/obsidian/AI/Wechat%20bot/
 http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/
 http://chen-yulin.github.io/2024/03/18/%E4%BC%98%E9%9B%85%E7%9A%84%E8%BE%A9%E8%AE%BA-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/
 http://chen-yulin.github.io/2023/10/14/%E4%B8%89%E5%8D%83%E5%BC%B1%E6%B0%B4%E6%9C%80%E6%BE%84%E6%BE%88%E7%9A%84%E9%82%A3%E4%B8%80%E7%89%87/
@@ -59,8 +60,8 @@ http://chen-yulin.github.io/2023/05/08/obsidian/AI/GPT/method/
 http://chen-yulin.github.io/2023/05/08/obsidian/AI/GPT/app/
 http://chen-yulin.github.io/2022/04/12/VIM-Snippets-Customization/
 http://chen-yulin.github.io/2022/04/12/ROS-Org-note/
-http://chen-yulin.github.io/2022/04/16/ROS-Subscriber/
 http://chen-yulin.github.io/2022/04/15/ROS-Publisher/
+http://chen-yulin.github.io/2022/04/16/ROS-Subscriber/
 http://chen-yulin.github.io/2022/04/12/Regular-Expression/
 http://chen-yulin.github.io/2022/05/09/TC300-note/
 http://chen-yulin.github.io/2022/05/14/VE203-Note/
@@ -105,6 +106,8 @@ http://chen-yulin.github.io/tags/Snippets/
 http://chen-yulin.github.io/tags/emotion/
 http://chen-yulin.github.io/tags/Reading/
 http://chen-yulin.github.io/tags/Debate/
+http://chen-yulin.github.io/tags/Prefab/
+http://chen-yulin.github.io/tags/ethic/
 http://chen-yulin.github.io/tags/AI/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
@@ -116,8 +119,8 @@ http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
 http://chen-yulin.github.io/tags/Embeded-System/
-http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/RNN/
+http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/supervised-learning/
 http://chen-yulin.github.io/tags/unsupervised-learning/
@@ -131,6 +134,7 @@ http://chen-yulin.github.io/tags/health/
 http://chen-yulin.github.io/tags/Behaviorism/
 http://chen-yulin.github.io/tags/Humanism/
 http://chen-yulin.github.io/tags/Postgraduate/
+http://chen-yulin.github.io/tags/Quantum-Information/
 http://chen-yulin.github.io/tags/dataframe/
 http://chen-yulin.github.io/tags/pandas/
 http://chen-yulin.github.io/tags/scrap/
@@ -139,7 +143,6 @@ http://chen-yulin.github.io/tags/bs4/
 http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
-http://chen-yulin.github.io/tags/Quantum-Information/
 http://chen-yulin.github.io/tags/SQL/
 http://chen-yulin.github.io/tags/Shader/
 http://chen-yulin.github.io/tags/Control/
@@ -147,15 +150,14 @@ http://chen-yulin.github.io/tags/autonomousDriving/
 http://chen-yulin.github.io/tags/TOEFL/
 http://chen-yulin.github.io/tags/oral/
 http://chen-yulin.github.io/tags/travel/
-http://chen-yulin.github.io/tags/Prefab/
+http://chen-yulin.github.io/tags/reference/
 http://chen-yulin.github.io/tags/linux/
 http://chen-yulin.github.io/tags/window-manager/
 http://chen-yulin.github.io/tags/beautify/
-http://chen-yulin.github.io/tags/reference/
 http://chen-yulin.github.io/tags/ssh/
 http://chen-yulin.github.io/tags/nvim/
-http://chen-yulin.github.io/tags/plugin/
 http://chen-yulin.github.io/tags/path/
+http://chen-yulin.github.io/tags/plugin/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
 http://chen-yulin.github.io/tags/GPT/
