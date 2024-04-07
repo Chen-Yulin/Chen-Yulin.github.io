@@ -45,8 +45,8 @@ http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Emotion&Motivation/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Health&Well-Being/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Learning/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/MessageToMyself/
-http://chen-yulin.github.io/2023/05/10/obsidian/SQL/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/SQL/pandas/
+http://chen-yulin.github.io/2023/05/10/obsidian/SQL/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/WM/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/ssh/
@@ -112,9 +112,9 @@ http://chen-yulin.github.io/tags/debate/
 http://chen-yulin.github.io/tags/hexo/
 http://chen-yulin.github.io/tags/ethic/
 http://chen-yulin.github.io/tags/AI/
-http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
+http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Embeded-System/
