@@ -45,8 +45,8 @@ http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Emotion&Motivation/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Health&Well-Being/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Learning/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/MessageToMyself/
-http://chen-yulin.github.io/2023/05/10/obsidian/SQL/pandas/
 http://chen-yulin.github.io/2023/05/10/obsidian/SQL/basic/
+http://chen-yulin.github.io/2023/05/10/obsidian/SQL/pandas/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/WM/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/ssh/
