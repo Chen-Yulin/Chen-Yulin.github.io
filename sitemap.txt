@@ -188,6 +188,5 @@ http://chen-yulin.github.io/categories/Record/
 http://chen-yulin.github.io/categories/Guide/
 http://chen-yulin.github.io/categories/Note/
 http://chen-yulin.github.io/categories/Reference/
-http://chen-yulin.github.io/categories/LoveLove/
-http://chen-yulin.github.io/categories/Essay/
 http://chen-yulin.github.io/categories/%E7%94%9C%E7%94%9C%E7%9A%84%E6%81%8B%E7%88%B1%E6%97%A5%E8%AE%B0%E5%91%80/
+http://chen-yulin.github.io/categories/Essay/
