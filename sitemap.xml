@@ -961,14 +961,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Reading/</loc>
+    <loc>http://chen-yulin.github.io/tags/debate/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/debate/</loc>
+    <loc>http://chen-yulin.github.io/tags/Reading/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1017,13 +1017,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
-    <lastmod>2024-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -1032,6 +1025,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/recursive/</loc>
+    <lastmod>2024-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1066,14 +1066,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/idea/</loc>
+    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
+    <loc>http://chen-yulin.github.io/tags/idea/</loc>
     <lastmod>2024-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
