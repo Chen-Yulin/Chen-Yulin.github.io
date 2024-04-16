@@ -32,8 +32,8 @@ http://chen-yulin.github.io/2023/05/10/obsidian/IPP_Robot_Motion_Planning/Human%
 http://chen-yulin.github.io/2023/05/10/obsidian/nvim/InterestingPlugin/
 http://chen-yulin.github.io/2023/05/10/obsidian/nvim/stdpath/
 http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/config/
-http://chen-yulin.github.io/2023/05/10/obsidian/AI/GPT/app/
 http://chen-yulin.github.io/2023/05/10/obsidian/AI/GPT/method/
+http://chen-yulin.github.io/2023/05/10/obsidian/AI/GPT/app/
 http://chen-yulin.github.io/2023/05/10/obsidian/Python/DataFrame/
 http://chen-yulin.github.io/2023/05/10/obsidian/Python/Scrap/
 http://chen-yulin.github.io/2023/05/10/obsidian/Shader/SemanticSegmentation/
