@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chen-yulin.github.io/2024/04/18/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E8%BE%B9%E5%9F%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap3/</loc>
+    
+    <lastmod>2024-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2024/03/18/%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%8A%B1%E7%B4%A7%E6%B8%A9%E6%9A%96/</loc>
     
     <lastmod>2024-04-18</lastmod>
@@ -524,7 +533,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Idea/app/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/ML/basic/</loc>
     
     <lastmod>2024-04-05</lastmod>
     
@@ -533,7 +542,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/ML/basic/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Idea/app/</loc>
     
     <lastmod>2024-04-05</lastmod>
     
@@ -1019,6 +1028,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
+    <lastmod>2024-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1033,14 +1049,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
+    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1075,20 +1091,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
-    <lastmod>2024-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/idea/</loc>
-    <lastmod>2024-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/ML/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1111,6 +1113,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2024-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/idea/</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
