@@ -1,5 +1,6 @@
-http://chen-yulin.github.io/2024/01/02/%E6%BD%AE%E6%B1%90%E9%94%81%E5%AE%9A/
+http://chen-yulin.github.io/2024/04/25/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%80%E7%89%87%E8%8D%92%E5%8E%9F/
 http://chen-yulin.github.io/2024/03/18/%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%8A%B1%E7%B4%A7%E6%B8%A9%E6%9A%96/
+http://chen-yulin.github.io/2024/01/02/%E6%BD%AE%E6%B1%90%E9%94%81%E5%AE%9A/
 http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/
 http://chen-yulin.github.io/2024/04/20/obsidian/Docusaurus/
 http://chen-yulin.github.io/2024/04/19/obsidian/Shell/Automate%20OpenROAD%20testing/
@@ -60,8 +61,8 @@ http://chen-yulin.github.io/2023/05/10/obsidian/SQL/pandas/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/WM/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/ssh/
-http://chen-yulin.github.io/2023/05/10/obsidian/Idea/app/
 http://chen-yulin.github.io/2023/05/10/obsidian/ML/basic/
+http://chen-yulin.github.io/2023/05/10/obsidian/Idea/app/
 http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/WeeklyProgress/m1/
 http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/RoadArchitect/
 http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/UnityRef/
@@ -132,11 +133,11 @@ http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
 http://chen-yulin.github.io/tags/RNN/
-http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/supervised-learning/
 http://chen-yulin.github.io/tags/unsupervised-learning/
 http://chen-yulin.github.io/tags/reinforcement-learning/
+http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/math/
 http://chen-yulin.github.io/tags/LinearAlgebra/
 http://chen-yulin.github.io/tags/PSY/
@@ -180,12 +181,12 @@ http://chen-yulin.github.io/tags/meeting/
 http://chen-yulin.github.io/tags/GPT/
 http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/csharp/
+http://chen-yulin.github.io/tags/json/
+http://chen-yulin.github.io/tags/comment-doc/
 http://chen-yulin.github.io/tags/PHD/
 http://chen-yulin.github.io/tags/start-business/
 http://chen-yulin.github.io/tags/operational-ability/
 http://chen-yulin.github.io/tags/academic-ability/
-http://chen-yulin.github.io/tags/json/
-http://chen-yulin.github.io/tags/comment-doc/
 http://chen-yulin.github.io/tags/mason/
 http://chen-yulin.github.io/tags/LSP/
 http://chen-yulin.github.io/categories/Review/
