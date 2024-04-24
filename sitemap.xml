@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/ML/basic/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Idea/app/</loc>
     
     <lastmod>2024-04-05</lastmod>
     
@@ -578,7 +578,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Idea/app/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/ML/basic/</loc>
     
     <lastmod>2024-04-05</lastmod>
     
@@ -922,14 +922,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Latex/</loc>
+    <loc>http://chen-yulin.github.io/tags/ROS/</loc>
     <lastmod>2024-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/ROS/</loc>
+    <loc>http://chen-yulin.github.io/tags/Latex/</loc>
     <lastmod>2024-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1125,6 +1125,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/idea/</loc>
+    <lastmod>2024-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/ML/</loc>
     <lastmod>2024-04-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -1147,13 +1154,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2024-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/idea/</loc>
     <lastmod>2024-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
