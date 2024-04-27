@@ -124,9 +124,9 @@ http://chen-yulin.github.io/tags/docs/
 http://chen-yulin.github.io/tags/ethic/
 http://chen-yulin.github.io/tags/course/
 http://chen-yulin.github.io/tags/AI/
-http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
+http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Embeded-System/
