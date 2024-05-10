@@ -138,12 +138,12 @@ http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
 http://chen-yulin.github.io/tags/RNN/
 http://chen-yulin.github.io/tags/idea/
+http://chen-yulin.github.io/tags/math/
+http://chen-yulin.github.io/tags/LinearAlgebra/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/supervised-learning/
 http://chen-yulin.github.io/tags/unsupervised-learning/
 http://chen-yulin.github.io/tags/reinforcement-learning/
-http://chen-yulin.github.io/tags/math/
-http://chen-yulin.github.io/tags/LinearAlgebra/
 http://chen-yulin.github.io/tags/PSY/
 http://chen-yulin.github.io/tags/motivation/
 http://chen-yulin.github.io/tags/well-being/
