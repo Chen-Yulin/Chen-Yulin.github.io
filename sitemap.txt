@@ -1,5 +1,5 @@
-http://chen-yulin.github.io/2024/05/16/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A4%AA%E9%98%B3%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap5/
 http://chen-yulin.github.io/2024/04/25/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%80%E7%89%87%E8%8D%92%E5%8E%9F/
+http://chen-yulin.github.io/2024/05/16/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A4%AA%E9%98%B3%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap5/
 http://chen-yulin.github.io/2024/05/11/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E5%9C%B0%E4%B8%8B%E5%AE%A4%E6%89%8B%E8%AE%B0%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap4/
 http://chen-yulin.github.io/2024/04/05/obsidian/hexo/Customize%20hexo%20Icarus/
 http://chen-yulin.github.io/2023/05/10/obsidian/EmbededSystem/basic/
@@ -132,9 +132,9 @@ http://chen-yulin.github.io/tags/ethic/
 http://chen-yulin.github.io/tags/course/
 http://chen-yulin.github.io/tags/music/
 http://chen-yulin.github.io/tags/AI/
-http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
+http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Embeded-System/
@@ -157,7 +157,6 @@ http://chen-yulin.github.io/tags/well-being/
 http://chen-yulin.github.io/tags/health/
 http://chen-yulin.github.io/tags/Behaviorism/
 http://chen-yulin.github.io/tags/Humanism/
-http://chen-yulin.github.io/tags/Postgraduate/
 http://chen-yulin.github.io/tags/dataframe/
 http://chen-yulin.github.io/tags/pandas/
 http://chen-yulin.github.io/tags/scrap/
@@ -166,6 +165,7 @@ http://chen-yulin.github.io/tags/bs4/
 http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
+http://chen-yulin.github.io/tags/Postgraduate/
 http://chen-yulin.github.io/tags/Quantum/
 http://chen-yulin.github.io/tags/Information/
 http://chen-yulin.github.io/tags/SQL/
