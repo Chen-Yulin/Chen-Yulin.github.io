@@ -1,5 +1,6 @@
-http://chen-yulin.github.io/2024/05/11/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E5%9C%B0%E4%B8%8B%E5%AE%A4%E6%89%8B%E8%AE%B0%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap4/
 http://chen-yulin.github.io/2024/05/16/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A4%AA%E9%98%B3%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap5/
+http://chen-yulin.github.io/2024/04/25/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%80%E7%89%87%E8%8D%92%E5%8E%9F/
+http://chen-yulin.github.io/2024/05/11/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E5%9C%B0%E4%B8%8B%E5%AE%A4%E6%89%8B%E8%AE%B0%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap4/
 http://chen-yulin.github.io/2024/04/05/obsidian/hexo/Customize%20hexo%20Icarus/
 http://chen-yulin.github.io/2023/05/10/obsidian/EmbededSystem/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/Postgraduate%20recommendation/Summer%20Camp/
@@ -65,7 +66,6 @@ http://chen-yulin.github.io/2023/05/10/obsidian/ML/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/WeeklyProgress/m1/
 http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/RoadArchitect/
 http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/UnityRef/
-http://chen-yulin.github.io/2024/04/25/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%80%E7%89%87%E8%8D%92%E5%8E%9F/
 http://chen-yulin.github.io/2024/05/07/%E9%B9%AD%E5%B2%9B%E6%97%85/
 http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/
 http://chen-yulin.github.io/2024/03/18/%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%8A%B1%E7%B4%A7%E6%B8%A9%E6%9A%96/
@@ -132,18 +132,18 @@ http://chen-yulin.github.io/tags/ethic/
 http://chen-yulin.github.io/tags/course/
 http://chen-yulin.github.io/tags/music/
 http://chen-yulin.github.io/tags/AI/
+http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
-http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/git/
 http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
-http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/RNN/
+http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/csharp/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/supervised-learning/
