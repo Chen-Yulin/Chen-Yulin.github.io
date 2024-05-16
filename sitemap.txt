@@ -133,9 +133,9 @@ http://chen-yulin.github.io/tags/ethic/
 http://chen-yulin.github.io/tags/course/
 http://chen-yulin.github.io/tags/music/
 http://chen-yulin.github.io/tags/AI/
+http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
-http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/Network/
 http://chen-yulin.github.io/tags/linux/
 http://chen-yulin.github.io/tags/dynamic-programmming/
