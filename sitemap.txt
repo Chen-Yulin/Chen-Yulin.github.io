@@ -1,3 +1,4 @@
+http://chen-yulin.github.io/2024/05/22/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/
 http://chen-yulin.github.io/2024/05/21/obsidian/EmbededSystem/STM32%20Development%20on%20Linux/
 http://chen-yulin.github.io/2024/05/19/obsidian/%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/
 http://chen-yulin.github.io/2024/05/12/obsidian/%E5%A6%82%E6%9E%9C%E5%93%AA%E5%A4%A9%E6%9C%89%E5%B9%B8%E6%8E%A5%E8%A7%A6%E4%B9%90%E5%99%A8%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E8%B0%88%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%9B%B2%E5%AD%90%E5%91%80/
@@ -119,8 +120,8 @@ http://chen-yulin.github.io/tags/ROS/
 http://chen-yulin.github.io/tags/Foundation/
 http://chen-yulin.github.io/tags/SJTU-Lecture/
 http://chen-yulin.github.io/tags/Tech-Communication/
-http://chen-yulin.github.io/tags/Signals-and-Systems/
 http://chen-yulin.github.io/tags/Discrete-Mathematics/
+http://chen-yulin.github.io/tags/Signals-and-Systems/
 http://chen-yulin.github.io/tags/Probability/
 http://chen-yulin.github.io/tags/Plugin/
 http://chen-yulin.github.io/tags/Vim/
@@ -131,9 +132,9 @@ http://chen-yulin.github.io/tags/debate/
 http://chen-yulin.github.io/tags/hexo/
 http://chen-yulin.github.io/tags/travel/
 http://chen-yulin.github.io/tags/docs/
+http://chen-yulin.github.io/tags/ethic/
 http://chen-yulin.github.io/tags/course/
 http://chen-yulin.github.io/tags/family/
-http://chen-yulin.github.io/tags/ethic/
 http://chen-yulin.github.io/tags/music/
 http://chen-yulin.github.io/tags/AI/
 http://chen-yulin.github.io/tags/app/
@@ -192,9 +193,9 @@ http://chen-yulin.github.io/tags/plugin/
 http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/philosophy/
 http://chen-yulin.github.io/tags/movie/
+http://chen-yulin.github.io/tags/GPT/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
-http://chen-yulin.github.io/tags/GPT/
 http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/json/
 http://chen-yulin.github.io/tags/comment-doc/
