@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://chen-yulin.github.io/2024/05/21/obsidian/EmbededSystem/STM32%20Development%20on%20Linux/</loc>
+    <lastmod>2024-05-21</lastmod>
+  </url>
+  <url>
     <loc>http://chen-yulin.github.io/2024/05/19/obsidian/%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
     <lastmod>2024-05-19</lastmod>
   </url>
@@ -333,11 +337,11 @@
     <lastmod>2024-03-15</lastmod>
   </url>
   <url>
-    <loc>http://chen-yulin.github.io/2022/04/12/VIM-Snippets-Customization/</loc>
+    <loc>http://chen-yulin.github.io/2022/05/14/VE401-Note/</loc>
     <lastmod>2024-03-15</lastmod>
   </url>
   <url>
-    <loc>http://chen-yulin.github.io/2022/05/14/VE401-Note/</loc>
+    <loc>http://chen-yulin.github.io/2022/04/12/VIM-Snippets-Customization/</loc>
     <lastmod>2024-03-15</lastmod>
   </url>
   <url>
