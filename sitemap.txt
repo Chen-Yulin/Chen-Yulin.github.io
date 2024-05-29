@@ -1,3 +1,4 @@
+http://chen-yulin.github.io/2024/05/19/obsidian/%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/
 http://chen-yulin.github.io/2024/04/25/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%80%E7%89%87%E8%8D%92%E5%8E%9F/
 http://chen-yulin.github.io/2024/05/21/obsidian/EmbededSystem/STM32%20Development%20on%20Linux/
 http://chen-yulin.github.io/2024/05/24/obsidian/JustWork/JustWork%20%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3/
@@ -6,7 +7,6 @@ http://chen-yulin.github.io/2024/05/24/obsidian/linux/Copy-Paste%20in%20Hyprland
 http://chen-yulin.github.io/2024/04/05/obsidian/AI/Wechat%20bot/
 http://chen-yulin.github.io/2024/05/23/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E7%AA%84%E9%97%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap7/
 http://chen-yulin.github.io/2024/05/22/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/
-http://chen-yulin.github.io/2024/05/19/obsidian/%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/
 http://chen-yulin.github.io/2024/05/12/obsidian/%E5%A6%82%E6%9E%9C%E5%93%AA%E5%A4%A9%E6%9C%89%E5%B9%B8%E6%8E%A5%E8%A7%A6%E4%B9%90%E5%99%A8%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E8%B0%88%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%9B%B2%E5%AD%90%E5%91%80/
 http://chen-yulin.github.io/2024/01/02/%E6%BD%AE%E6%B1%90%E9%94%81%E5%AE%9A/
 http://chen-yulin.github.io/2024/05/16/obsidian/Computer%20Network/Unix%20Network%20Programming%20SRC/
@@ -123,8 +123,8 @@ http://chen-yulin.github.io/tags/ROS/
 http://chen-yulin.github.io/tags/Foundation/
 http://chen-yulin.github.io/tags/SJTU-Lecture/
 http://chen-yulin.github.io/tags/Tech-Communication/
-http://chen-yulin.github.io/tags/Signals-and-Systems/
 http://chen-yulin.github.io/tags/Discrete-Mathematics/
+http://chen-yulin.github.io/tags/Signals-and-Systems/
 http://chen-yulin.github.io/tags/Probability/
 http://chen-yulin.github.io/tags/Plugin/
 http://chen-yulin.github.io/tags/Vim/
@@ -154,6 +154,7 @@ http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
 http://chen-yulin.github.io/tags/RNN/
+http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/csharp/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/supervised-learning/
@@ -161,7 +162,6 @@ http://chen-yulin.github.io/tags/unsupervised-learning/
 http://chen-yulin.github.io/tags/reinforcement-learning/
 http://chen-yulin.github.io/tags/math/
 http://chen-yulin.github.io/tags/LinearAlgebra/
-http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/PSY/
 http://chen-yulin.github.io/tags/motivation/
 http://chen-yulin.github.io/tags/well-being/
@@ -194,8 +194,8 @@ http://chen-yulin.github.io/tags/beautify/
 http://chen-yulin.github.io/tags/ssh/
 http://chen-yulin.github.io/tags/nvim/
 http://chen-yulin.github.io/tags/plugin/
-http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/philosophy/
+http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/movie/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
