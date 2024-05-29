@@ -13,7 +13,7 @@
   <url>
     <loc>http://chen-yulin.github.io/2024/04/25/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%80%E7%89%87%E8%8D%92%E5%8E%9F/</loc>
     
-    <lastmod>2024-05-28</lastmod>
+    <lastmod>2024-05-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1181,13 +1181,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/family/</loc>
-    <lastmod>2024-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/music/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -1195,7 +1188,21 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/family/</loc>
+    <lastmod>2024-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/AI/</loc>
+    <lastmod>2024-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1217,13 +1224,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/GPT/</loc>
-    <lastmod>2024-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1580,14 +1580,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/philosophy/</loc>
+    <loc>http://chen-yulin.github.io/tags/path/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/path/</loc>
+    <loc>http://chen-yulin.github.io/tags/philosophy/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
