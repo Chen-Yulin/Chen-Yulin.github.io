@@ -371,7 +371,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/nvim/stdpath/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/AI/GPT/app/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -380,7 +380,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/AI/GPT/app/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/nvim/stdpath/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -407,7 +407,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Shader/SemanticSegmentation/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/AI/AIGC/March24/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -416,7 +416,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/AI/AIGC/March24/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Shader/SemanticSegmentation/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -452,6 +452,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/goal/</loc>
+    
+    <lastmod>2024-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Git/basic/</loc>
     
     <lastmod>2024-05-15</lastmod>
@@ -470,7 +479,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/goal/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Python/sklearn/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -479,7 +488,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Python/sklearn/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/ENGR496%20Note/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -498,15 +507,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Git/Version/</loc>
-    
-    <lastmod>2024-05-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/ENGR496%20Note/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -929,139 +929,6 @@
 
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/music/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/AI/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/app/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/python/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/GPT/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Unity/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/ethic/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Network/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/linux/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/recursive/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/git/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/repository/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/version-management/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/submodule/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/idea/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Game/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1069,105 +936,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/csharp/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/ML/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/supervised-learning/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/unsupervised-learning/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/math/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/LinearAlgebra/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/PSY/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/motivation/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/emotion/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/well-being/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/health/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Behaviorism/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Humanism/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Mod/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Unity/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1321,13 +1097,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Probability/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Plugin/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1343,6 +1112,20 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Snippets/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Probability/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/emotion/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1384,6 +1167,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/ethic/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/course/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1392,6 +1182,216 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/family/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/music/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AI/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/app/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/python/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/GPT/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Network/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/linux/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/recursive/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/git/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/repository/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/version-management/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/submodule/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/idea/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/csharp/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/ML/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/supervised-learning/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/unsupervised-learning/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/math/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/LinearAlgebra/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/PSY/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/motivation/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/well-being/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/health/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Behaviorism/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Humanism/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1447,6 +1447,48 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/movie/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AIGC/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/meeting/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Method/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/json/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/comment-doc/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/sklearn/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1455,6 +1497,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/numpy/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/SQL/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1475,13 +1524,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/SQL/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Shader/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1489,14 +1531,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/shell/</loc>
+    <loc>http://chen-yulin.github.io/tags/c/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/c/</loc>
+    <loc>http://chen-yulin.github.io/tags/shell/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1594,48 +1636,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/movie/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/AIGC/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/meeting/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Method/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/json/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/comment-doc/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/PHD/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1680,13 +1680,6 @@
 
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/Note/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/categories/Review/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1702,6 +1695,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/categories/Guide/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/categories/Note/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
