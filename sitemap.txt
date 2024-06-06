@@ -1,5 +1,5 @@
-http://chen-yulin.github.io/2023/10/14/%E4%B8%89%E5%8D%83%E5%BC%B1%E6%B0%B4%E6%9C%80%E6%BE%84%E6%BE%88%E7%9A%84%E9%82%A3%E4%B8%80%E7%89%87/
 http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/
+http://chen-yulin.github.io/2023/10/14/%E4%B8%89%E5%8D%83%E5%BC%B1%E6%B0%B4%E6%9C%80%E6%BE%84%E6%BE%88%E7%9A%84%E9%82%A3%E4%B8%80%E7%89%87/
 http://chen-yulin.github.io/2024/06/02/obsidian/%E5%89%AA%E8%BE%91/Mod%20%E7%8C%ABmeme%20CUT1%20Script/
 http://chen-yulin.github.io/2024/05/21/obsidian/EmbededSystem/STM32%20Development%20on%20Linux/
 http://chen-yulin.github.io/2024/05/19/obsidian/%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/
@@ -31,8 +31,8 @@ http://chen-yulin.github.io/2024/04/05/obsidian/%E8%BE%A9%E8%AE%BA/%E5%A6%82%E6%
 http://chen-yulin.github.io/2024/04/05/obsidian/%E8%BE%A9%E8%AE%BA/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%81%87%E5%88%B0%E5%8D%B1%E9%99%A9%E6%97%B6%EF%BC%8C%E4%B9%98%E5%AE%A2%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88vs%E8%A1%8C%E4%BA%BA%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88/
 http://chen-yulin.github.io/2023/05/10/obsidian/Travel/2023%20Christmas/
 http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/Aircraft%20control%20policy/
-http://chen-yulin.github.io/2023/05/10/obsidian/Travel/2024%20%E5%BF%83%E6%80%A1%E5%A7%90%E5%A7%9022%E5%B2%81%E7%94%9F%E6%97%A5%EF%BC%81%E5%87%BA%E6%9D%A5%E7%8E%A9%E5%A4%A7%E4%BD%9C%E6%88%98%EF%BC%81/
 http://chen-yulin.github.io/2023/05/10/obsidian/TOEFL/SpeechRater/
+http://chen-yulin.github.io/2023/05/10/obsidian/Travel/2024%20%E5%BF%83%E6%80%A1%E5%A7%90%E5%A7%9022%E5%B2%81%E7%94%9F%E6%97%A5%EF%BC%81%E5%87%BA%E6%9D%A5%E7%8E%A9%E5%A4%A7%E4%BD%9C%E6%88%98%EF%BC%81/
 http://chen-yulin.github.io/2023/05/10/obsidian/Math/LinearAlgebra/
 http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/autonomousDriving/
 http://chen-yulin.github.io/2023/05/10/obsidian/XbortPark/Lecture/March21/
@@ -123,9 +123,9 @@ http://chen-yulin.github.io/tags/Web/
 http://chen-yulin.github.io/tags/Latex/
 http://chen-yulin.github.io/tags/emotion/
 http://chen-yulin.github.io/tags/ROS/
-http://chen-yulin.github.io/tags/Foundation/
 http://chen-yulin.github.io/tags/SJTU-Lecture/
 http://chen-yulin.github.io/tags/Tech-Communication/
+http://chen-yulin.github.io/tags/Foundation/
 http://chen-yulin.github.io/tags/Discrete-Mathematics/
 http://chen-yulin.github.io/tags/Signals-and-Systems/
 http://chen-yulin.github.io/tags/Probability/
@@ -189,8 +189,8 @@ http://chen-yulin.github.io/tags/Control/
 http://chen-yulin.github.io/tags/autonomousDriving/
 http://chen-yulin.github.io/tags/TOEFL/
 http://chen-yulin.github.io/tags/oral/
-http://chen-yulin.github.io/tags/reference/
 http://chen-yulin.github.io/tags/Prefab/
+http://chen-yulin.github.io/tags/reference/
 http://chen-yulin.github.io/tags/window-manager/
 http://chen-yulin.github.io/tags/beautify/
 http://chen-yulin.github.io/tags/ssh/
