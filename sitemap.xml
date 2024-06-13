@@ -1241,13 +1241,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
-    <lastmod>2024-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Network/</loc>
     <lastmod>2024-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1256,6 +1249,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/linux/</loc>
+    <lastmod>2024-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
     <lastmod>2024-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1325,6 +1325,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/csharp/</loc>
+    <lastmod>2024-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/ML/</loc>
     <lastmod>2024-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1361,13 +1368,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/LinearAlgebra/</loc>
-    <lastmod>2024-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/csharp/</loc>
     <lastmod>2024-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1417,20 +1417,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Postgraduate/</loc>
-    <lastmod>2024-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Quantum/</loc>
-    <lastmod>2024-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Information/</loc>
     <lastmod>2024-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1493,6 +1479,20 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Quantum/</loc>
+    <lastmod>2024-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Information/</loc>
+    <lastmod>2024-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/SQL/</loc>
     <lastmod>2024-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1549,14 +1549,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Prefab/</loc>
+    <loc>http://chen-yulin.github.io/tags/reference/</loc>
     <lastmod>2024-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/reference/</loc>
+    <loc>http://chen-yulin.github.io/tags/Prefab/</loc>
     <lastmod>2024-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
