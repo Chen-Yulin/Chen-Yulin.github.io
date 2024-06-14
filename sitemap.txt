@@ -1,6 +1,6 @@
+http://chen-yulin.github.io/2024/06/02/obsidian/%E5%89%AA%E8%BE%91/Mod%20%E7%8C%ABmeme%20CUT1%20Script/
 http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/
 http://chen-yulin.github.io/2023/10/14/%E4%B8%89%E5%8D%83%E5%BC%B1%E6%B0%B4%E6%9C%80%E6%BE%84%E6%BE%88%E7%9A%84%E9%82%A3%E4%B8%80%E7%89%87/
-http://chen-yulin.github.io/2024/06/02/obsidian/%E5%89%AA%E8%BE%91/Mod%20%E7%8C%ABmeme%20CUT1%20Script/
 http://chen-yulin.github.io/2024/05/21/obsidian/EmbededSystem/STM32%20Development%20on%20Linux/
 http://chen-yulin.github.io/2024/05/19/obsidian/%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/
 http://chen-yulin.github.io/2024/04/25/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%80%E7%89%87%E8%8D%92%E5%8E%9F/
@@ -145,9 +145,9 @@ http://chen-yulin.github.io/tags/AI/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
 http://chen-yulin.github.io/tags/GPT/
+http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/Network/
 http://chen-yulin.github.io/tags/linux/
-http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Embeded-System/
@@ -189,8 +189,8 @@ http://chen-yulin.github.io/tags/Control/
 http://chen-yulin.github.io/tags/autonomousDriving/
 http://chen-yulin.github.io/tags/TOEFL/
 http://chen-yulin.github.io/tags/oral/
-http://chen-yulin.github.io/tags/reference/
 http://chen-yulin.github.io/tags/Prefab/
+http://chen-yulin.github.io/tags/reference/
 http://chen-yulin.github.io/tags/window-manager/
 http://chen-yulin.github.io/tags/beautify/
 http://chen-yulin.github.io/tags/ssh/
