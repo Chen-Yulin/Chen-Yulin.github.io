@@ -51,8 +51,8 @@ http://chen-yulin.github.io/2023/05/10/obsidian/AI/GPT/method/
 http://chen-yulin.github.io/2023/05/10/obsidian/Shader/SemanticSegmentation/
 http://chen-yulin.github.io/2023/05/10/obsidian/AI/AIGC/March24/
 http://chen-yulin.github.io/2023/05/10/obsidian/Python/DataFrame/
-http://chen-yulin.github.io/2023/05/10/obsidian/Python/Scrap/
 http://chen-yulin.github.io/2023/05/10/obsidian/Python/regex/
+http://chen-yulin.github.io/2023/05/10/obsidian/Python/Scrap/
 http://chen-yulin.github.io/2023/05/10/obsidian/goal/
 http://chen-yulin.github.io/2023/05/10/obsidian/Git/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/Git/submodule/
@@ -175,10 +175,10 @@ http://chen-yulin.github.io/tags/Humanism/
 http://chen-yulin.github.io/tags/Postgraduate/
 http://chen-yulin.github.io/tags/dataframe/
 http://chen-yulin.github.io/tags/pandas/
+http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/scrap/
 http://chen-yulin.github.io/tags/html/
 http://chen-yulin.github.io/tags/bs4/
-http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
 http://chen-yulin.github.io/tags/Quantum/
@@ -208,12 +208,12 @@ http://chen-yulin.github.io/tags/movie/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
 http://chen-yulin.github.io/tags/Method/
-http://chen-yulin.github.io/tags/json/
-http://chen-yulin.github.io/tags/comment-doc/
 http://chen-yulin.github.io/tags/PHD/
 http://chen-yulin.github.io/tags/start-business/
 http://chen-yulin.github.io/tags/operational-ability/
 http://chen-yulin.github.io/tags/academic-ability/
+http://chen-yulin.github.io/tags/json/
+http://chen-yulin.github.io/tags/comment-doc/
 http://chen-yulin.github.io/tags/mason/
 http://chen-yulin.github.io/tags/LSP/
 http://chen-yulin.github.io/categories/Review/
