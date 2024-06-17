@@ -4,7 +4,16 @@
   <url>
     <loc>http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_LCD/</loc>
     
-    <lastmod>2024-06-16</lastmod>
+    <lastmod>2024-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/</loc>
+    
+    <lastmod>2024-06-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Input_Capture/</loc>
     
-    <lastmod>2024-06-16</lastmod>
+    <lastmod>2024-06-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/</loc>
     
-    <lastmod>2024-06-16</lastmod>
+    <lastmod>2024-06-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -371,6 +380,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/nvim/InterestingPlugin/</loc>
+    
+    <lastmod>2024-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/basic/</loc>
     
     <lastmod>2024-05-15</lastmod>
@@ -381,15 +399,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/config/</loc>
-    
-    <lastmod>2024-05-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/nvim/InterestingPlugin/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -614,7 +623,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/linux/ssh/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/linux/basic/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -623,7 +632,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/linux/basic/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/linux/ssh/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -1238,6 +1247,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
+    <lastmod>2024-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/app/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1273,13 +1289,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
-    <lastmod>2024-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1288,13 +1297,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/recursive/</loc>
-    <lastmod>2024-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1323,6 +1325,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/submodule/</loc>
+    <lastmod>2024-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1595,14 +1604,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/nvim/</loc>
-    <lastmod>2024-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/path/</loc>
+    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1610,6 +1612,27 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/philosophy/</loc>
+    <lastmod>2024-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/nvim/</loc>
+    <lastmod>2024-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/plugin/</loc>
+    <lastmod>2024-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/path/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1722,20 +1745,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/LSP/</loc>
-    <lastmod>2024-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
-    <lastmod>2024-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/plugin/</loc>
     <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
