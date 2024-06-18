@@ -1,6 +1,6 @@
+http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_LCD/
-http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Input_Capture/
 http://chen-yulin.github.io/2024/06/02/obsidian/%E5%89%AA%E8%BE%91/Mod%20%E7%8C%ABmeme%20CUT1%20Script/
 http://chen-yulin.github.io/2023/10/14/%E4%B8%89%E5%8D%83%E5%BC%B1%E6%B0%B4%E6%9C%80%E6%BE%84%E6%BE%88%E7%9A%84%E9%82%A3%E4%B8%80%E7%89%87/
@@ -153,11 +153,11 @@ http://chen-yulin.github.io/tags/Network/
 http://chen-yulin.github.io/tags/linux/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
+http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/git/
 http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
-http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/RNN/
 http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/csharp/
@@ -174,8 +174,6 @@ http://chen-yulin.github.io/tags/health/
 http://chen-yulin.github.io/tags/Behaviorism/
 http://chen-yulin.github.io/tags/Humanism/
 http://chen-yulin.github.io/tags/Postgraduate/
-http://chen-yulin.github.io/tags/Quantum/
-http://chen-yulin.github.io/tags/Information/
 http://chen-yulin.github.io/tags/dataframe/
 http://chen-yulin.github.io/tags/pandas/
 http://chen-yulin.github.io/tags/scrap/
@@ -184,6 +182,8 @@ http://chen-yulin.github.io/tags/bs4/
 http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
+http://chen-yulin.github.io/tags/Quantum/
+http://chen-yulin.github.io/tags/Information/
 http://chen-yulin.github.io/tags/SQL/
 http://chen-yulin.github.io/tags/Shader/
 http://chen-yulin.github.io/tags/shell/
@@ -194,12 +194,12 @@ http://chen-yulin.github.io/tags/TOEFL/
 http://chen-yulin.github.io/tags/oral/
 http://chen-yulin.github.io/tags/Prefab/
 http://chen-yulin.github.io/tags/reference/
-http://chen-yulin.github.io/tags/nvim/
-http://chen-yulin.github.io/tags/plugin/
-http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/window-manager/
 http://chen-yulin.github.io/tags/beautify/
 http://chen-yulin.github.io/tags/ssh/
+http://chen-yulin.github.io/tags/nvim/
+http://chen-yulin.github.io/tags/plugin/
+http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/philosophy/
 http://chen-yulin.github.io/tags/VideoEditing/
 http://chen-yulin.github.io/tags/Script/
