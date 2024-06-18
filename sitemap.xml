@@ -317,15 +317,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/Aircraft%20control%20policy/</loc>
-    
-    <lastmod>2024-05-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/obsidian/TOEFL/SpeechRater/</loc>
     
     <lastmod>2024-05-15</lastmod>
@@ -336,6 +327,15 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Travel/2024%20%E5%BF%83%E6%80%A1%E5%A7%90%E5%A7%9022%E5%B2%81%E7%94%9F%E6%97%A5%EF%BC%81%E5%87%BA%E6%9D%A5%E7%8E%A9%E5%A4%A7%E4%BD%9C%E6%88%98%EF%BC%81/</loc>
+    
+    <lastmod>2024-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/Aircraft%20control%20policy/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -1247,6 +1247,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
+    <lastmod>2024-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/app/</loc>
     <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1262,13 +1269,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/GPT/</loc>
-    <lastmod>2024-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
     <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1303,13 +1303,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
-    <lastmod>2024-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/git/</loc>
     <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1332,6 +1325,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/submodule/</loc>
+    <lastmod>2024-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1548,20 +1548,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Control/</loc>
-    <lastmod>2024-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/autonomousDriving/</loc>
-    <lastmod>2024-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/TOEFL/</loc>
     <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1570,6 +1556,20 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/oral/</loc>
+    <lastmod>2024-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Control/</loc>
+    <lastmod>2024-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/autonomousDriving/</loc>
     <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
