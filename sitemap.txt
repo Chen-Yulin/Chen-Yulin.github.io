@@ -1,4 +1,5 @@
 http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/
+http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/
 http://chen-yulin.github.io/2024/01/02/%E6%BD%AE%E6%B1%90%E9%94%81%E5%AE%9A/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_LCD/
@@ -81,7 +82,6 @@ http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/WeeklyProgress/m1/
 http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/RoadArchitect/
 http://chen-yulin.github.io/2023/05/10/obsidian/WoodOxen/UnityRef/
 http://chen-yulin.github.io/2024/05/07/%E9%B9%AD%E5%B2%9B%E6%97%85/
-http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/
 http://chen-yulin.github.io/2024/03/18/%E9%A3%8E%E9%9B%A8%E4%B8%AD%E6%8A%B1%E7%B4%A7%E6%B8%A9%E6%9A%96/
 http://chen-yulin.github.io/2024/04/09/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/
 http://chen-yulin.github.io/2024/04/05/%E5%8D%9A%E5%AE%A2%E4%B8%A4%E5%91%A8%E5%B9%B4%EF%BC%8C%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/
@@ -153,11 +153,11 @@ http://chen-yulin.github.io/tags/Network/
 http://chen-yulin.github.io/tags/linux/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
-http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/git/
 http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
+http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/RNN/
 http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/csharp/
