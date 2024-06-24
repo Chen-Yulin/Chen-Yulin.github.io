@@ -67,8 +67,8 @@ http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Health&Well-Being/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Learning/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/MessageToMyself/
 http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Emotion&Motivation/
-http://chen-yulin.github.io/2023/05/10/obsidian/linux/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/WM/
+http://chen-yulin.github.io/2023/05/10/obsidian/linux/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/linux/ssh/
 http://chen-yulin.github.io/2024/04/18/obsidian/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/%E3%80%8A%E8%BE%B9%E5%9F%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap3/
 http://chen-yulin.github.io/2024/04/17/obsidian/Mod/ONI/ONI%20Modding/
@@ -149,10 +149,10 @@ http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
 http://chen-yulin.github.io/tags/GPT/
 http://chen-yulin.github.io/tags/AR/
-http://chen-yulin.github.io/tags/dynamic-programmming/
-http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Network/
 http://chen-yulin.github.io/tags/linux/
+http://chen-yulin.github.io/tags/dynamic-programmming/
+http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/git/
 http://chen-yulin.github.io/tags/repository/
