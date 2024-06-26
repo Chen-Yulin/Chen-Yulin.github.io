@@ -42,8 +42,8 @@ http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/autonomousDriving/
 http://chen-yulin.github.io/2023/05/10/obsidian/XbortPark/Lecture/March21/
 http://chen-yulin.github.io/2024/04/20/obsidian/Docusaurus/
 http://chen-yulin.github.io/2023/05/10/obsidian/nvim/InterestingPlugin/
-http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/config/
+http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/DynamicProgramming/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/IPP_Robot_Motion_Planning/Human%20motion%20prediction/
 http://chen-yulin.github.io/2023/05/10/obsidian/nvim/stdpath/
@@ -215,8 +215,8 @@ http://chen-yulin.github.io/tags/PHD/
 http://chen-yulin.github.io/tags/start-business/
 http://chen-yulin.github.io/tags/operational-ability/
 http://chen-yulin.github.io/tags/academic-ability/
-http://chen-yulin.github.io/tags/mason/
 http://chen-yulin.github.io/tags/LSP/
+http://chen-yulin.github.io/tags/mason/
 http://chen-yulin.github.io/categories/Review/
 http://chen-yulin.github.io/categories/Record/
 http://chen-yulin.github.io/categories/Guide/
