@@ -4,7 +4,7 @@
   <url>
     <loc>http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/</loc>
     
-    <lastmod>2024-06-26</lastmod>
+    <lastmod>2024-06-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/Aircraft%20control%20policy/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/TOEFL/SpeechRater/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/TOEFL/SpeechRater/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/Aircraft%20control%20policy/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -560,7 +560,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Git/Version/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Git/Repository/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Git/Repository/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/Git/Version/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -1212,14 +1212,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/course/</loc>
+    <loc>http://chen-yulin.github.io/tags/ethic/</loc>
     <lastmod>2024-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/ethic/</loc>
+    <loc>http://chen-yulin.github.io/tags/course/</loc>
     <lastmod>2024-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1310,14 +1310,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/version-management/</loc>
+    <loc>http://chen-yulin.github.io/tags/repository/</loc>
     <lastmod>2024-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/repository/</loc>
+    <loc>http://chen-yulin.github.io/tags/version-management/</loc>
     <lastmod>2024-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1408,6 +1408,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/motivation/</loc>
+    <lastmod>2024-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/well-being/</loc>
     <lastmod>2024-06-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -1430,13 +1437,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Humanism/</loc>
-    <lastmod>2024-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/motivation/</loc>
     <lastmod>2024-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1541,13 +1541,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Control/</loc>
-    <lastmod>2024-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/c/</loc>
     <lastmod>2024-06-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -1563,6 +1556,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/oral/</loc>
+    <lastmod>2024-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Control/</loc>
     <lastmod>2024-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
