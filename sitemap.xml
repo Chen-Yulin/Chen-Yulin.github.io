@@ -587,7 +587,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Learning/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Health&Well-Being/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -596,7 +596,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Health&Well-Being/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/PSY/Learning/</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -1415,20 +1415,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Behaviorism/</loc>
-    <lastmod>2024-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Humanism/</loc>
-    <lastmod>2024-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/well-being/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1437,6 +1423,20 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/health/</loc>
+    <lastmod>2024-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Behaviorism/</loc>
+    <lastmod>2024-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Humanism/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
