@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/07/01/obsidian/EmbededSystem/ECE3730J%20RC3_LAB4/</loc>
+    <loc>http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/</loc>
     
     <lastmod>2024-07-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/</loc>
+    <loc>http://chen-yulin.github.io/2024/07/01/obsidian/EmbededSystem/ECE3730J%20RC3_LAB4/</loc>
     
     <lastmod>2024-07-01</lastmod>
     
@@ -1529,14 +1529,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/SQL/</loc>
+    <loc>http://chen-yulin.github.io/tags/Shader/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Shader/</loc>
+    <loc>http://chen-yulin.github.io/tags/SQL/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1683,13 +1683,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Method/</loc>
-    <lastmod>2024-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/AIGC/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -1698,6 +1691,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/meeting/</loc>
+    <lastmod>2024-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Method/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

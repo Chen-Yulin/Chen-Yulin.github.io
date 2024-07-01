@@ -1,5 +1,5 @@
-http://chen-yulin.github.io/2024/07/01/obsidian/EmbededSystem/ECE3730J%20RC3_LAB4/
 http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/
+http://chen-yulin.github.io/2024/07/01/obsidian/EmbededSystem/ECE3730J%20RC3_LAB4/
 http://chen-yulin.github.io/2023/11/06/%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E6%9C%80%E5%96%9C%E6%AC%A2gxy%E5%95%A6/
 http://chen-yulin.github.io/2024/01/02/%E6%BD%AE%E6%B1%90%E9%94%81%E5%AE%9A/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/
@@ -185,8 +185,8 @@ http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
 http://chen-yulin.github.io/tags/Quantum/
 http://chen-yulin.github.io/tags/Information/
-http://chen-yulin.github.io/tags/SQL/
 http://chen-yulin.github.io/tags/Shader/
+http://chen-yulin.github.io/tags/SQL/
 http://chen-yulin.github.io/tags/shell/
 http://chen-yulin.github.io/tags/c/
 http://chen-yulin.github.io/tags/Control/
@@ -207,9 +207,9 @@ http://chen-yulin.github.io/tags/Script/
 http://chen-yulin.github.io/tags/meme/
 http://chen-yulin.github.io/tags/%F0%9F%90%B1/
 http://chen-yulin.github.io/tags/movie/
-http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
+http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/json/
 http://chen-yulin.github.io/tags/comment-doc/
 http://chen-yulin.github.io/tags/PHD/
