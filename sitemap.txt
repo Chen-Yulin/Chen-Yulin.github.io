@@ -149,9 +149,9 @@ http://chen-yulin.github.io/tags/AI/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
 http://chen-yulin.github.io/tags/GPT/
+http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/Network/
 http://chen-yulin.github.io/tags/linux/
-http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/git/
@@ -160,12 +160,12 @@ http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
 http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/RNN/
+http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/csharp/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/supervised-learning/
 http://chen-yulin.github.io/tags/unsupervised-learning/
 http://chen-yulin.github.io/tags/reinforcement-learning/
-http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/math/
 http://chen-yulin.github.io/tags/LinearAlgebra/
 http://chen-yulin.github.io/tags/PSY/
@@ -207,9 +207,9 @@ http://chen-yulin.github.io/tags/Script/
 http://chen-yulin.github.io/tags/meme/
 http://chen-yulin.github.io/tags/%F0%9F%90%B1/
 http://chen-yulin.github.io/tags/movie/
-http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
+http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/json/
 http://chen-yulin.github.io/tags/comment-doc/
 http://chen-yulin.github.io/tags/PHD/
