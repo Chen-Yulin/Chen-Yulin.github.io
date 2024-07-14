@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chen-yulin.github.io/2024/07/15/obsidian/hexo/Hexo%20plugin%20--%20hexo-photo-wall/</loc>
+    
+    <lastmod>2024-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/</loc>
     
     <lastmod>2024-07-14</lastmod>
@@ -1312,13 +1321,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
-    <lastmod>2024-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/git/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1341,6 +1343,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/submodule/</loc>
+    <lastmod>2024-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1536,13 +1545,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Shader/</loc>
-    <lastmod>2024-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/shell/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1551,6 +1553,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/c/</loc>
+    <lastmod>2024-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Shader/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1599,6 +1608,20 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/plugin/</loc>
+    <lastmod>2024-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/javascript/</loc>
+    <lastmod>2024-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/window-manager/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -1621,13 +1644,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/nvim/</loc>
-    <lastmod>2024-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/plugin/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
