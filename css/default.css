@@ -12638,3 +12638,17 @@ body.night .twikoo code {
     background-color: #373d48;
   }
 }
+.picture-wall {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.picture-wall-item {
+  flex: 1 1 calc(33.333% - 10px);
+  box-sizing: border-box;
+}
+.picture-wall-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
