@@ -1,3 +1,4 @@
+http://chen-yulin.github.io/2024/06/02/obsidian/%E5%89%AA%E8%BE%91/Mod%20%E7%8C%ABmeme%20CUT1%20Script/
 http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/
 http://chen-yulin.github.io/2024/05/12/obsidian/%E5%A6%82%E6%9E%9C%E5%93%AA%E5%A4%A9%E6%9C%89%E5%B9%B8%E6%8E%A5%E8%A7%A6%E4%B9%90%E5%99%A8%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E8%B0%88%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%9B%B2%E5%AD%90%E5%91%80/
 http://chen-yulin.github.io/2024/07/15/obsidian/hexo/Hexo%20plugin%20--%20hexo-photo-wall/
@@ -8,7 +9,6 @@ http://chen-yulin.github.io/2024/01/02/%E6%BD%AE%E6%B1%90%E9%94%81%E5%AE%9A/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_LCD/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Input_Capture/
-http://chen-yulin.github.io/2024/06/02/obsidian/%E5%89%AA%E8%BE%91/Mod%20%E7%8C%ABmeme%20CUT1%20Script/
 http://chen-yulin.github.io/2024/05/21/obsidian/EmbededSystem/STM32%20Development%20on%20Linux/
 http://chen-yulin.github.io/2024/05/19/obsidian/%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/
 http://chen-yulin.github.io/2024/04/25/%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%80%E7%89%87%E8%8D%92%E5%8E%9F/
@@ -155,13 +155,13 @@ http://chen-yulin.github.io/tags/Network/
 http://chen-yulin.github.io/tags/linux/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
-http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/git/
 http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
-http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/RNN/
+http://chen-yulin.github.io/tags/Embeded-System/
+http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/csharp/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/supervised-learning/
