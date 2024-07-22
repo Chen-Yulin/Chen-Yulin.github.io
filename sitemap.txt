@@ -117,9 +117,9 @@ http://chen-yulin.github.io/tags/OpenCV/
 http://chen-yulin.github.io/tags/Pytorch/
 http://chen-yulin.github.io/tags/Python/
 http://chen-yulin.github.io/tags/CNN/
-http://chen-yulin.github.io/tags/WSL/
 http://chen-yulin.github.io/tags/Haskell/
 http://chen-yulin.github.io/tags/Functional-programming/
+http://chen-yulin.github.io/tags/WSL/
 http://chen-yulin.github.io/tags/Hexo/
 http://chen-yulin.github.io/tags/Github/
 http://chen-yulin.github.io/tags/Javascript/
@@ -222,8 +222,8 @@ http://chen-yulin.github.io/tags/mason/
 http://chen-yulin.github.io/tags/LSP/
 http://chen-yulin.github.io/categories/Review/
 http://chen-yulin.github.io/categories/Record/
-http://chen-yulin.github.io/categories/Guide/
 http://chen-yulin.github.io/categories/Note/
+http://chen-yulin.github.io/categories/Guide/
 http://chen-yulin.github.io/categories/Reference/
 http://chen-yulin.github.io/categories/%E6%9D%82%E8%AE%B0/
 http://chen-yulin.github.io/categories/%E7%94%9C%E7%94%9C%E7%9A%84%E6%81%8B%E7%88%B1%E6%97%A5%E5%B8%B8%E5%91%80/
