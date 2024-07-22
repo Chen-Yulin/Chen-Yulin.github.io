@@ -12649,10 +12649,12 @@ body.night .twikoo code {
   box-sizing: border-box;
 }
 .picture-wall-item img {
-  max-width: 30%;
+  max-width: 100%;
   height: auto;
   display: block;
+  border: 2px solid #ddd;
   border-radius: 15px;
+  padding: 15px;
   object-fit: cover;
 }
 body {
