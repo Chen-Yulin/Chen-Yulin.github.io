@@ -118,9 +118,9 @@ http://chen-yulin.github.io/tags/Pytorch/
 http://chen-yulin.github.io/tags/Python/
 http://chen-yulin.github.io/tags/CNN/
 http://chen-yulin.github.io/tags/WSL/
+http://chen-yulin.github.io/tags/Hexo/
 http://chen-yulin.github.io/tags/Haskell/
 http://chen-yulin.github.io/tags/Functional-programming/
-http://chen-yulin.github.io/tags/Hexo/
 http://chen-yulin.github.io/tags/Github/
 http://chen-yulin.github.io/tags/Javascript/
 http://chen-yulin.github.io/tags/HTML/

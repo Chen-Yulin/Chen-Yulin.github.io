@@ -1062,6 +1062,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Hexo/</loc>
+    <lastmod>2024-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/Haskell/</loc>
     <lastmod>2024-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1070,13 +1077,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Functional-programming/</loc>
-    <lastmod>2024-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Hexo/</loc>
     <lastmod>2024-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
