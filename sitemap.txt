@@ -118,9 +118,9 @@ http://chen-yulin.github.io/tags/Pytorch/
 http://chen-yulin.github.io/tags/Python/
 http://chen-yulin.github.io/tags/CNN/
 http://chen-yulin.github.io/tags/WSL/
-http://chen-yulin.github.io/tags/Hexo/
 http://chen-yulin.github.io/tags/Haskell/
 http://chen-yulin.github.io/tags/Functional-programming/
+http://chen-yulin.github.io/tags/Hexo/
 http://chen-yulin.github.io/tags/Github/
 http://chen-yulin.github.io/tags/Javascript/
 http://chen-yulin.github.io/tags/HTML/
@@ -129,10 +129,10 @@ http://chen-yulin.github.io/tags/Latex/
 http://chen-yulin.github.io/tags/emotion/
 http://chen-yulin.github.io/tags/ROS/
 http://chen-yulin.github.io/tags/Foundation/
-http://chen-yulin.github.io/tags/SJTU-Lecture/
-http://chen-yulin.github.io/tags/Tech-Communication/
 http://chen-yulin.github.io/tags/Discrete-Mathematics/
 http://chen-yulin.github.io/tags/Signals-and-Systems/
+http://chen-yulin.github.io/tags/SJTU-Lecture/
+http://chen-yulin.github.io/tags/Tech-Communication/
 http://chen-yulin.github.io/tags/Probability/
 http://chen-yulin.github.io/tags/Plugin/
 http://chen-yulin.github.io/tags/Vim/
