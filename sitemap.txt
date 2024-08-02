@@ -144,8 +144,8 @@ http://chen-yulin.github.io/tags/Probability/
 http://chen-yulin.github.io/tags/Plugin/
 http://chen-yulin.github.io/tags/Vim/
 http://chen-yulin.github.io/tags/Snippets/
-http://chen-yulin.github.io/tags/debate/
 http://chen-yulin.github.io/tags/Reading/
+http://chen-yulin.github.io/tags/debate/
 http://chen-yulin.github.io/tags/hexo/
 http://chen-yulin.github.io/tags/travel/
 http://chen-yulin.github.io/tags/docs/
@@ -174,8 +174,8 @@ http://chen-yulin.github.io/tags/git/
 http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
-http://chen-yulin.github.io/tags/RNN/
 http://chen-yulin.github.io/tags/Embeded-System/
+http://chen-yulin.github.io/tags/RNN/
 http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/unsupervised-learning/
@@ -189,6 +189,8 @@ http://chen-yulin.github.io/tags/health/
 http://chen-yulin.github.io/tags/Behaviorism/
 http://chen-yulin.github.io/tags/Humanism/
 http://chen-yulin.github.io/tags/Postgraduate/
+http://chen-yulin.github.io/tags/Quantum/
+http://chen-yulin.github.io/tags/Information/
 http://chen-yulin.github.io/tags/dataframe/
 http://chen-yulin.github.io/tags/pandas/
 http://chen-yulin.github.io/tags/scrap/
@@ -197,8 +199,6 @@ http://chen-yulin.github.io/tags/bs4/
 http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
-http://chen-yulin.github.io/tags/Quantum/
-http://chen-yulin.github.io/tags/Information/
 http://chen-yulin.github.io/tags/SQL/
 http://chen-yulin.github.io/tags/Shader/
 http://chen-yulin.github.io/tags/shell/
@@ -222,9 +222,9 @@ http://chen-yulin.github.io/tags/Script/
 http://chen-yulin.github.io/tags/meme/
 http://chen-yulin.github.io/tags/%F0%9F%90%B1/
 http://chen-yulin.github.io/tags/movie/
-http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/meeting/
+http://chen-yulin.github.io/tags/Method/
 http://chen-yulin.github.io/tags/json/
 http://chen-yulin.github.io/tags/comment-doc/
 http://chen-yulin.github.io/tags/PHD/
