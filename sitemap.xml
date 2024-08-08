@@ -1365,13 +1365,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/AR/</loc>
-    <lastmod>2024-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/app/</loc>
     <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -1387,20 +1380,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/GPT/</loc>
-    <lastmod>2024-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Network/</loc>
-    <lastmod>2024-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/linux/</loc>
     <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1457,6 +1436,27 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/csharp/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Network/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/linux/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/AR/</loc>
     <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
