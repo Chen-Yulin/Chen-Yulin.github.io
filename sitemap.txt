@@ -1,3 +1,4 @@
+http://chen-yulin.github.io/2024/01/02/%E6%BD%AE%E6%B1%90%E9%94%81%E5%AE%9A/
 http://chen-yulin.github.io/2024/07/27/%E9%9A%8F%E5%AE%83%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%B1%82%E7%B4%A2%EF%BC%8C%E5%88%AB%E8%B5%B0%E5%A4%AA%E8%BF%9C%E8%8E%AB%E8%A2%AB%E6%B7%B9%E6%B2%A1/
 http://chen-yulin.github.io/2024/08/05/obsidian/EmbededSystem/ECE3730J%20Final%20RC%20Part%201/
 http://chen-yulin.github.io/2024/05/12/obsidian/%E5%A6%82%E6%9E%9C%E5%93%AA%E5%A4%A9%E6%9C%89%E5%B9%B8%E6%8E%A5%E8%A7%A6%E4%B9%90%E5%99%A8%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E8%B0%88%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%9B%B2%E5%AD%90%E5%91%80/
@@ -91,7 +92,6 @@ http://chen-yulin.github.io/2024/08/01/obsidian/Capstone/Python-Unity%20Network/
 http://chen-yulin.github.io/2024/08/01/obsidian/Capstone/Demo%20%E8%AE%BE%E8%AE%A1/
 http://chen-yulin.github.io/2024/08/01/obsidian/Capstone/IK%20Path%20Planning/
 http://chen-yulin.github.io/2024/06/02/Merry-Go-Round-of-Life/
-http://chen-yulin.github.io/2024/01/02/%E6%BD%AE%E6%B1%90%E9%94%81%E5%AE%9A/
 http://chen-yulin.github.io/2024/05/07/%E9%B9%AD%E5%B2%9B%E6%97%85/
 http://chen-yulin.github.io/2024/04/09/%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A/
 http://chen-yulin.github.io/2024/04/05/%E5%8D%9A%E5%AE%A2%E4%B8%A4%E5%91%A8%E5%B9%B4%EF%BC%8C%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/
@@ -162,6 +162,7 @@ http://chen-yulin.github.io/tags/AI/
 http://chen-yulin.github.io/tags/app/
 http://chen-yulin.github.io/tags/python/
 http://chen-yulin.github.io/tags/GPT/
+http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/CV/
 http://chen-yulin.github.io/tags/6-D/
 http://chen-yulin.github.io/tags/supervised-learning/
@@ -172,15 +173,14 @@ http://chen-yulin.github.io/tags/Robot/
 http://chen-yulin.github.io/tags/csharp/
 http://chen-yulin.github.io/tags/Network/
 http://chen-yulin.github.io/tags/linux/
-http://chen-yulin.github.io/tags/AR/
 http://chen-yulin.github.io/tags/dynamic-programmming/
 http://chen-yulin.github.io/tags/recursive/
 http://chen-yulin.github.io/tags/git/
 http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
-http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/RNN/
+http://chen-yulin.github.io/tags/Embeded-System/
 http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/unsupervised-learning/
