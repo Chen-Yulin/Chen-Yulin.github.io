@@ -180,8 +180,8 @@ http://chen-yulin.github.io/tags/repository/
 http://chen-yulin.github.io/tags/version-management/
 http://chen-yulin.github.io/tags/submodule/
 http://chen-yulin.github.io/tags/RNN/
-http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/Embeded-System/
+http://chen-yulin.github.io/tags/idea/
 http://chen-yulin.github.io/tags/ML/
 http://chen-yulin.github.io/tags/unsupervised-learning/
 http://chen-yulin.github.io/tags/reinforcement-learning/
@@ -194,8 +194,6 @@ http://chen-yulin.github.io/tags/health/
 http://chen-yulin.github.io/tags/Behaviorism/
 http://chen-yulin.github.io/tags/Humanism/
 http://chen-yulin.github.io/tags/Postgraduate/
-http://chen-yulin.github.io/tags/Quantum/
-http://chen-yulin.github.io/tags/Information/
 http://chen-yulin.github.io/tags/dataframe/
 http://chen-yulin.github.io/tags/pandas/
 http://chen-yulin.github.io/tags/scrap/
@@ -203,6 +201,8 @@ http://chen-yulin.github.io/tags/bs4/
 http://chen-yulin.github.io/tags/regex/
 http://chen-yulin.github.io/tags/sklearn/
 http://chen-yulin.github.io/tags/numpy/
+http://chen-yulin.github.io/tags/Quantum/
+http://chen-yulin.github.io/tags/Information/
 http://chen-yulin.github.io/tags/SQL/
 http://chen-yulin.github.io/tags/Shader/
 http://chen-yulin.github.io/tags/shell/
@@ -215,11 +215,11 @@ http://chen-yulin.github.io/tags/Prefab/
 http://chen-yulin.github.io/tags/reference/
 http://chen-yulin.github.io/tags/plugin/
 http://chen-yulin.github.io/tags/javascript/
-http://chen-yulin.github.io/tags/nvim/
-http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/window-manager/
 http://chen-yulin.github.io/tags/beautify/
 http://chen-yulin.github.io/tags/ssh/
+http://chen-yulin.github.io/tags/nvim/
+http://chen-yulin.github.io/tags/path/
 http://chen-yulin.github.io/tags/philosophy/
 http://chen-yulin.github.io/tags/VideoEditing/
 http://chen-yulin.github.io/tags/Script/
