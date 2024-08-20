@@ -1416,6 +1416,20 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Network/</loc>
+    <lastmod>2024-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/linux/</loc>
+    <lastmod>2024-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/CV/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1472,20 +1486,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Network/</loc>
-    <lastmod>2024-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/linux/</loc>
-    <lastmod>2024-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1528,14 +1528,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
+    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1752,14 +1752,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/reference/</loc>
+    <loc>http://chen-yulin.github.io/tags/Prefab/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Prefab/</loc>
+    <loc>http://chen-yulin.github.io/tags/reference/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1857,6 +1857,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Method/</loc>
+    <lastmod>2024-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/AIGC/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1865,13 +1872,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/meeting/</loc>
-    <lastmod>2024-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Method/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
