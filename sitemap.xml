@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/08/20/%E7%94%9F%E5%A6%82%E5%A4%8F%E8%8A%B1/</loc>
+    <loc>http://chen-yulin.github.io/2024/08/20/%E7%94%9F%E6%B4%BB%E7%BB%A7%E7%BB%AD%E4%BD%86%E5%A4%8F%E5%A4%A9%E4%B8%8D%E4%BC%9A%E8%A4%AA%E8%89%B2/</loc>
     
     <lastmod>2024-08-20</lastmod>
     
@@ -1416,20 +1416,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Network/</loc>
-    <lastmod>2024-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/linux/</loc>
-    <lastmod>2024-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/CV/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1486,6 +1472,20 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Network/</loc>
+    <lastmod>2024-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/linux/</loc>
+    <lastmod>2024-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/dynamic-programmming/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1528,14 +1528,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
+    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/RNN/</loc>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
