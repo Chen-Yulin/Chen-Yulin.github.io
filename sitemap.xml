@@ -1213,13 +1213,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Foundation/</loc>
-    <lastmod>2024-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/SJTU-Lecture/</loc>
     <lastmod>2024-08-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -1228,6 +1221,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Tech-Communication/</loc>
+    <lastmod>2024-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Foundation/</loc>
     <lastmod>2024-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1500,6 +1500,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
+    <lastmod>2024-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/git/</loc>
     <lastmod>2024-08-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -1522,13 +1529,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/submodule/</loc>
-    <lastmod>2024-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Embeded-System/</loc>
     <lastmod>2024-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1780,6 +1780,27 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/window-manager/</loc>
+    <lastmod>2024-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/beautify/</loc>
+    <lastmod>2024-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
+    <lastmod>2024-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/nvim/</loc>
     <lastmod>2024-08-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -1823,27 +1844,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/%F0%9F%90%B1/</loc>
-    <lastmod>2024-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/window-manager/</loc>
-    <lastmod>2024-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/beautify/</loc>
-    <lastmod>2024-08-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/ssh/</loc>
     <lastmod>2024-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
