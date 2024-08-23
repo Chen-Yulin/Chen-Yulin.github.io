@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_LCD/</loc>
+    <loc>http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_Output_Compare/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_Output_Compare/</loc>
+    <loc>http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_LCD/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -65,25 +65,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]QuantumInformation-basic/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2024/07/15/[OBS]hexo-Hexo%20plugin%20--%20hexo-photo-wall/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2024/04/19/[OBS]Shell-Automate%20OpenROAD%20testing/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -110,6 +92,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]QuantumInformation-basic/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2024/05/13/[OBS]philosophy-Matter%20of%20Life%20and%20Death/</loc>
     
     <lastmod>2024-08-23</lastmod>
@@ -128,6 +119,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2024/04/19/[OBS]Shell-Automate%20OpenROAD%20testing/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Shell-Implement%20Build-in%20Command%20in%20C/</loc>
     
     <lastmod>2024-08-23</lastmod>
@@ -137,34 +137,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Unity-Prefab/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2024/04/25/[OBS]Graduate%20Project/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E4%BA%BA%E9%97%B4%E4%B8%80%E8%B6%9F%EF%BC%8C%E5%BF%83%E6%97%A0%E6%8C%82%E7%A2%8Dvs%E5%BF%83%E6%9C%89%E6%89%80%E5%B1%9E%E6%9B%B4%E5%80%BC%E5%BE%97/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9A%84%E6%AD%BB%E4%BA%A1%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%91%8A%E8%AF%89ta%E5%90%97/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -191,7 +164,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/05/24/[OBS]JustWork-JustWork%20%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Unity-Prefab/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -200,7 +173,16 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/05/12/[OBS]JustWork-Game%20Principle%20of%20%3CJustWork%3E/</loc>
+    <loc>http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E4%BA%BA%E9%97%B4%E4%B8%80%E8%B6%9F%EF%BC%8C%E5%BF%83%E6%97%A0%E6%8C%82%E7%A2%8Dvs%E5%BF%83%E6%9C%89%E6%89%80%E5%B1%9E%E6%9B%B4%E5%80%BC%E5%BE%97/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9A%84%E6%AD%BB%E4%BA%A1%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%91%8A%E8%AF%89ta%E5%90%97/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -227,6 +209,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2024/05/24/[OBS]JustWork-JustWork%20%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2024/05/19/[OBS]%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
     
     <lastmod>2024-08-23</lastmod>
@@ -236,7 +227,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]SmartCity-Aircraft%20control%20policy/</loc>
+    <loc>http://chen-yulin.github.io/2024/05/12/[OBS]JustWork-Game%20Principle%20of%20%3CJustWork%3E/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -263,7 +254,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Math-LinearAlgebra/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]SmartCity-Aircraft%20control%20policy/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -281,15 +272,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]XbortPark-Lecture-March21/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2024/04/20/[OBS]Docusaurus/</loc>
     
     <lastmod>2024-08-23</lastmod>
@@ -299,7 +281,16 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]nvim-InterestingPlugin/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Math-LinearAlgebra/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]XbortPark-Lecture-March21/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -317,24 +308,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]nvim-LSP-config/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]AI-GPT-app/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/[OBS]DynamicProgramming-basic/</loc>
     
     <lastmod>2024-08-23</lastmod>
@@ -344,7 +317,16 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]IPP_Robot_Motion_Planning-Human%20motion%20prediction/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]nvim-InterestingPlugin/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]nvim-LSP-config/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -371,6 +353,33 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]AI-GPT-app/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]AI-GPT-method/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]IPP_Robot_Motion_Planning-Human%20motion%20prediction/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2024/04/05/[OBS]AI-Wechat%20bot/</loc>
     
     <lastmod>2024-08-23</lastmod>
@@ -389,7 +398,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]AI-GPT-method/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Python-DataFrame/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -398,7 +407,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Python-DataFrame/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Shader-SemanticSegmentation/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -425,7 +434,16 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Shader-SemanticSegmentation/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Python-sklearn/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Git-Version/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -452,7 +470,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Python-sklearn/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]goal/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -461,7 +479,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]goal/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/09/[OBS]Git-merge/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -488,7 +506,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Git-Version/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]PSY-Learning/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -497,7 +515,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/09/[OBS]Git-merge/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]PSY-MessageToMyself/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -524,33 +542,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]PSY-Learning/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]PSY-MessageToMyself/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2024/05/24/[OBS]linux-Copy-Paste%20in%20Hyprland%20across%20Wayland%20&%20XWayland/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/[OBS]linux-WM/</loc>
     
     <lastmod>2024-08-23</lastmod>
@@ -569,16 +560,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]linux-ssh/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2024/05/23/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AA%84%E9%97%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap7/</loc>
+    <loc>http://chen-yulin.github.io/2024/05/24/[OBS]linux-Copy-Paste%20in%20Hyprland%20across%20Wayland%20&%20XWayland/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -605,7 +587,43 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]linux-ssh/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2024/05/23/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AA%84%E9%97%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap7/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2024/04/18/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E8%BE%B9%E5%9F%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap3/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2024/04/10/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E5%90%BE%E5%9B%BD%E4%B8%8E%E5%90%BE%E6%B0%91%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap2/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2024/04/09/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap1/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -632,7 +650,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/04/18/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E8%BE%B9%E5%9F%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap3/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]SQL-basic/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -641,7 +659,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/04/09/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap1/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]SQL-pandas/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -668,25 +686,16 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]SQL-basic/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]SQL-pandas/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/[OBS]ML-basic/</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-6-D%20Pose%20Estimation%20Survey/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -731,7 +740,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-6d%20pose%20--%20unity%20coordinate/</loc>
+    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-%E8%87%AA%E5%AE%9A%E4%B9%89%20Gen6d%20%E7%89%A9%E4%BD%93/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -740,7 +749,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-6-D%20Pose%20Estimation%20Survey/</loc>
+    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-6d%20pose%20--%20unity%20coordinate/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -758,7 +767,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-%E8%87%AA%E5%AE%9A%E4%B9%89%20Gen6d%20%E7%89%A9%E4%BD%93/</loc>
+    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-Robotic%20Arm%20Digital%20Twin(DT)/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -776,7 +785,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-Robotic%20Arm%20Digital%20Twin(DT)/</loc>
+    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-Python-Unity%20Network/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -786,15 +795,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-IK%20Path%20Planning/</loc>
-    
-    <lastmod>2024-08-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-Python-Unity%20Network/</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -2282,14 +2282,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/repository/</loc>
+    <loc>http://chen-yulin.github.io/tags/version-management/</loc>
     <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/version-management/</loc>
+    <loc>http://chen-yulin.github.io/tags/repository/</loc>
     <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
