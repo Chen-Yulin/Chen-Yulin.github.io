@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://chen-yulin.github.io/2024/05/22/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/</loc>
+    <lastmod>2024-08-23</lastmod>
+  </url>
+  <url>
     <loc>http://chen-yulin.github.io/2024/06/16/%5BOBS%5DEmbededSystem-ECE3730J%20RC2_Output_Compare/</loc>
     <lastmod>2024-08-23</lastmod>
   </url>
@@ -293,10 +297,6 @@
     <lastmod>2024-08-23</lastmod>
   </url>
   <url>
-    <loc>http://chen-yulin.github.io/2024/08/23/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/</loc>
-    <lastmod>2024-08-23</lastmod>
-  </url>
-  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DIdea-app/</loc>
     <lastmod>2024-08-23</lastmod>
   </url>
@@ -401,11 +401,11 @@
     <lastmod>2024-08-06</lastmod>
   </url>
   <url>
-    <loc>http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/</loc>
+    <loc>http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_LCD/</loc>
     <lastmod>2024-08-01</lastmod>
   </url>
   <url>
-    <loc>http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_LCD/</loc>
+    <loc>http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/</loc>
     <lastmod>2024-08-01</lastmod>
   </url>
   <url>
@@ -513,11 +513,11 @@
     <lastmod>2024-08-01</lastmod>
   </url>
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/basic/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/XbortPark/Lecture/March21/</loc>
     <lastmod>2024-08-01</lastmod>
   </url>
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/XbortPark/Lecture/March21/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/basic/</loc>
     <lastmod>2024-08-01</lastmod>
   </url>
   <url>

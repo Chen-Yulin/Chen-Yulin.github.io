@@ -1,3 +1,4 @@
+http://chen-yulin.github.io/2024/05/22/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/
 http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_Output_Compare/
 http://chen-yulin.github.io/2024/07/01/[OBS]EmbededSystem-ECE3730J%20RC3_LAB4/
 http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_LCD/
@@ -68,7 +69,6 @@ http://chen-yulin.github.io/2024/05/11/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6
 http://chen-yulin.github.io/2024/04/18/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E8%BE%B9%E5%9F%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap3/
 http://chen-yulin.github.io/2024/04/10/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E5%90%BE%E5%9B%BD%E4%B8%8E%E5%90%BE%E6%B0%91%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap2/
 http://chen-yulin.github.io/2024/04/09/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap1/
-http://chen-yulin.github.io/2024/08/23/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/
 http://chen-yulin.github.io/2024/05/16/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A4%AA%E9%98%B3%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap5/
 http://chen-yulin.github.io/2023/05/10/[OBS]SQL-basic/
 http://chen-yulin.github.io/2023/05/10/[OBS]SQL-pandas/
@@ -99,8 +99,8 @@ http://chen-yulin.github.io/2024/04/20/obsidian/Docusaurus/
 http://chen-yulin.github.io/2023/05/10/obsidian/goal/
 http://chen-yulin.github.io/2023/05/10/obsidian/Python/regex/
 http://chen-yulin.github.io/2024/07/01/obsidian/EmbededSystem/ECE3730J%20RC3_LAB4/
-http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_LCD/
+http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Output_Compare/
 http://chen-yulin.github.io/2023/05/10/obsidian/EmbededSystem/basic/
 http://chen-yulin.github.io/2024/07/15/obsidian/hexo/Hexo%20plugin%20--%20hexo-photo-wall/
 http://chen-yulin.github.io/2024/06/16/obsidian/EmbededSystem/ECE3730J%20RC2_Input_Capture/
@@ -126,8 +126,8 @@ http://chen-yulin.github.io/2024/05/16/obsidian/Computer%20Network/Unix%20Networ
 http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/Aircraft%20control%20policy/
 http://chen-yulin.github.io/2023/05/10/obsidian/SmartCity/autonomousDriving/
 http://chen-yulin.github.io/2023/05/10/obsidian/Math/LinearAlgebra/
-http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/XbortPark/Lecture/March21/
+http://chen-yulin.github.io/2023/05/10/obsidian/nvim/LSP/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/DynamicProgramming/basic/
 http://chen-yulin.github.io/2023/05/10/obsidian/nvim/InterestingPlugin/
 http://chen-yulin.github.io/2023/05/10/obsidian/nvim/stdpath/
