@@ -220,8 +220,8 @@ http://chen-yulin.github.io/tags/start-business/
 http://chen-yulin.github.io/tags/operational-ability/
 http://chen-yulin.github.io/tags/academic-ability/
 http://chen-yulin.github.io/tags/hexo/
-http://chen-yulin.github.io/tags/javascript/
 http://chen-yulin.github.io/tags/plugin/
+http://chen-yulin.github.io/tags/javascript/
 http://chen-yulin.github.io/tags/window-manager/
 http://chen-yulin.github.io/tags/beautify/
 http://chen-yulin.github.io/tags/ssh/
