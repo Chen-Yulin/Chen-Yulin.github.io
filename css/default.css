@@ -11907,7 +11907,7 @@ article .title:hover a {
   display: none;
 }
 body.night {
-  background: #0e1225;
+  background: #333;
 }
 body.night .hljs {
   display: block;
@@ -11981,7 +11981,8 @@ body.night #night-nav #night-icon:before {
   content: '\f0eb';
 }
 body.night #universe {
-  background: radial-gradient(1600px at 70% 120%, #212750 10%, #020409 100%);
+  background: url("/img/shower.jpg") no-repeat center/auto;
+  background-size: cover;
   display: block;
   position: fixed;
   margin: 0;
@@ -12017,19 +12018,19 @@ body.night .navbar-main .navbar-menu .navbar-item:focus {
 }
 body.night .navbar,
 body.night .card {
-  background-color: rgba(40,44,52,0.5);
-  backdrop-filter: none;
-  -webkit-backdrop-filter: none;
+  background-color: rgba(40,44,52,0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 body.night .card:hover {
-  background-color: rgba(40,44,52,0.8);
+  background-color: rgba(40,44,52,0.85);
 }
 body.night .card .breadcrumb li.is-active a {
   color: #c0c0c0;
 }
 body.night .footer {
-  backdrop-filter: none;
-  -webkit-backdrop-filter: none;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 body.night .footer:before {
   background-color: rgba(40,44,52,0.5);
@@ -12273,7 +12274,7 @@ body.night .twikoo code {
 }
 @media (prefers-color-scheme: dark) {
   body:not(.light) {
-    background: #0e1225;
+    background: #333;
   }
   body:not(.light) .hljs {
     display: block;
@@ -12347,7 +12348,8 @@ body.night .twikoo code {
     content: '\f0eb';
   }
   body:not(.light) #universe {
-    background: radial-gradient(1600px at 70% 120%, #212750 10%, #020409 100%);
+    background: url("/img/shower.jpg") no-repeat center/auto;
+    background-size: cover;
     display: block;
     position: fixed;
     margin: 0;
@@ -12383,19 +12385,19 @@ body.night .twikoo code {
   }
   body:not(.light) .navbar,
   body:not(.light) .card {
-    background-color: rgba(40,44,52,0.5);
-    backdrop-filter: none;
-    -webkit-backdrop-filter: none;
+    background-color: rgba(40,44,52,0.7);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
   }
   body:not(.light) .card:hover {
-    background-color: rgba(40,44,52,0.8);
+    background-color: rgba(40,44,52,0.85);
   }
   body:not(.light) .card .breadcrumb li.is-active a {
     color: #c0c0c0;
   }
   body:not(.light) .footer {
-    backdrop-filter: none;
-    -webkit-backdrop-filter: none;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
   }
   body:not(.light) .footer:before {
     background-color: rgba(40,44,52,0.5);
