@@ -115,7 +115,8 @@
 
 <h2 id="Compile"><a href="#Compile" class="headerlink" title="Compile"></a>Compile</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> ~/ROS_study/catkin_ws</span><br><span class="line">$ catkin_make</span><br><span class="line">$ <span class="built_in">source</span> ./devel/setup.zsh</span><br><span class="line">$ roscore</span><br><span class="line">$ rosrun turtlesim turtlesim_node</span><br><span class="line">$ rosrun learning_topic velocity_publisher</span><br></pre></td></tr></table></figure>
 <p>Then, you can see turtle:</p>
-<p><a href="/2022/04/15/ROS-Publisher/ros_turtle.png" class="gallery-item"><img src="/2022/04/15/ROS-Publisher/ros_turtle.png" title="ros_turtle"></a></p>
+<div class="post-content"><a href="/2022/04/15/ROS-Publisher/ros_turtle.png" title="" title=" class="gallery-item"><img src="/2022/04/15/ROS-Publisher/ros_turtle.png" alt="" title="ros_turtle"></a></div>
+
 <p>And outputs:</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">...</span><br><span class="line">[ INFO] [1650088100.376299177]: Publish turtle velocity command at 0.50 m/s, 0.20 rad/s</span><br><span class="line">[ INFO] [1650088100.476312726]: Publish turtle velocity command at 0.50 m/s, 0.20 rad/s</span><br><span class="line">[ INFO] [1650088100.576304995]: Publish turtle velocity command at 0.50 m/s, 0.20 rad/s</span><br><span class="line">...</span><br></pre></td></tr></table></figure>
 

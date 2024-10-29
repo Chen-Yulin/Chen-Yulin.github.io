@@ -55,7 +55,9 @@
 
 
 <h1 id="Introduce"><a href="#Introduce" class="headerlink" title="Introduce"></a>Introduce</h1><h2 id="Motivation"><a href="#Motivation" class="headerlink" title="Motivation"></a>Motivation</h2><p>We want to apply computer vision to the plane to fullfill ground investigation task automatically.</p>
-<h2 id="Objective"><a href="#Objective" class="headerlink" title="Objective"></a>Objective</h2><p>The input image looks like this:<br><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/img56.png" title="InputImg" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/img56.png" alt="InputImg" title="img56"></a></p>
+<h2 id="Objective"><a href="#Objective" class="headerlink" title="Objective"></a>Objective</h2><p>The input image looks like this:</p>
+<div class="post-content"><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/img56.png" title="InputImg" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/img56.png" alt="InputImg" title="img56"></a></div>
+
 <p>And we hope the output prediction to be <font color=#00bbbb>56</font>.</p>
 <h1 id="Implementation"><a href="#Implementation" class="headerlink" title="Implementation"></a>Implementation</h1><h2 id="Environment-Preparation"><a href="#Environment-Preparation" class="headerlink" title="Environment Preparation"></a>Environment Preparation</h2><ul>
 <li>python3</li>
@@ -104,7 +106,8 @@
 </li>
 <li>ROI</li>
 <li><ul>
-<li>the list whose elements are index([x,y,w,h]) of orthogonal bounding rectangle<br><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/minRect.png" title="MinRect and BoundingBox" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/minRect.png" alt="MinRect and BoundingBox" title="MinRect &amp; BoundingBox"></a><br>In this picture, the blue frames are the minimum bounding Rectangle and the green ones are ordinary bounding box.</li>
+<li>the list whose elements are index([x,y,w,h]) of orthogonal bounding rectangle<div class="post-content"><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/minRect.png" title="MinRect and BoundingBox" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/minRect.png" alt="MinRect and BoundingBox" title="MinRect & BoundingBox"></a></div>
+In this picture, the blue frames are the minimum bounding Rectangle and the green ones are ordinary bounding box.</li>
 </ul>
 </li>
 </ul>
@@ -135,15 +138,18 @@
 </tbody></table>
 <h4 id="Get-the-estimated-area-of-the-target-by-color-filtering"><a href="#Get-the-estimated-area-of-the-target-by-color-filtering" class="headerlink" title="Get the estimated area of the target by color filtering"></a>Get the estimated area of the target by color filtering</h4><p>First we need to convert the color layout from BGR to HSV, which is easier to judge color.</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">image_hsv=cv2.cvtColor(image_cut,cv2.COLOR_BGR2HSV)</span><br></pre></td></tr></table></figure>
-<p>Then define a mask that filter the color(hue) range from 160-179 or 0-10 (red),<br><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/hsv.png" title="HSV" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/hsv.png" alt="HSV" title="HSV"></a></p>
+<p>Then define a mask that filter the color(hue) range from 160-179 or 0-10 (red),</p>
+<div class="post-content"><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/hsv.png" title="HSV" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/hsv.png" alt="HSV" title="HSV"></a></div>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">red1=np.array([0,100,100])</span><br><span class="line">red2=np.array([10,255,255])</span><br><span class="line">red3=np.array([160,100,100])</span><br><span class="line">red4=np.array([179,255,255])</span><br><span class="line">mask1=cv2.inRange(image_hsv,red1,red2)</span><br><span class="line">mask2=cv2.inRange(image_hsv,red3,red4)</span><br><span class="line">mask=cv2.bitwise_or(mask1,mask2)</span><br></pre></td></tr></table></figure>
 
 <p>And apply the mask to the picture</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">after_mask=cv2.add(image_cut, np.zeros(np.shape(image_cut), dtype=np.uint8), mask=mask)</span><br></pre></td></tr></table></figure>
-<p><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/after_mask.png" title="after_mask" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/after_mask.png" alt="after_mask" title="after_mask"></a></p>
+<div class="post-content"><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/after_mask.png" title="after_mask" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/after_mask.png" alt="after_mask" title="after_mask"></a></div>
+
 <p>Turn the <font color=#00bbbb>after mask</font> image into binary image and adapt close and open processing to fill holes and cancel noise.</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">kernel=np.ones([3,3],np.uint8)</span><br><span class="line">close=cv2.morphologyEx(binary,cv2.MORPH_CLOSE,kernel,iterations=3)</span><br><span class="line">Open=cv2.morphologyEx(close,cv2.MORPH_OPEN,kernel,iterations=1)</span><br></pre></td></tr></table></figure>
-<p><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/close_and_open.png" title="close and open" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/close_and_open.png" alt="close and open" title="Close and Open"></a></p>
+<div class="post-content"><a href="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/close_and_open.png" title="close and open" class="gallery-item"><img src="/2022/04/23/CADC-Ground-Investigation-Visual-Solution/close_and_open.png" alt="close and open" title="Close and Open"></a></div>
+
 <p>Then, find the contours of the processed image.</p>
 <p>For each contour, adapt filters such as area, the ratio of the height and width of bounding rectangle.</p>
 <p>If these restrictions are fullfilled, append the index of bounding rectangle and min area rectangle to two lists respectively, and return the lists.</p>

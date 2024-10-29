@@ -12654,10 +12654,19 @@ body.night .twikoo code {
   max-width: 100%;
   height: auto;
   display: block;
-  border: 2px solid #ddd;
-  border-radius: 15px;
-  padding: 15px;
+  border: 20px solid #ddd;
+  border-radius: 20px;
   object-fit: cover;
+}
+.post-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.post-content img {
+  border-radius: 15px; /* 可以调整数值来控制圆角大小 */
+  overflow: hidden; /* 确保图片四周都有圆角 */
 }
 body {
   counter-reset: card;
