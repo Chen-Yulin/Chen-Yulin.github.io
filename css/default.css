@@ -12664,6 +12664,8 @@ body.night .twikoo code {
   width: 100%;
 }
 .post-content img {
-  border-radius: 15px; /* 可以调整数值来控制圆角大小 */
+  padding: 10px;
+  border-radius: 25px; /* 可以调整数值来控制圆角大小 */
   overflow: hidden; /* 确保图片四周都有圆角 */
+  filter: drop-shadow(0 4px 4px rgba(0,0,0,0.4));
 }
