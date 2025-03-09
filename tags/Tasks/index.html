@@ -1,0 +1,779 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="robots" content="noindex"><meta name="theme-color" content="#123456"><title>Tag: Tasks - Chen Yulin&#039;s Blog</title><link rel="manifest" href="/manifest.json"><meta name="theme-color" content="#6495ed"><meta name="application-name" content="Icarus - Hexo Theme"><meta name="msapplication-TileImage" content="/img/favicon.svg"><meta name="msapplication-TileColor" content="#6495ed"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Icarus - Hexo Theme"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta property="og:type" content="blog"><meta property="og:title" content="Chen Yulin&#039;s Blog"><meta property="og:url" content="http://chen-yulin.github.io/"><meta property="og:site_name" content="Chen Yulin&#039;s Blog"><meta property="og:locale" content="en_US"><meta property="og:image" content="http://chen-yulin.github.io/img/og_image.png"><meta property="article:author" content="Chen Yulin"><meta property="twitter:card" content="summary"><meta property="twitter:image:src" content="http://chen-yulin.github.io/img/og_image.png"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://chen-yulin.github.io"},"headline":"Chen Yulin's Blog","image":["http://chen-yulin.github.io/img/og_image.png"],"author":{"@type":"Person","name":"Chen Yulin"},"publisher":{"@type":"Organization","name":"Chen Yulin's Blog","logo":{"@type":"ImageObject","url":{"light":"/img/cyllogo.png","dark":"/img/cyllogonight.png"}}},"description":""}</script><link rel="icon" href="/img/favicon.svg"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"><link data-pjax rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.7.0/styles/atom-one-light.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;600&amp;family=Source+Code+Pro"><link data-pjax rel="stylesheet" href="/css/default.css"><style>body>.footer,body>.navbar,body>.section{opacity:0}</style><!--!--><!--!--><!--!--><!--!--><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css"><!--!--><!--!--><style>.pace{-webkit-pointer-events:none;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;user-select:none}.pace-inactive{display:none}.pace .pace-progress{background:#3273dc;position:fixed;z-index:2000;top:0;right:100%;width:100%;height:2px}</style><script src="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js"></script><!--!--><!--!--><!-- hexo injector head_end start --><script>
+  (function () {
+      function switchTab() {
+          if (!location.hash) {
+            return;
+          }
+
+          const id = '#' + CSS.escape(location.hash.substring(1));
+          const $tabMenu = document.querySelector(`.tabs a[href="${id}"]`);
+          if (!$tabMenu) {
+            return;
+          }
+
+          const $tabMenuContainer = $tabMenu.parentElement.parentElement;
+          Array.from($tabMenuContainer.children).forEach($menu => $menu.classList.remove('is-active'));
+          Array.from($tabMenuContainer.querySelectorAll('a'))
+              .map($menu => document.getElementById($menu.getAttribute("href").substring(1)))
+              .forEach($content => $content.classList.add('is-hidden'));
+
+          if ($tabMenu) {
+              $tabMenu.parentElement.classList.add('is-active');
+          }
+          const $activeTab = document.querySelector(id);
+          if ($activeTab) {
+              $activeTab.classList.remove('is-hidden');
+          }
+      }
+      switchTab();
+      window.addEventListener('hashchange', switchTab, false);
+  })();
+  </script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.3.0"></head><body class="is-3-column"><script type="text/javascript" src="/js/imaegoo/night.js"></script><canvas id="universe"></canvas><nav class="navbar navbar-main"><div class="container navbar-container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/"><img class="logo-img" src="/img/cyllogo.png" alt="Chen Yulin&#039;s Blog" height="28"><img class="logo-img-dark" src="/img/cyllogonight.png" alt="Chen Yulin&#039;s Blog" height="28"></a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">Home</a><a class="navbar-item" href="/archives">Archives</a><a class="navbar-item" href="/categories">Categories</a><a class="navbar-item" href="/tags">Tags</a><a class="navbar-item" href="/about">About</a></div><div class="navbar-end"><a class="navbar-item night" id="night-nav" title="Night Mode" href="javascript:;"><i class="fas fa-moon" id="night-icon"></i></a><a class="navbar-item" target="_blank" rel="noopener" title="Download on GitHub" href="https://github.com/Chen-Yulin"><i class="fab fa-github"></i></a><a class="navbar-item search" title="Search" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-6-widescreen"><div class="card"><div class="card-content"><nav class="breadcrumb" aria-label="breadcrumbs"><ul><li><a href="/tags/">Tags</a></li><li class="is-active"><a href="#" aria-current="page">Tasks</a></li></ul></nav></div></div><div class="card"><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item">Posted&nbsp;<time dateTime="2025-01-15T16:42:09.000Z" title="1/16/2025, 12:42:09 AM">2025-01-16</time></span><span class="level-item">Updated&nbsp;<time dateTime="2025-03-09T13:37:21.882Z" title="3/9/2025, 9:37:21 PM">2025-03-09</time></span><span class="level-item"><a class="link-muted" href="/categories/Schedule/">Schedule</a></span><span class="level-item">4 minutes read (About 674 words)</span></div></div><p class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2025/01/16/%5BOBS%5D2025%20Winter%20Schedule/">2025 Winter Schedule</a></p><div class="content"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h3 id="Routine"><a href="#Routine" class="headerlink" title="Routine"></a>Routine</h3><p>爱心屋签到： aixinwu.sjtu.edu.cn&#x2F;products&#x2F;asw-store<br>每日二GRISSO💊</p>
+<p>Starting from 2&#x2F;20: </p>
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+<th>Saturday</th>
+<th>Sunday</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>08:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>计算机视觉’DSY115</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>自然辩证法DSY202</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>数据挖掘CRQ219</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Credits: 3+3+1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="Non-routine"><a href="#Non-routine" class="headerlink" title="Non-routine"></a>Non-routine</h3><h4 id="论文"><a href="#论文" class="headerlink" title="论文"></a>论文</h4><h4 id="Due"><a href="#Due" class="headerlink" title="Due"></a>Due</h4><ul>
+<li><input disabled="" type="checkbox"> DeepSeek from scratch 2&#x2F;20</li>
+<li><input disabled="" type="checkbox"> 医保补缴 3&#x2F;16</li>
+<li><input disabled="" type="checkbox"> 场景语义理解&#x2F;重建 文献综述，表格 3&#x2F;13</li>
+<li><input disabled="" type="checkbox"> 知识图谱表格细节完善 3&#x2F;10</li>
+<li><input disabled="" type="checkbox"> 计算机视觉hw1 (due?)</li>
+</ul>
+<h4 id="No-Due"><a href="#No-Due" class="headerlink" title="No Due"></a>No Due</h4><ul>
+<li><input disabled="" type="checkbox"> 请糕吃烤鱼</li>
+<li><input disabled="" type="checkbox"> Godot Learning [[Godot Learning Plan]]</li>
+<li><input disabled="" type="checkbox"> 琪琪水彩</li>
+<li><input disabled="" type="checkbox"> 流萤水彩</li>
+<li><input disabled="" type="checkbox"> 美罗城 云海肴 汽锅鸡</li>
+<li><input disabled="" type="checkbox"> 夏季expo 志愿者</li>
+<li><input disabled="" type="checkbox"> 《负负得正》</li>
+<li><input disabled="" type="checkbox"> 《涉过愤怒的海》</li>
+<li><input disabled="" type="checkbox"> 《素食者》</li>
+</ul>
+<h4 id="有生之年系列"><a href="#有生之年系列" class="headerlink" title="有生之年系列"></a>有生之年系列</h4><ul>
+<li><input disabled="" type="checkbox"> 手工🎸</li>
+<li><input disabled="" type="checkbox"> 侍奉社</li>
+</ul>
+<h4 id="Archived"><a href="#Archived" class="headerlink" title="Archived"></a>Archived</h4><ul>
+<li><input checked="" disabled="" type="checkbox"> AMD 2025冬令营 1&#x2F;16 🔒Done! <strong>2025-01-19</strong> 🕸️ Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 凉水彩 🔒Done! <strong>2025-01-19</strong> 🕸️ Routine &gt; Non-routine &gt; Due &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> wyf 生日 1&#x2F;22 🔒Done! <strong>2025-01-24</strong> 🕸️ Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> JI VPN application 🔒Done! <strong>2025-01-24</strong> 🕸️ Routine &gt; Non-routine &gt; Due &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 糕生日 2&#x2F;11 🔒Done! <strong>2025-02-13</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> WW2-Naval Mod 🔒Done! <strong>2025-02-13</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; No Due<ul>
+<li><input checked="" disabled="" type="checkbox"> 潜艇<ul>
+<li><input checked="" disabled="" type="checkbox"> 深弹</li>
+<li><input checked="" disabled="" type="checkbox"> 水箱毁伤</li>
+<li><input checked="" disabled="" type="checkbox"> 水听</li>
+<li><input checked="" disabled="" type="checkbox"> 视距外脱锁</li>
+<li><input checked="" disabled="" type="checkbox"> 罗盘UI</li>
+<li><input checked="" disabled="" type="checkbox"> 声纳</li>
+<li><input checked="" disabled="" type="checkbox"> 发电机启停UI</li>
+<li><input checked="" disabled="" type="checkbox"> 备用鱼雷</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 舰载机修复<ul>
+<li><input checked="" disabled="" type="checkbox"> 水机回收</li>
+<li><input checked="" disabled="" type="checkbox"> 机库</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 取邮政快递 🔒Done! <strong>2025-02-13</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 《悉达多》[[《悉达多》 读书会p14]] 🔒Done! <strong>2025-02-13</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> Scene-LLm 🔒Done! <strong>2025-02-19</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> 3D-LLM 🔒Done! <strong>2025-02-19</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> Transformer from scratch 2&#x2F;14 🔒Done! <strong>2025-02-19</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> NSFC 环境重建大纲 2&#x2F;18 🔒Done! <strong>2025-02-19</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 场景语义化的文献归纳 <a target="_blank" rel="noopener" href="https://sjtu.feishu.cn/docx/DV4Sd0wM8oFGe9xFokJcHHJ9nlf">https://sjtu.feishu.cn/docx/DV4Sd0wM8oFGe9xFokJcHHJ9nlf</a> 🔒Done! <strong>2025-02-19</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> DINO 🔒Done! <strong>2025-02-19</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> PointLLM 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> ProgPrompt9 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> SayPlan 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> Grounding DINO 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> DELTA 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> MaskCLIP 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> ConceptFusion 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文</li>
+<li><input checked="" disabled="" type="checkbox"> 春季选课 Registration 2&#x2F;28 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 本科学分转换申请 <a target="_blank" rel="noopener" href="https://oc.sjtu.edu.cn/courses/79964/files/10543090?verifier=H27ad4khN8MYTaAl6wMuo7UspMYzsBHyqfBVDthZ&wrap=1">文件</a> 2&#x2F;28 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> Holo-Arm PRP application sheet 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 《禅与摩托车的维修艺术》[[《禅与摩托车维修艺术》读书会p10]] 🔒Done! <strong>2025-03-09</strong> 🕸️ Routine &gt; Non-routine &gt; 论文 &gt; No Due</li>
+</ul>
+</div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script></div></article></div><div class="card"><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item">Posted&nbsp;<time dateTime="2024-09-22T15:19:49.000Z" title="9/22/2024, 11:19:49 PM">2024-09-22</time></span><span class="level-item">Updated&nbsp;<time dateTime="2025-03-09T13:37:21.781Z" title="3/9/2025, 9:37:21 PM">2025-03-09</time></span><span class="level-item"><a class="link-muted" href="/categories/Schedule/">Schedule</a></span><span class="level-item">15 minutes read (About 2238 words)</span></div></div><p class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2024/09/22/%5BOBS%5D2024%20Fall%20Schedule/">2024 Fall Schedule</a></p><div class="content"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h3 id="Routine"><a href="#Routine" class="headerlink" title="Routine"></a>Routine</h3><p>希望可以每天看两个小时论文<br>爱心屋签到： aixinwu.sjtu.edu.cn&#x2F;products&#x2F;asw-store<br>中午12点抢羽毛球场<br>午&#x2F;晚饭后乌灵💊<br>每日二GRISSO💊</p>
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+<th>Saturday</th>
+<th>Sunday</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>08:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>周末睡懒觉～</td>
+</tr>
+<tr>
+<td>09:00</td>
+<td>读论文</td>
+<td>读论文</td>
+<td>读论文</td>
+<td></td>
+<td>Arch Update</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>组会</td>
+<td>Seminar</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Friday afternoon</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>ME6801(DXY402)</td>
+<td></td>
+<td></td>
+<td>新中特(CRQ214)</td>
+<td></td>
+<td></td>
+<td>E-Guitar</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16:00</td>
+<td></td>
+<td>ECE6903(DZY3-105)</td>
+<td>ME6801(DXY402)</td>
+<td>ECE6903(DZY3-105)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>博客网维护</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>VG501(DXY112)</td>
+<td>Nvim Update</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19:00</td>
+<td>E-Guitar</td>
+<td>E-Guitar</td>
+<td>E-Guitar</td>
+<td></td>
+<td>E-Guitar</td>
+<td>E-Guitar</td>
+<td></td>
+</tr>
+<tr>
+<td>20:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Movie</td>
+</tr>
+<tr>
+<td>21:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22:00</td>
+<td>Reading</td>
+<td>Reading</td>
+<td>Reading</td>
+<td>Reading</td>
+<td>Reading</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Credits: 3+3+2+1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="Non-routine"><a href="#Non-routine" class="headerlink" title="Non-routine"></a>Non-routine</h3><h4 id="Due"><a href="#Due" class="headerlink" title="Due"></a>Due</h4><p>Moved to [[2025 Winter Schedule]]</p>
+<h4 id="No-Due"><a href="#No-Due" class="headerlink" title="No Due"></a>No Due</h4><p>Moved to [[2025 Winter Schedule]]</p>
+<h4 id="有生之年系列"><a href="#有生之年系列" class="headerlink" title="有生之年系列"></a>有生之年系列</h4><p>Moved to [[2025 Winter Schedule]]</p>
+<h4 id="Archived"><a href="#Archived" class="headerlink" title="Archived"></a>Archived</h4><ul>
+<li><input checked="" disabled="" type="checkbox"> 交登记表9&#x2F;23 🔒Done! <strong>2024-09-23</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> 501 self-introduction 9&#x2F;24 🔒Done! <strong>2024-09-24</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> Live2d 重置 [[live2d 复活计画]] 🔒Done! <strong>2024-09-25</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> 实验室设备准备 🔒Done! <strong>2024-09-26</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine<ul>
+<li><input checked="" disabled="" type="checkbox"> 显示器<ul>
+<li><input checked="" disabled="" type="checkbox"> 发票登记</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 主机</li>
+<li><input checked="" disabled="" type="checkbox"> 工位申请</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 苏州博物馆主馆抢票9&#x2F;28 8:00p.m. 🔒Done! <strong>2024-09-28</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> 毕设报销后续 🔒Done! <strong>2024-09-30</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> Transformer 及其变体论文 🔒Done! <strong>2024-09-30</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> 中国银行卡激活9&#x2F;30 🔒Done! <strong>2024-09-30</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> 实验室机箱 🔒Done! <strong>2024-10-05</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine<ul>
+<li><input checked="" disabled="" type="checkbox"> 更换硬盘（遗留硬盘还有用处，不能直接格式化）</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> Neovim类Cursor插件 <a target="_blank" rel="noopener" href="https://github.com/yetone/avante.nvim">https://github.com/yetone/avante.nvim</a> [[Neovim Cursor (avante.nvim)]] 🔒Done! <strong>2024-10-08</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> 博客添加AI助手 🔒Done! <strong>2024-10-08</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> 中外合作办学十周年志愿者10&#x2F;10 🔒Done! <strong>2024-10-10</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine</li>
+<li><input checked="" disabled="" type="checkbox"> nvim plugin tutorial [[Basic Neovim Plugin Development Tutorial]] 🔒Done! <strong>2024-10-10</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine<ul>
+<li><input checked="" disabled="" type="checkbox"> :h write-plugin</li>
+<li><input checked="" disabled="" type="checkbox"> :h lua-guide</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 6801 HW1 10&#x2F;14  🔒Done! <strong>2024-10-13</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> ColorfulDiff.nvim development 🔒Done!(<a target="_blank" rel="noopener" href="https://github.com/Chen-Yulin/ColorfulDiff.nvim/tree/v0.0.1">https://github.com/Chen-Yulin/ColorfulDiff.nvim/tree/v0.0.1</a>) <strong>2024-10-14</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 精神卫生中心-精神科就诊 10&#x2F;15 13:30~14:00 🔒Done! <strong>2024-10-16</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 实验室安全教育414A 10&#x2F;15 16:00 🔒Done! <strong>2024-10-16</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 入学教育二10&#x2F;16 🔒Done! <strong>2024-10-16</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> <a target="_blank" rel="noopener" href="https://www.callforpapers.co.uk/digitaltwin">https://www.callforpapers.co.uk/digitaltwin</a>  (Human Digital Twin For Improving Ergonomics And Worker’s Well-being) 🔒Done! <strong>2024-10-16</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> hyprscroller mode+overview waybar [[Hyprscroller + Waybar]] 🔒Done! <strong>2024-10-17</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 501 inclass 10&#x2F;18 🔒Done! <strong>2024-10-19</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> Godot game engine 调研 (<a target="_blank" rel="noopener" href="https://docs.godotengine.org/en/stable/about/introduction.html#before-you-start">https://docs.godotengine.org/en/stable/about/introduction.html#before-you-start</a>) 🔒Done! <strong>2024-10-19</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> Jolt physics engine (<a target="_blank" rel="noopener" href="http://nilssondev.com/posts/my-journey-with-physics)[[Jolt">http://nilssondev.com/posts/my-journey-with-physics)[[Jolt</a> vs PhysX]] 🔒Done! <strong>2024-10-19</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 米羔sama读书会《倦怠社会》10&#x2F;19 (密院心语20:00～22:00) [[《倦怠社会》读书会p9]][[《倦怠社会》读书会p9]] 🔒Done! <strong>2024-10-20</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 新生体检 10&#x2F;20 🔒Done! <strong>2024-10-21</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6903 Reading 10&#x2F;21 🔒Done! <strong>2024-10-21</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> Godot nvim development env (<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=cLWgjienc_s)%5B%5BGodot-Nvim">https://www.youtube.com/watch?v=cLWgjienc_s)[[Godot-Nvim</a> Develop Environment]] 🔒Done! <strong>2024-10-21</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 博客评论区复活 🔒Done! <strong>2024-10-22</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 商学院项目座谈会 10&#x2F;22 14:30 [[密院罗斯商学院双学位项目]] 🔒Done! <strong>2024-10-22</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 新生校规校级学习检测10&#x2F;21~10&#x2F;27 🔒Done! <strong>2024-10-24</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 501 hw1 10&#x2F;28 🔒Done! <strong>2024-10-26</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6903 project proposal 10&#x2F;28 🔒Done! <strong>2024-10-30</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6801 Assignment 2 10&#x2F;30 🔒Done! <strong>2024-10-30</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 四格漫画 🔒Done! <strong>2024-10-30</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> seminar 11&#x2F;1  🔒Done! <strong>2024-11-04</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 小鹿 11&#x2F;4 🔒Done! <strong>2024-11-07</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 实验室 Seminar 11&#x2F;6 14:00-16:00 🔒Done! <strong>2024-11-07</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> WW2Naval Mod（让这一切好好结束吧） 🔒Done! <strong>2024-11-07</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due<ul>
+<li><input checked="" disabled="" type="checkbox"> 修复联机下AA对海bug</li>
+<li><input checked="" disabled="" type="checkbox"> 船只倾斜对于AA俯仰和航向角的影响</li>
+<li><input checked="" disabled="" type="checkbox"> UI更改</li>
+<li><input checked="" disabled="" type="checkbox"> 船舵</li>
+<li><input checked="" disabled="" type="checkbox"> 船只阻力重置</li>
+<li><input checked="" disabled="" type="checkbox"> 潜艇相关<ul>
+<li><input checked="" disabled="" type="checkbox"> 水舱</li>
+<li><input checked="" disabled="" type="checkbox"> 可装填鱼雷</li>
+<li><input checked="" disabled="" type="checkbox"> 潜望镜舰长</li>
+<li><input checked="" disabled="" type="checkbox"> 电池</li>
+<li><input checked="" disabled="" type="checkbox"> 柴油机</li>
+<li><input checked="" disabled="" type="checkbox"> 电机推进</li>
+<li><input checked="" disabled="" type="checkbox"> 深弹</li>
+<li><input checked="" disabled="" type="checkbox"> 水听</li>
+<li><input checked="" disabled="" type="checkbox"> 声呐呐呐呐呐～</li>
+<li><input checked="" disabled="" type="checkbox"> 雷达（针对水面以上的目标）</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 螺栓紧固机器人 🔒Done! <strong>2024-11-07</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due<ul>
+<li><input checked="" disabled="" type="checkbox"> 树莓派供电问题</li>
+<li><input checked="" disabled="" type="checkbox"> esp32视频实时传输[[ESP32-CAM Video Stream]]</li>
+<li><input checked="" disabled="" type="checkbox"> 紧固装置联调</li>
+<li><input checked="" disabled="" type="checkbox"> 支撑轮</li>
+<li><input checked="" disabled="" type="checkbox"> 角钢角度更改</li>
+<li><input checked="" disabled="" type="checkbox"> 头部升降步进电机驱动<ul>
+<li><input checked="" disabled="" type="checkbox"> 驱动板购买</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 支撑轮<ul>
+<li><input checked="" disabled="" type="checkbox"> 设计</li>
+<li><input checked="" disabled="" type="checkbox"> 组装</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 摇滚史密斯 🔒Done! <strong>2024-11-07</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 确认24SU TA工资尾款980RMB(十一月) 🔒Done! <strong>2024-11-07</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 电网AR横向 🔒Done! <strong>2024-11-07</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due<ul>
+<li><input checked="" disabled="" type="checkbox"> 论文润色<ul>
+<li><input checked="" disabled="" type="checkbox"> 公式格式</li>
+<li><input checked="" disabled="" type="checkbox"> 图片文字大小</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> paper相关图片，更换为贴近工地的渲染物体（通过label image）<ul>
+<li><input checked="" disabled="" type="checkbox"> 物体放置</li>
+<li><input checked="" disabled="" type="checkbox"> 物体识别（待定）</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 相关公式</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 约气膜羽毛球场 11&#x2F;8 🔒Done! <strong>2024-11-08</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 拿研究生证 11&#x2F;8 🔒Done! <strong>2024-11-11</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6903 RA2 11&#x2F;12 🔒Done! <strong>2024-11-12</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 501 introduction 11&#x2F;12 🔒Done! <strong>2024-11-12</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 羽毛球 11&#x2F;13 🔒Done! <strong>2024-11-12</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 绿洲音乐节VIP排票 11&#x2F;13 12:00 🔒Done! <strong>2024-11-14</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6801 Midterm (CTPP✅, calculator) 11&#x2F;13 🔒Done! <strong>2024-11-14</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6801 Assignment 3 11&#x2F;18 🔒Done! <strong>2024-11-20</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 501 OH 11&#x2F;18 19:00 🔒Done! <strong>2024-11-20</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> CosyPose 12&#x2F;5 [[Cosypose (multi-view) Adaption]] 🔒Done! <strong>2024-11-20</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 爱欲之死 [[《爱欲之死》读书会p12]] 🔒Done! <strong>2024-11-20</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 501 final presentation 11&#x2F;21 🔒Done! <strong>2024-11-26</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 读书会[[《学做工：工人阶级子弟为何继承父业》读书会p11]] 11&#x2F;23 🔒Done! <strong>2024-11-26</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 绿洲音乐节 11&#x2F;24 15:00-21:00 🔒Done! <strong>2024-11-26</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6903 RA3 11&#x2F;26 🔒Done! <strong>2024-11-26</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 学做工：工人阶级子弟为何继承父业<code>~/Book</code> [[《学做工：工人阶级子弟为何继承父业》读书会p11]] (只看了一半) 🔒Done! <strong>2024-11-27</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6903 Individual Paper <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3620666.3651367">https://dl.acm.org/doi/10.1145/3620666.3651367</a> 11&#x2F;28 (summary page, be in time, 9min) 🔒Done! <strong>2024-11-28</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 羽毛球 12&#x2F;3 气膜 🔒Done! <strong>2024-12-03</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> MS2 闲鱼寄出 12&#x2F;3 🔒Done! <strong>2024-12-03</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 买买买 🔒Done! <strong>2024-12-03</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due<ul>
+<li><input checked="" disabled="" type="checkbox"> 桌灯</li>
+<li><input checked="" disabled="" type="checkbox"> 收纳柜</li>
+<li><input checked="" disabled="" type="checkbox"> 刷子</li>
+<li><input checked="" disabled="" type="checkbox"> Ibanez GRG220PA1</li>
+<li><input checked="" disabled="" type="checkbox"> Buffer调音器</li>
+<li><input checked="" disabled="" type="checkbox"> THR10II 音箱</li>
+<li><input checked="" disabled="" type="checkbox"> 键盘抽屉</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 约12点气膜羽毛球 🔒Done! <strong>2024-12-04</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 琴房 12&#x2F;6 9:00 am 🔒Done! <strong>2024-12-06</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 《第七天》[[《第七天》读书会p13]] 🔒Done! <strong>2024-12-06</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> SR concert 12&#x2F;7 🔒Done! <strong>2024-12-08</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6801 Project Pre 12&#x2F;11 10min 🔒Done! <strong>2024-12-10</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6801 HW4 12&#x2F;11 🔒Done! <strong>2024-12-10</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 机器人俱乐部午餐会 12&#x2F;11 12pm 🔒Done! <strong>2024-12-11</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6903 Project Pre [[FLamby]] 12&#x2F;12 🔒Done! <strong>2024-12-12</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 各种发票(<a target="_blank" rel="noopener" href="https://sjtu.feishu.cn/sheets/shtcnoqVzifk0yMeDdji7VTb0He">https://sjtu.feishu.cn/sheets/shtcnoqVzifk0yMeDdji7VTb0He</a>) 🔒Done! <strong>2024-12-13</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due<ul>
+<li><input checked="" disabled="" type="checkbox"> 步进丝杆</li>
+<li><input checked="" disabled="" type="checkbox"> 型材</li>
+<li><input checked="" disabled="" type="checkbox"> 树莓派供电</li>
+<li><input checked="" disabled="" type="checkbox"> DM542</li>
+<li><input checked="" disabled="" type="checkbox"> 直流驱动板</li>
+<li><input checked="" disabled="" type="checkbox"> 滑轮</li>
+<li><input checked="" disabled="" type="checkbox"> 键鼠</li>
+<li><input checked="" disabled="" type="checkbox"> 3D打印#1</li>
+<li><input checked="" disabled="" type="checkbox"> 3D打印#2</li>
+<li><input checked="" disabled="" type="checkbox"> m6螺丝&#x2F;母&#x2F;垫片</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> 6801 Final Exam 12&#x2F;16 CRQ 113 2pm 🔒Done! <strong>2024-12-16</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 逛逛expo~~ 12&#x2F;18 🔒Done! <strong>2024-12-18</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6903 Final Exam 12&#x2F;19 DZY 3-105 🔒Done! <strong>2024-12-19</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 6903 Project [[FLamby]]  12&#x2F;19 src, 12&#x2F;20 lsj report 12&#x2F;22 submit 🔒Done! <strong>2024-12-19</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 糕的读书会 12&#x2F;21 SJTU徐汇校区 🔒Done! <strong>2024-12-21</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 取羽毛球 12&#x2F;22 🔒Done! <strong>2024-12-23</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 代领xhm毕业证 12&#x2F;23 🔒Done! <strong>2024-12-23</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 高中同学羽毛球局 12&#x2F;23 🔒Done! <strong>2024-12-23</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 二十花剧本杀 12&#x2F;24 长寿路 🔒Done! <strong>2024-12-26</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 实验室桌更换 12&#x2F;31 🔒Done! <strong>2024-12-26</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 红课论文 12&#x2F;31 🔒Done! <strong>2024-12-29</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> cosypose adaption 12&#x2F;31 🔒Done! <strong>2024-12-29</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 实验室电脑维修 🔒Done! <strong>2024-12-29</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 寒假去哈尔滨玩(否决) 🔒Done! <strong>2024-12-29</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; No Due</li>
+<li><input checked="" disabled="" type="checkbox"> 高中同学吃饭 12&#x2F;30 🔒Done! <strong>2024-12-31</strong> 🕸️ 2024 Fall &gt; Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 旧狮子王 1&#x2F;7 🔒Done! <strong>2025-01-15</strong> 🕸️ Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 电网论文整理 1&#x2F;8  🔒Done! <strong>2025-01-15</strong> 🕸️ Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> 看完Imitation learning下的论文 1&#x2F;4 🔒Done! <strong>2025-01-15</strong> 🕸️ Routine &gt; Non-routine &gt; Due</li>
+<li><input checked="" disabled="" type="checkbox"> SLR gun assembly 🔒Done! <strong>2025-01-15</strong> 🕸️ Routine &gt; Non-routine &gt; Due &gt; No Due</li>
+</ul>
+</div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script></div></article></div><div class="card"><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item">Posted&nbsp;<time dateTime="2023-05-09T21:58:07.000Z" title="5/10/2023, 5:58:07 AM">2023-05-10</time></span><span class="level-item">Updated&nbsp;<time dateTime="2025-03-09T13:37:21.907Z" title="3/9/2025, 9:37:21 PM">2025-03-09</time></span><span class="level-item">a few seconds read (About 28 words)</span></div></div><p class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2023/05/10/%5BOBS%5DGoal/">Goal</a></p><div class="content"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h2 id="Maintain-my-website"><a href="#Maintain-my-website" class="headerlink" title="Maintain my website"></a>Maintain my website</h2><p><a href="https://chen-yulin.github.io/">link</a><br>ALWAYS!</p>
+<h2 id="Write-a-script-that-can-transfer-my-obsidian-note-to-website"><a href="#Write-a-script-that-can-transfer-my-obsidian-note-to-website" class="headerlink" title="Write a script that can transfer my obsidian note to website"></a>Write a script that can transfer my obsidian note to website</h2><p>DONE!</p>
+<h2 id="Create-a-game-namely-Besiege2-0"><a href="#Create-a-game-namely-Besiege2-0" class="headerlink" title="Create a game, namely Besiege2.0"></a>Create a game, namely Besiege2.0</h2><p>WORKING~</p>
+</div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script></div></article></div></div><style>.column.column-left,.column.column-right{display:none}</style><div class="column column-left is-4-tablet is-4-desktop is-3-widescreen  order-1 is-sticky"><div class="card widget" data-type="profile"><div class="card-content"><nav class="level"><div class="level-item has-text-centered flex-shrink-1"><div><figure class="image is-128x128 mx-auto mb-2"><img class="avatar is-rounded" src="/img/avatar.png" alt="Chen Yulin"></figure><p class="title is-size-4 is-block" style="line-height:inherit;">Chen Yulin</p><p class="is-size-6 is-block">SJTU student</p><p class="is-size-6 is-flex justify-content-center"><i class="fas fa-map-marker-alt mr-1"></i><span>Manchester by the Sea</span></p></div></div></nav><nav class="level is-mobile"><div class="level-item has-text-centered is-marginless"><div><p class="heading">Posts</p><a href="/archives/"><p class="title">200</p></a></div></div><div class="level-item has-text-centered is-marginless"><div><p class="heading">Categories</p><a href="/categories/"><p class="title">8</p></a></div></div><div class="level-item has-text-centered is-marginless"><div><p class="heading">Tags</p><a href="/tags/"><p class="title">177</p></a></div></div></nav><div class="level"><a class="level-item button is-primary is-rounded" href="https://github.com/Chen-Yulin" target="_blank" rel="me noopener">Follow</a></div><div class="level is-mobile is-multiline"><a class="level-item button is-transparent is-marginless" target="_blank" rel="me noopener" title="Github" href="https://github.com/Chen-Yulin"><i class="fab fa-github"></i></a></div></div></div><!--!--><div class="card widget" data-type="archives"><div class="card-content"><div class="menu"><h3 class="menu-label">Archives</h3><ul class="menu-list"><li><a class="level is-mobile" href="/archives/2025/03/"><span class="level-start"><span class="level-item">March 2025</span></span><span class="level-end"><span class="level-item tag">7</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/02/"><span class="level-start"><span class="level-item">February 2025</span></span><span class="level-end"><span class="level-item tag">12</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/01/"><span class="level-start"><span class="level-item">January 2025</span></span><span class="level-end"><span class="level-item tag">13</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/12/"><span class="level-start"><span class="level-item">December 2024</span></span><span class="level-end"><span class="level-item tag">12</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/11/"><span class="level-start"><span class="level-item">November 2024</span></span><span class="level-end"><span class="level-item tag">5</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/10/"><span class="level-start"><span class="level-item">October 2024</span></span><span class="level-end"><span class="level-item tag">18</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/09/"><span class="level-start"><span class="level-item">September 2024</span></span><span class="level-end"><span class="level-item tag">17</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/08/"><span class="level-start"><span class="level-item">August 2024</span></span><span class="level-end"><span class="level-item tag">13</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/07/"><span class="level-start"><span class="level-item">July 2024</span></span><span class="level-end"><span class="level-item tag">3</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/06/"><span class="level-start"><span class="level-item">June 2024</span></span><span class="level-end"><span class="level-item tag">5</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/05/"><span class="level-start"><span class="level-item">May 2024</span></span><span class="level-end"><span class="level-item tag">13</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/04/"><span class="level-start"><span class="level-item">April 2024</span></span><span class="level-end"><span class="level-item tag">17</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/03/"><span class="level-start"><span class="level-item">March 2024</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/01/"><span class="level-start"><span class="level-item">January 2024</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2023/12/"><span class="level-start"><span class="level-item">December 2023</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2023/05/"><span class="level-start"><span class="level-item">May 2023</span></span><span class="level-end"><span class="level-item tag">46</span></span></a></li><li><a class="level is-mobile" href="/archives/2022/08/"><span class="level-start"><span class="level-item">August 2022</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2022/05/"><span class="level-start"><span class="level-item">May 2022</span></span><span class="level-end"><span class="level-item tag">6</span></span></a></li><li><a class="level is-mobile" href="/archives/2022/04/"><span class="level-start"><span class="level-item">April 2022</span></span><span class="level-end"><span class="level-item tag">9</span></span></a></li></ul></div></div></div><div class="column-right-shadow is-hidden-widescreen"></div></div><div class="column column-right is-4-tablet is-4-desktop is-3-widescreen is-hidden-touch is-hidden-desktop-only order-3"><div class="card widget" data-type="recent-posts"><div class="card-content"><h3 class="menu-label">Recents</h3><article class="media"><div class="media-content"><p class="date"><time dateTime="2025-03-07T17:35:26.000Z">2025-03-08</time></p><p class="title"><a href="/2025/03/08/%5BOBS%5DPython-PyTorch%20Einsum/">PyTorch Einsum</a></p><p class="categories"><a href="/categories/Note/">Note</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2025-03-06T06:27:14.000Z">2025-03-06</time></p><p class="title"><a href="/2025/03/06/%5BOBS%5DReconstruct%20Anything-Semantic-Semantic-SAM/">Semantic-SAM</a></p><p class="categories"><a href="/categories/Review/">Review</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2025-03-06T06:23:33.000Z">2025-03-06</time></p><p class="title"><a href="/2025/03/06/%5BOBS%5DReconstruct%20Anything-Semantic-MaskDINO/">MaskDINO</a></p><p class="categories"><a href="/categories/Review/">Review</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2025-03-04T04:31:04.000Z">2025-03-04</time></p><p class="title"><a href="/2025/03/04/%5BOBS%5DReconstruct%20Anything-Semantic-ALBEF/">ALBEF</a></p><p class="categories"><a href="/categories/Review/">Review</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2025-03-04T04:03:31.000Z">2025-03-04</time></p><p class="title"><a href="/2025/03/04/%5BOBS%5DReconstruct%20Anything-Semantic-ViLT/">ViLT</a></p><p class="categories"><a href="/categories/Review/">Review</a></p></div></article></div></div><div class="card widget" data-type="tags"><div class="card-content"><div class="menu"><h3 class="menu-label">Tags</h3><div class="field is-grouped is-grouped-multiline"><div class="control"><a class="tags has-addons" href="/tags/3D-Scene/"><span class="tag">3D-Scene</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/6-D/"><span class="tag">6-D</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/AI/"><span class="tag">AI</span><span class="tag">9</span></a></div><div class="control"><a class="tags has-addons" href="/tags/AIGC/"><span class="tag">AIGC</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/AR/"><span class="tag">AR</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Academic/"><span class="tag">Academic</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Algorithm/"><span class="tag">Algorithm</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Aliyun/"><span class="tag">Aliyun</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/App/"><span class="tag">App</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/BS4/"><span class="tag">BS4</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Beautify/"><span class="tag">Beautify</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Behaviorism/"><span class="tag">Behaviorism</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Business/"><span class="tag">Business</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/C/"><span class="tag">C</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CADC/"><span class="tag">CADC</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CD/"><span class="tag">CD</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CLIP/"><span class="tag">CLIP</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CNN/"><span class="tag">CNN</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CSharp/"><span class="tag">CSharp</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CV/"><span class="tag">CV</span><span class="tag">12</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Capstone/"><span class="tag">Capstone</span><span class="tag">10</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Communication/"><span class="tag">Communication</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Contrastive-Learning/"><span class="tag">Contrastive-Learning</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Control/"><span class="tag">Control</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Csharp/"><span class="tag">Csharp</span><span class="tag">8</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Css/"><span class="tag">Css</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Cuda/"><span class="tag">Cuda</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/DD/"><span class="tag">DD</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/DINO/"><span class="tag">DINO</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/DT/"><span class="tag">DT</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Dataframe/"><span class="tag">Dataframe</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Debate/"><span class="tag">Debate</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Debugger/"><span class="tag">Debugger</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Discrete-Mathematics/"><span class="tag">Discrete-Mathematics</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Docker/"><span class="tag">Docker</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Docs/"><span class="tag">Docs</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Dynamic-programming/"><span class="tag">Dynamic-programming</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ESP32/"><span class="tag">ESP32</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Education/"><span class="tag">Education</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Embeded-System/"><span class="tag">Embeded-System</span><span class="tag">9</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Emotion/"><span class="tag">Emotion</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Ethic/"><span class="tag">Ethic</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/FL/"><span class="tag">FL</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Family/"><span class="tag">Family</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Federated-Learning/"><span class="tag">Federated-Learning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Foundation/"><span class="tag">Foundation</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Functional-programming/"><span class="tag">Functional programming</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/GPT/"><span class="tag">GPT</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Game/"><span class="tag">Game</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Gated-NN/"><span class="tag">Gated-NN</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Git/"><span class="tag">Git</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Github/"><span class="tag">Github</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Godot/"><span class="tag">Godot</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/HRI/"><span class="tag">HRI</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/HTML/"><span class="tag">HTML</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Haskell/"><span class="tag">Haskell</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Health/"><span class="tag">Health</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hexo/"><span class="tag">Hexo</span><span class="tag">7</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Html/"><span class="tag">Html</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Humanism/"><span class="tag">Humanism</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hyprland/"><span class="tag">Hyprland</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/IK/"><span class="tag">IK</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Image-Grounding/"><span class="tag">Image-Grounding</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Image-Text/"><span class="tag">Image-Text</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ImitationLearning/"><span class="tag">ImitationLearning</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Javascript/"><span class="tag">Javascript</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Jolt/"><span class="tag">Jolt</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Json/"><span class="tag">Json</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/LLM/"><span class="tag">LLM</span><span class="tag">7</span></a></div><div class="control"><a class="tags has-addons" href="/tags/LSP/"><span class="tag">LSP</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Latex/"><span class="tag">Latex</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Life/"><span class="tag">Life</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/LinearAlgebra/"><span class="tag">LinearAlgebra</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Linux/"><span class="tag">Linux</span><span class="tag">14</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Love/"><span class="tag">Love</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Lua/"><span class="tag">Lua</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/MBTI/"><span class="tag">MBTI</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ML/"><span class="tag">ML</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/MR-AR/"><span class="tag">MR/AR</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Mason/"><span class="tag">Mason</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Math/"><span class="tag">Math</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Meme/"><span class="tag">Meme</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Mod/"><span class="tag">Mod</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Motivation/"><span class="tag">Motivation</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Movie/"><span class="tag">Movie</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Multi-modal/"><span class="tag">Multi-modal</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Music/"><span class="tag">Music</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NLP/"><span class="tag">NLP</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NN/"><span class="tag">NN</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Network/"><span class="tag">Network</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Nodejs/"><span class="tag">Nodejs</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Numpy/"><span class="tag">Numpy</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Nvim/"><span class="tag">Nvim</span><span class="tag">8</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Object-Detection/"><span class="tag">Object-Detection</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Open-Vocabulary/"><span class="tag">Open-Vocabulary</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/OpenCV/"><span class="tag">OpenCV</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Oral/"><span class="tag">Oral</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/PHD/"><span class="tag">PHD</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/PSY/"><span class="tag">PSY</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Pandas/"><span class="tag">Pandas</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Path/"><span class="tag">Path</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Philosophy/"><span class="tag">Philosophy</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/PhysX/"><span class="tag">PhysX</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Physics-engine/"><span class="tag">Physics-engine</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Pio/"><span class="tag">Pio</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Planning/"><span class="tag">Planning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Plugin/"><span class="tag">Plugin</span><span class="tag">8</span></a></div><div class="control"><a class="tags has-addons" href="/tags/PoseEstimation/"><span class="tag">PoseEstimation</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Postgraduate/"><span class="tag">Postgraduate</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Prefab/"><span class="tag">Prefab</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Probability/"><span class="tag">Probability</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Python/"><span class="tag">Python</span><span class="tag">19</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Pytorch/"><span class="tag">Pytorch</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/QML/"><span class="tag">QML</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/RNN/"><span class="tag">RNN</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ROS/"><span class="tag">ROS</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Reading/"><span class="tag">Reading</span><span class="tag">17</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Real2Sim/"><span class="tag">Real2Sim</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Reconstruct/"><span class="tag">Reconstruct</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Regex/"><span class="tag">Regex</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Reinforcement-learning/"><span class="tag">Reinforcement-learning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Repository/"><span class="tag">Repository</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Robot/"><span class="tag">Robot</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Robotics/"><span class="tag">Robotics</span><span class="tag">11</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SJTU-Lecture/"><span class="tag">SJTU-Lecture</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SQL/"><span class="tag">SQL</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SSH/"><span class="tag">SSH</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Science-fiction/"><span class="tag">Science-fiction</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Scrap/"><span class="tag">Scrap</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Script/"><span class="tag">Script</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Semantic/"><span class="tag">Semantic</span><span class="tag">10</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Shader/"><span class="tag">Shader</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Shell/"><span class="tag">Shell</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Signals-and-Systems/"><span class="tag">Signals and Systems</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Sim2Real/"><span class="tag">Sim2Real</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Sklearn/"><span class="tag">Sklearn</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Snippets/"><span class="tag">Snippets</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Society/"><span class="tag">Society</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Star-rail/"><span class="tag">Star-rail</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Submodule/"><span class="tag">Submodule</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Supervised-learning/"><span class="tag">Supervised-learning</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/TC/"><span class="tag">TC</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/TOEFL/"><span class="tag">TOEFL</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Tasks/"><span class="tag">Tasks</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Tech-Communication/"><span class="tag">Tech Communication</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Torch/"><span class="tag">Torch</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Transformer/"><span class="tag">Transformer</span><span class="tag">6</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Travel/"><span class="tag">Travel</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Unity/"><span class="tag">Unity</span><span class="tag">20</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Unsupervised-learning/"><span class="tag">Unsupervised-learning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/VLP/"><span class="tag">VLP</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Version-management/"><span class="tag">Version-management</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ViT/"><span class="tag">ViT</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/VideoEditing/"><span class="tag">VideoEditing</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Vim/"><span class="tag">Vim</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/WSL/"><span class="tag">WSL</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Waybar/"><span class="tag">Waybar</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Wayland/"><span class="tag">Wayland</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Web/"><span class="tag">Web</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Website/"><span class="tag">Website</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Well-being/"><span class="tag">Well-being</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Window-manager/"><span class="tag">Window-manager</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/YKLL/"><span class="tag">YKLL</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Zen/"><span class="tag">Zen</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/atlas/"><span class="tag">atlas</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/debate/"><span class="tag">debate</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/emoation/"><span class="tag">emoation</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/emotion/"><span class="tag">emotion</span><span class="tag">7</span></a></div><div class="control"><a class="tags has-addons" href="/tags/hexo/"><span class="tag">hexo</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/live2d/"><span class="tag">live2d</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/multi-view/"><span class="tag">multi-view</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/quantum/"><span class="tag">quantum</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/segmentation/"><span class="tag">segmentation</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/survey/"><span class="tag">survey</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/thought/"><span class="tag">thought</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/travel/"><span class="tag">travel</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/%F0%9F%90%B1/"><span class="tag">🐱</span><span class="tag">1</span></a></div></div></div></div></div></div><style>.column.column-left,.column.column-right{display:block}</style></div></div></section><footer class="footer"><div class="container"><div class="level"><div class="level-start"><a class="footer-logo is-block mb-2" href="/"><img class="logo-img" src="/img/cyllogo.png" alt="Chen Yulin&#039;s Blog" height="28"><img class="logo-img-dark" src="/img/cyllogonight.png" alt="Chen Yulin&#039;s Blog" height="28"></a><p class="is-size-7"><span>&copy; 2025 Chen Yulin</span>  Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> &amp; <a href="https://github.com/imaegoo/hexo-theme-icarus" target="_blank" rel="noopener">Icarus</a></p></div><div class="level-end"><div class="field has-addons"><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Creative Commons" href="https://creativecommons.org/"><i class="fab fa-creative-commons"></i></a></p><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Attribution 4.0 International" href="https://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons-by"></i></a></p><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Download on GitHub" href="https://github.com/Chen-Yulin"><i class="fab fa-github"></i></a></p></div></div></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment-with-locales.min.js"></script><script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.4/dist/clipboard.min.js" defer></script><script>moment.locale("en");</script><script>var IcarusThemeSettings = {
+            article: {
+                highlight: {
+                    clipboard: true,
+                    fold: 'unfolded'
+                }
+            }
+        };</script><script data-pjax src="/js/column.js"></script><script src="/js/animation.js"></script><a id="back-to-top" title="Back to top" href="javascript:;"><i class="fas fa-chevron-up"></i></a><script data-pjax src="/js/back_to_top.js" defer></script><!--!--><!--!--><!--!--><script src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script>window.addEventListener("load", () => {
+      window.cookieconsent.initialise({
+        type: "info",
+        theme: "edgeless",
+        static: false,
+        position: "bottom-left",
+        content: {
+          message: "This website uses cookies to improve your experience.",
+          dismiss: "Got it!",
+          allow: "Allow cookies",
+          deny: "Decline",
+          link: "Learn more",
+          policy: "Cookie Policy",
+          href: "https://www.cookiesandyou.com/",
+        },
+        palette: {
+          popup: {
+            background: "#edeff5",
+            text: "#838391"
+          },
+          button: {
+            background: "#4b81e8"
+          },
+        },
+      });
+    });</script><script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery.min.js" defer></script><script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js" defer></script><script>window.addEventListener("load", () => {
+            if (typeof $.fn.lightGallery === 'function') {
+                $('.article').lightGallery({ selector: '.gallery-item' });
+            }
+            if (typeof $.fn.justifiedGallery === 'function') {
+                if ($('.justified-gallery > p > .gallery-item').length) {
+                    $('.justified-gallery > p > .gallery-item').unwrap();
+                }
+                $('.justified-gallery').justifiedGallery();
+            }
+        });</script><!--!--><!--!--><!--!--><!--!--><!--!--><script data-pjax src="/js/main.js" defer></script><div class="searchbox"><div class="searchbox-container"><div class="searchbox-header"><div class="searchbox-input-container"><input class="searchbox-input" type="text" placeholder="Type something..."></div><div class="searchbox-pinyin"><label class="checkbox"><input id="search-by-pinyin" type="checkbox" checked="checked"><span> 拼音检索</span></label></div><a class="searchbox-close" href="javascript:;">×</a></div><div class="searchbox-body"></div></div></div><script src="/js/imaegoo/pinyin.js" defer></script><script src="/js/insight.js" defer></script><script>document.addEventListener('DOMContentLoaded', function () {
+            loadInsight({"contentUrl":"/content.json"}, {"hint":"Type something...","untitled":"(Untitled)","posts":"Posts","pages":"Pages","categories":"Categories","tags":"Tags"});
+        });</script><script type="text/javascript" src="/js/imaegoo/imaegoo.js"></script><script type="text/javascript" src="/js/imaegoo/universe.js"></script><!-- hexo injector body_end start -->
+<link rel="stylesheet" crossorigin href="https://g.alicdn.com/aliyun-documentation/web-chatbot-ui/0.0.11/index.css" />
+<script type="module" crossorigin src="https://g.alicdn.com/aliyun-documentation/web-chatbot-ui/0.0.11/index.js"></script>
+<script>
+  window.CHATBOT_CONFIG = {
+    endpoint: "https://webchat-bot-iqu-knzhgrvznd.cn-hangzhou.fcapp.run/chat", // 可以替换为 https://{your-fc-http-trigger-domain}/chat
+    displayByDefault: false, // 默认不展示 AI 助手聊天框
+    aiChatOptions: { // aiChatOptions 中 options 会传递 aiChat 组件，自定义取值参考：https://docs.nlkit.com/nlux/reference/ui/ai-chat
+      conversationOptions: { // 自定义取值参考：https://docs.nlkit.com/nlux/reference/ui/ai-chat#conversation-options
+        conversationStarters: [
+          {prompt: '你是谁？'},
+          {prompt: '博主又是谁？'},
+          {prompt: '怎么使用这个网站？'},
+          {prompt: '想要博主联系方式！'},
+        ]
+      },
+      displayOptions: { // 自定义取值参考：https://docs.nlkit.com/nlux/reference/ui/ai-chat#display-options
+        height: 600,
+        width: 350,
+      },
+      personaOptions: { // 自定义取值参考：https://docs.nlkit.com/nlux/reference/ui/ai-chat#chat-personas
+        assistant: {          name: '博主的AI助手，十四行诗参上！',
+          // AI 助手的图标
+          avatar: 'https://chen-yulin.github.io/thumb/14.png',
+          tagline: '要不要试试问下面的问题呢？',
+        }
+      }
+    }
+  };
+</script>
+<style>
+  :root {
+    /* webchat 工具栏的颜色 */
+    --webchat-toolbar-background-color: #1464E4;
+    /* webchat 工具栏文字和按钮的颜色 */
+    --webchat-toolbar-text-color: #FFF;
+  }
+  /* webchat 对话框如果被遮挡，可以尝试通过 z-index、bottom、left 等设置来调整位置 */
+  .webchat-container {
+    z-index: 100;
+    bottom: 10px;
+    right: 10px;
+  }
+  /* webchat 的唤起按钮如果被遮挡，可以尝试通过 z-index、bottom、left 等设置来调整位置 */
+  .webchat-bubble-tip {
+    z-index: 99;
+    bottom: 60px;
+    right: 20px;
+  }
+  .webchat-bubble-tip {
+    overflow: visible !important;
+  }
+  @keyframes float {
+    0% {
+      transform: translateY(0px) translateX(-50%);
+    }
+    50% {
+      transform: translateY(-10px) translateX(-50%);
+    }
+    100% {
+      transform: translateY(0px) translateX(-50%);
+    }
+  }
+
+  .webchat-bubble-tip::before {
+    content: '';
+    position: absolute;
+    top: -25px;
+    left: 70%;
+    width: 40px;
+    height: 40px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.5));
+    animation: float 3s ease-in-out infinite;
+  }
+</style><script data-pjax src="https://registry.npmmirror.com/oh-my-live2d/latest/files"></script><script>const oml2d = OML2D.loadOml2d({libraryUrls:{"complete":"https://registry.npmmirror.com/oh-my-live2d/latest/files/lib/complete.js","cubism2":"https://registry.npmmirror.com/oh-my-live2d/latest/files/lib/cubism2.js","cubism5":"https://registry.npmmirror.com/oh-my-live2d/latest/files/lib/cubism5.js"},dockedPosition:"left",mobileDisplay:true,models:[{"path":"https://model.oml2d.com/mai/model.json","mobilePosition":[25,0],"mobileScale":0.1,"mobileStageStyle":{"width":125,"height":175},"motionPreloadStrategy":"ALL","position":[50,0],"scale":0.2,"stageStyle":{"width":250,"height":350}}],parentElement:document.body,primaryColor:"var(--btn-bg)",sayHello:false,tips:{style: {"width":230,"height":120,"left":"calc(50% - 20px)","top":"-100px"},mobileStyle: {"width":180,"height":80,"left":"calc(50% - 30px)","top":"-100px"},idleTips:{interval:15000,message:function(){
+  return axios.get('https://v1.hitokoto.cn?c=i')
+    .then(function (response) {
+      return response.data.hitokoto ;
+    })
+    .catch(function (error) {
+      console.error(error);
+    });
+}
+}}});</script><!-- hexo injector body_end end --></body></html>
