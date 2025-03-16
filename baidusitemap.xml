@@ -2,771 +2,779 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://chen-yulin.github.io/2024/10/22/%5BOBS%5DQuantum%20Computing-ProxiML%20--%20Building%20Machine%20Learning%20Classifiers%20for%20Photonic%20Quantum%20Computing/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/29/%5BOBS%5DHRI-Human-robot%20interaction%20for%20robotic%20manipulator%20programming%20in%20%20Mixed%20Reality/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/28/%5BOBS%5DHRI-Augmented%20Reality%20and%20Robotics%20-%20A%20Survey%20and%20Taxonomy%20for%20AR-enhanced%20Human-Robot%20Interaction%20and%20Robotic%20Interfaces/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/11/%5BOBS%5DReconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Part-level%20Scene%20Reconstruction%20Affords%20Robot%20Interaction/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/12/%5BOBS%5DReconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Reasoning%20with%20Scene%20Graphs%20for%20Robot%20Planning%20%20under%20Partial%20Observability/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2025/03/16/%5BOBS%5DReconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Factorizable%20Net=%20An%20Efficient%20Subgraph-based%20%20Framework%20for%20Scene%20Graph%20Generation/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/11/%5BOBS%5DReconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Scene%20Reconstruction%20with%20Functional%20Objects%20for%20Robot%20Autonomy/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/12/%5BOBS%5DReconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-SceneGraphFusion-%20Incremental%203D%20Scene%20Graph%20Prediction%20from%20RGB-D%20Sequences/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/12/%5BOBS%5DReconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Scene%20Graph%20Generation-%20A%20comprehensive%20survey/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/17/%5BOBS%5DReconstruct%20Anything-ConceptFusion/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-Iterative%20Scene%20Graph%20Generation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/06/%5BOBS%5DReconstruct%20Anything-Some%20Thoughts%20Regarding%20-Reconstruct%20Anything-/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-Iterative%20Scene%20Graph%20Generation/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-Large-scale%20visual%20relationship%20understanding/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2025/03/14/%5BOBS%5DReconstruct%20Anything-Relation-Visual%20Relationship%20Detection%20%20with%20Language%20Priors/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-From%20Pixels%20to%20Graphs=%20Open-Vocabulary%20Scene%20Graph%20Generation%20with%20%20Vision-Language%20Models/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2025/03/16/%5BOBS%5DReconstruct%20Anything-Relation-Scene%20Graph%20Generation%20by%20Iterative%20Message%20Passing/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-Neural%20Motifs=%20Scene%20graph%20parsing%20with%20global%20context/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-Energy-Based%20Learning%20for%20Scene%20Graph%20Generation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-GPS-Net=%20Graph%20Property%20Sensing%20Network%20for%20Scene%20Graph%20Generation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-Scene%20Graph%20Generation%20With%20Hierarchical%20Context/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/14/%5BOBS%5DReconstruct%20Anything-Relation-RelTR=%20Relation%20Transformer%20for%20Scene%20Graph%20%20Generation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Relation-SGTR=%20End-to-end%20Scene%20Graph%20Generation%20with%20Transformer/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/14/%5BOBS%5DReconstruct%20Anything-Relation-Fully%20Convolutional%20Scene%20Graph%20Generation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2025/03/14/%5BOBS%5DReconstruct%20Anything-Relation-Visual%20Relationship%20Detection%20with%20Language%20Priors/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/11/%5BOBS%5DReconstruct%20Anything-PHYSCENE-%20Physically%20Interactable%203D%20Scene%20Synthesis%20for%20Embodied%20AI/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/13/%5BOBS%5DReconstruct%20Anything-PointLLM/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/15/%5BOBS%5DReconstruct%20Anything-Scene-LLM/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/06/%5BOBS%5DReconstruct%20Anything-OK-Robot-%20What%20Really%20Matters%20in%20Integrating%20Open-Knowledge%20%20Models%20for%20Robotics/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/06/%5BOBS%5DReconstruct%20Anything-CLIP-Fields-%20Weakly%20Supervised%20Semantic%20Fields%20for%20Robotic%20Memory/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/16/%5BOBS%5DReconstruct%20Anything-Semantic-Grounding-DINO/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/06/%5BOBS%5DReconstruct%20Anything-Semantic-CLIP%E5%A4%9A%E6%A8%A1%E6%80%81%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/09/%5BOBS%5DReconstruct%20Anything-Semantic-Vision%20Transformers%20Need%20Registers/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/09/%5BOBS%5DReconstruct%20Anything-Semantic-Deep%20Hierarchical%20Semantic%20Segmentation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/04/%5BOBS%5DReconstruct%20Anything-Semantic-ALBEF/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/08/%5BOBS%5DReconstruct%20Anything-Semantic-DINO/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/03/%5BOBS%5DReconstruct%20Anything-Semantic-BLIP/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2025/02/16/%5BOBS%5DReconstruct%20Anything-Semantic-Gounded-SAM/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/09/%5BOBS%5DReconstruct%20Anything-Semantic-AN%20IMAGE%20IS%20WORTH%2016X16%20WORDS-%20TRANSFORMERS%20FOR%20IMAGE%20RECOGNITION%20AT%20SCALE/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2025/02/16/%5BOBS%5DReconstruct%20Anything-Semantic-Gounded-SAM/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/06/%5BOBS%5DReconstruct%20Anything-Semantic-Simple%20Open-Vocabulary%20Object%20Detection%20with%20Vision%20Transformers/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/09/%5BOBS%5DReconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/04/%5BOBS%5DReconstruct%20Anything-Semantic-ViLT/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/06/%5BOBS%5DReconstruct%20Anything-Semantic-Semantic-SAM/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/11/%5BOBS%5DReconstruct%20Anything-Semantic-DETR/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2025/03/03/%5BOBS%5DReconstruct%20Anything-Semantic-ZegCLIP/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Semantic-Panoptic%20Segmentation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2025/03/03/%5BOBS%5DReconstruct%20Anything-Semantic-ZegCLIP/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/19/%5BOBS%5DReconstruct%20Anything-Semantic-GLIP/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/06/%5BOBS%5DReconstruct%20Anything-Semantic-MaskDINO/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2024/12/09/%5BOBS%5DReconstruct%20Anything-ACDC-%20Automated%20Creation%20of%20Digital%20Cousins%20for%20Robust%20Policy%20Learning/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-Image%20Retrieval%20using%20Scene%20Graphs/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2024/12/09/%5BOBS%5DReconstruct%20Anything-ACDC-%20Automated%20Creation%20of%20Digital%20Cousins%20for%20Robust%20Policy%20Learning/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/09/%5BOBS%5DReconstruct%20Anything-Moco-%20Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/06/%5BOBS%5DReconstruct%20Anything-LERF-%20Language%20Embedded%20Radiance%20Fields/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/13/%5BOBS%5DReconstruct%20Anything-3D-LLM/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/17/%5BOBS%5DReconstruct%20Anything-Dynamic%20Open-Vocabulary%203D%20Scene%20Graphs%20for%20Long-term%20Language-Guided%20Mobile%20Manipulation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/18/%5BOBS%5DReconstruct%20Anything-Extract%20Free%20Dense%20Labels%20from%20CLIP/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E5%86%85%E5%AE%B9-Image%20generation%20from%20scene%20graphs/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/11/%5BOBS%5DReconstruct%20Anything-OMG-LLaVA/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
-    <loc>http://chen-yulin.github.io/2024/09/26/%5BOBS%5D%E8%AE%BA%E6%96%87%E5%B7%A5%E4%BD%9C%E6%B5%81/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5DReconstruct%20Anything-%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E5%86%85%E5%AE%B9-Image%20generation%20from%20scene%20graphs/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/27/%5BOBS%5DDeep%20Learning-RNN-Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2024/09/26/%5BOBS%5D%E8%AE%BA%E6%96%87%E5%B7%A5%E4%BD%9C%E6%B5%81/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/29/%5BOBS%5DDeep%20Learning-RNN-Long%20Short-Term%20Memory/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/27/%5BOBS%5DDeep%20Learning-RNN-On%20the%20Properties%20of%20Neural%20Machine%20Translation=%20Encoder%E2%80%93Decoder%20Approaches/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/11/05/%5BOBS%5DDeep%20Learning-Imitation%20Learnning-AR2-D2%20--%20Training%20a%20Robot%20Without%20a%20Robot/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/31/%5BOBS%5DDeep%20Learning-Imitation%20Learnning-A%20Survey%20of%20Imitation%20Learning-%20Algorithms,%20Recent%20%20Developments,%20and%20Challenges/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/31/%5BOBS%5DDeep%20Learning-Imitation%20Learnning-One-Shot%20Visual%20Imitation%20Learning%20via%20Meta-Learning/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/11/07/%5BOBS%5DDeep%20Learning-CV-CosyPose--%20Consistent%20multi-view%20multi-object%20%206D%20pose%20estimation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/27/%5BOBS%5DDeep%20Learning-Transformer-Attention%20Is%20All%20You%20Need/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/24/%5BOBS%5DDeep%20Learning-Federated%20Learning-Federated%20Learning%20Atlas/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/12/%5BOBS%5DReconstruct-Anything%20Literature%20Review/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/13/%5BOBS%5DTask%20Planning-ProgPrompt/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/05/%5BOBS%5D%E8%BE%A9%E8%AE%BA-%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9A%84%E6%AD%BB%E4%BA%A1%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%91%8A%E8%AF%89ta%E5%90%97/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2024/04/05/%5BOBS%5D%E8%BE%A9%E8%AE%BA-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%81%87%E5%88%B0%E5%8D%B1%E9%99%A9%E6%97%B6%EF%BC%8C%E4%B9%98%E5%AE%A2%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88vs%E8%A1%8C%E4%BA%BA%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/05/%5BOBS%5D%E8%BE%A9%E8%AE%BA-%E4%BA%BA%E9%97%B4%E4%B8%80%E8%B6%9F%EF%BC%8C%E5%BF%83%E6%97%A0%E6%8C%82%E7%A2%8Dvs%E5%BF%83%E6%9C%89%E6%89%80%E5%B1%9E%E6%9B%B4%E5%80%BC%E5%BE%97/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2024/04/05/%5BOBS%5D%E8%BE%A9%E8%AE%BA-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%81%87%E5%88%B0%E5%8D%B1%E9%99%A9%E6%97%B6%EF%BC%8C%E4%B9%98%E5%AE%A2%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88vs%E8%A1%8C%E4%BA%BA%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DXbortPark-Lecture-March21/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/12/%5BOBS%5D%E5%A6%82%E6%9E%9C%E5%93%AA%E5%A4%A9%E6%9C%89%E5%B9%B8%E6%8E%A5%E8%A7%A6%E4%B9%90%E5%99%A8%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E8%B0%88%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%9B%B2%E5%AD%90%E5%91%80/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/09/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap1/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/03/13/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%B4%A0%E9%A3%9F%E8%80%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap15/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/13/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E6%82%89%E8%BE%BE%E5%A4%9A%E3%80%8B%20%E8%AF%BB%E4%B9%A6%E4%BC%9Ap14/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/25/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8AHOW%20MUSIC%20GOT%20FREE%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap8/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/10/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E5%90%BE%E5%9B%BD%E4%B8%8E%E5%90%BE%E6%B0%91%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap2/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/11/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E5%9C%B0%E4%B8%8B%E5%AE%A4%E6%89%8B%E8%AE%B0%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap4/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/18/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E8%BE%B9%E5%9F%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap3/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/16/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A4%AA%E9%98%B3%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap5/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/23/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap10/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/03/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AC%AC%E4%B8%83%E5%A4%A9%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap13/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/22/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%88%B1%E6%AC%B2%E4%B9%8B%E6%AD%BB%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap12/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/12/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E5%80%A6%E6%80%A0%E7%A4%BE%E4%BC%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap9/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/17/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E5%AD%A6%E5%81%9A%E5%B7%A5%EF%BC%9A%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7%E5%AD%90%E5%BC%9F%E4%B8%BA%E4%BD%95%E7%BB%A7%E6%89%BF%E7%88%B6%E4%B8%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap11/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/22/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/23/%5BOBS%5D%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AA%84%E9%97%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap7/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DTravel-2023%20Christmas/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/17/%5BOBS%5DML-The%20Bitter%20Lesson/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DML-ML%20Basics/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/11/21/%5BOBS%5DReconstruct%20Anything/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2024/09/03/%5BOBS%5Dhexo-Hexo%20Comment%20System%20--%20Twikoo/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/16/%5BOBS%5Dhexo-live2d%20%E5%A4%8D%E6%B4%BB%E8%AE%A1%E7%94%BB/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2024/09/03/%5BOBS%5Dhexo-Hexo%20Comment%20System%20--%20Twikoo/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/28/%5BOBS%5Dhexo-Blog%20Template%20For%20New%20Hexo%20User%20(%E7%B3%95)/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/07/15/%5BOBS%5Dhexo-Hexo%20plugin%20--%20hexo-photo-wall/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/05/%5BOBS%5Dhexo-Customize%20hexo%20Icarus/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/08/%5BOBS%5Dhexo-Hexo%20AI%20Assistant/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/08/%5BOBS%5DAI-Amazon%20Echo%20Alexa%20persuade%20people%20to%20commit%20suicide/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DAI-AIGC-March24/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DAI-GPT-%E4%B8%80%E4%BA%9BAI%E7%9A%84%E5%88%A9%E7%94%A8%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DAI-GPT-%E4%B8%80%E4%BA%9B%E5%9F%BA%E4%BA%8EGPT%20AI%E5%BC%80%E5%8F%91%E7%9A%84APP/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/05/%5BOBS%5DAI-Wechat%20bot/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5Dlinux-Linux%20Basics/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5Dlinux-WM/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/24/%5BOBS%5Dlinux-Copy-Paste%20in%20Hyprland%20across%20Wayland%20&%20XWayland/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/17/%5BOBS%5Dlinux-Docker/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/10/%5BOBS%5Dlinux-Use%20SSH%20to%20Connect%20Jupyter-lab/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5Dlinux-ssh/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/14/%5BOBS%5Dlinux-Nvidia-Cuda+Torch/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/17/%5BOBS%5Dlinux-Hyprscroller%20+%20Waybar/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPSY-Health&Well-Being/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPSY-Learning/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPSY-MessageToMyself/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPSY-Emotion&Motivation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DGoal/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DShader-SemanticSegmentation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/20/%5BOBS%5DShader-Shader%20Learning%20Materials/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/02/18/%5BOBS%5DNSFC%20-%20SceneLLM+KnowledgeGraph/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/24/%5BOBS%5DGame-dev-JustWork%20%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/23/%5BOBS%5DGame-dev-Godot%20Learning%20Plan/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/18/%5BOBS%5DGame-dev-Jolt%20vs%20PhysX/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/12/%5BOBS%5DGame-dev-Game%20Principle%20of%20_JustWork_/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DTOEFL-SpeechRater/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/17/%5BOBS%5DMod-ONI-ONI%20Modding/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DTOEFL-SpeechRater/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DSQL-SQL%20Basics/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DSQL-SQL%20Pandas/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/11/17/%5BOBS%5DPoseEstimation-Cosypose%20(multi-view)%20Adaption/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/03/%5BOBS%5DFL-FLamby/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2025/03/08/%5BOBS%5DPython-PyTorch%20Einsum/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPython-regex/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2025/03/08/%5BOBS%5DPython-PyTorch%20Einsum/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPython-sklearn/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPython-DataFrame/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPython-Scrap/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/16/%5BOBS%5D2025%20Winter%20Schedule/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DSmartCity-autonomousDriving/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DSmartCity-Aircraft%20control%20policy/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/06/%5BOBS%5DMBTI-64%E5%9E%8B%E8%87%AA%E6%B5%8B/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DIPP_Robot_Motion_Planning-Human%20motion%20prediction/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/11/%5BOBS%5DTC-VG501%20Description%20of%20Experimental%20Method%20and%20Details/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/12/%5BOBS%5Dnvim-plugin_dev-Basic%20Neovim%20Plugin%20Development%20Tutorial/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/09/%5BOBS%5Dnvim-Guideline%20For%20My%20Nvim%20Configuration/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/07/%5BOBS%5Dnvim-Neovim%20Cursor%20(avante.nvim)/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/21/%5BOBS%5Dnvim-Godot-Nvim%20Develop%20Environment/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5Dnvim-stdpath/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5Dnvim-LSP-LSP%20Basics/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5Dnvim-LSP-LSP%20Config/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5Dnvim-InterestingPlugin/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/23/%5BOBS%5DEmbededSystem-ESP32%20Development%20on%20Linux/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DEmbededSystem-Embedded%20System%20Basic/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/26/%5BOBS%5DEmbededSystem-ESP32-CAM%20Video%20Stream/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/05/%5BOBS%5DEmbededSystem-ECE3730J%20Final%20RC%20Part%201/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/06/16/%5BOBS%5DEmbededSystem-ECE3730J%20RC2_LCD/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/07/01/%5BOBS%5DEmbededSystem-ECE3730J%20RC3_LAB4/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2024/06/16/%5BOBS%5DEmbededSystem-ECE3730J%20RC2_Output_Compare/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/06/16/%5BOBS%5DEmbededSystem-ECE3730J%20RC2_Input_Capture/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2024/06/16/%5BOBS%5DEmbededSystem-ECE3730J%20RC2_Output_Compare/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/21/%5BOBS%5DEmbededSystem-STM32%20Development%20on%20Linux/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/19/%5BOBS%5DShell-Automate%20OpenROAD%20testing/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DShell-Implement%20Build-in%20Command%20in%20C/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/20/%5BOBS%5Ddocs-Docusaurus/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/06/02/%5BOBS%5D%E5%89%AA%E8%BE%91-Mod%20%E7%8C%ABmeme%20CUT1%20Script/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/04/25/%5BOBS%5DCapstone-Graduate%20Project/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-Python-Unity%20Network/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-Demo%20%E8%AE%BE%E8%AE%A1/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-Robotic%20Arm%20Digital%20Twin(DT)/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-%E5%A4%B9%E7%88%AA%E6%8E%A7%E5%88%B6%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-%E7%A8%8B%E5%BA%8F%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-6-D%20Pose%20Estimation%20Survey/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-%E8%87%AA%E5%AE%9A%E4%B9%89%20Gen6d%20%E7%89%A9%E4%BD%93/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-6d%20pose%20--%20unity%20coordinate/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-IK%20Path%20Planning/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2024/08/01/%5BOBS%5DCapstone-IK%20Path%20Planning/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DGit-Git%20Basics/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DGit-Git%20Submodule/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DGit-Git%20Version/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DGit-Git%20Merge/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DGit-Git%20Repository/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/25/%5BOBS%5D%E7%90%B4%E8%B0%B1-Merry%20Go%20Round%20of%20Life%20-%20ykll%E8%B0%B1/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/13/%5BOBS%5D%E7%90%B4%E8%B0%B1-%E4%BD%BF%E4%B8%80%E9%A2%97%E5%BF%83%E5%85%8D%E4%BA%8E%E5%93%80%E4%BC%A4-ykll%E8%B0%B1/</loc>
-    <lastmod>2025-03-14</lastmod>
-  </url>
-  <url>
-    <loc>http://chen-yulin.github.io/2024/09/13/%5BOBS%5D%E7%90%B4%E8%B0%B1-%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E6%80%9D%E5%BF%B5-ykll%E8%B0%B1/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DUnity-Prefab/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
+  </url>
+  <url>
+    <loc>http://chen-yulin.github.io/2024/09/13/%5BOBS%5D%E7%90%B4%E8%B0%B1-%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E6%80%9D%E5%BF%B5-ykll%E8%B0%B1/</loc>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/16/%5BOBS%5DComputer%20Network-Unix%20Network%20Programming%20SRC/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DMath-LinearAlgebra/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/09/22/%5BOBS%5D2024%20Fall%20Schedule/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DPostgraduate%20recommendation-Summer%20Camp/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/12/23/%5BOBS%5D477%20Challenge/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/19/%5BOBS%5D%E6%9D%82%E8%AE%B0-%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/05/13/%5BOBS%5Dphilosophy-Matter%20of%20Life%20and%20Death/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2024/10/22/%5BOBS%5D%E4%BF%A1%E6%81%AF%E5%B7%AE-%E5%AF%86%E9%99%A2%E7%BD%97%E6%96%AF%E5%95%86%E5%AD%A6%E9%99%A2%E5%8F%8C%E5%AD%A6%E4%BD%8D%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DDynamicProgramming-Dynamic-Programming%20basics/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DROS-Environment%20generation/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DAR-AR%20IPP%20%E5%B0%8F%E7%BB%93/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DWoodOxen-UnityRef/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DWoodOxen-WeeklyProgress-WoodOxen%20M1/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/%5BOBS%5DWoodOxen-RoadArchitect/</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-03-16</lastmod>
   </url>
   <url>
     <loc>http://chen-yulin.github.io/2025/01/15/%E8%AE%A9%E4%B8%80%E5%88%87%E9%9A%90%E4%BA%8E%E6%99%A6%E6%9C%94%EF%BC%8C%E5%B0%B1%E5%9C%A8%E9%82%A3%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2/</loc>
