@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/19/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-ConceptGraphs=%20Open-Vocabulary%203D%20Scene%20Graphs%20for%20Perception%20and%20Planning/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/11/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Scene%20Reconstruction%20with%20Functional%20Objects%20for%20Robot%20Autonomy/</loc>
     
     <lastmod>2025-03-21</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/11/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Scene%20Reconstruction%20with%20Functional%20Objects%20for%20Robot%20Autonomy/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/19/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-ConceptGraphs=%20Open-Vocabulary%203D%20Scene%20Graphs%20for%20Perception%20and%20Planning/</loc>
     
     <lastmod>2025-03-21</lastmod>
     
@@ -398,7 +398,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/01/09/[OBS]Reconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
+    <loc>http://chen-yulin.github.io/2025/01/06/[OBS]Reconstruct%20Anything-Semantic-Simple%20Open-Vocabulary%20Object%20Detection%20with%20Vision%20Transformers/</loc>
     
     <lastmod>2025-03-21</lastmod>
     
@@ -407,7 +407,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/01/06/[OBS]Reconstruct%20Anything-Semantic-Simple%20Open-Vocabulary%20Object%20Detection%20with%20Vision%20Transformers/</loc>
+    <loc>http://chen-yulin.github.io/2025/01/09/[OBS]Reconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
     
     <lastmod>2025-03-21</lastmod>
     
@@ -425,7 +425,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/06/[OBS]Reconstruct%20Anything-Semantic-Semantic-SAM/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/11/[OBS]Reconstruct%20Anything-Semantic-DETR/</loc>
     
     <lastmod>2025-03-21</lastmod>
     
@@ -434,7 +434,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/11/[OBS]Reconstruct%20Anything-Semantic-DETR/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/06/[OBS]Reconstruct%20Anything-Semantic-Semantic-SAM/</loc>
     
     <lastmod>2025-03-21</lastmod>
     
@@ -1361,7 +1361,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]nvim-stdpath/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]nvim-LSP-LSP%20Basics/</loc>
     
     <lastmod>2025-03-21</lastmod>
     
@@ -1370,7 +1370,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]nvim-LSP-LSP%20Basics/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]nvim-stdpath/</loc>
     
     <lastmod>2025-03-21</lastmod>
     
@@ -2136,13 +2136,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/WSL/</loc>
-    <lastmod>2025-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/CADC/</loc>
     <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2172,6 +2165,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/CNN/</loc>
+    <lastmod>2025-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/WSL/</loc>
     <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3333,14 +3333,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Zen/</loc>
+    <loc>http://chen-yulin.github.io/tags/Love/</loc>
     <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Love/</loc>
+    <loc>http://chen-yulin.github.io/tags/Zen/</loc>
     <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
