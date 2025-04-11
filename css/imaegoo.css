@@ -22,7 +22,7 @@ body:before {
   bottom: 0;
   left: 0;
   opacity: 0.8;
-  background: url("/img/cats.jpg") no-repeat center/auto;
+  background: url("/img/fll.jpg") no-repeat center/auto;
   background-size: cover;
 }
 .navbar {
