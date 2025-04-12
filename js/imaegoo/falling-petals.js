@@ -50,7 +50,7 @@
         // Draw petals
         const petalsLength = petals.length;
         for (let i = 0; i < petalsLength; i++) {
-            console.log('drawing petals');
+            // console.log('drawing petals');
             const petal = petals[i];
             petal.update();
             petal.draw();
@@ -153,10 +153,10 @@
      * --------------------------------- */
     (function imaegoo() {
         if (!document.body.classList.contains('night')) {
-            console.log('Drawing petals in light mode');
+            // console.log('Drawing petals in light mode');
             draw();
         } else {
-            console.log('Not drawing petals in night mode');
+            // console.log('Not drawing petals in night mode');
         }
         window.requestAnimationFrame(imaegoo);
     })();
