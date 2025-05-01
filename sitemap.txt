@@ -158,7 +158,7 @@ http://chen-yulin.github.io/2023/05/10/[OBS]SmartCity-Aircraft%20control%20polic
 http://chen-yulin.github.io/2024/10/06/[OBS]MBTI-64%E5%9E%8B%E8%87%AA%E6%B5%8B/
 http://chen-yulin.github.io/2023/05/10/[OBS]IPP_Robot_Motion_Planning-Human%20motion%20prediction/
 http://chen-yulin.github.io/2024/10/11/[OBS]TC-VG501%20Description%20of%20Experimental%20Method%20and%20Details/
-http://chen-yulin.github.io/2025/01/16/[OBS]2025%20Summer%20Schedule/
+http://chen-yulin.github.io/2025/05/01/[OBS]2025%20Summer%20Schedule/
 http://chen-yulin.github.io/2025/01/16/[OBS]2025%20Winter&Spring%20Schedule/
 http://chen-yulin.github.io/2024/10/12/[OBS]nvim-plugin_dev-Basic%20Neovim%20Plugin%20Development%20Tutorial/
 http://chen-yulin.github.io/2024/10/09/[OBS]nvim-Guideline%20For%20My%20Nvim%20Configuration/
@@ -267,11 +267,11 @@ http://chen-yulin.github.io/tags/WSL/
 http://chen-yulin.github.io/tags/Haskell/
 http://chen-yulin.github.io/tags/Functional-programming/
 http://chen-yulin.github.io/tags/Hexo/
+http://chen-yulin.github.io/tags/Latex/
 http://chen-yulin.github.io/tags/Github/
 http://chen-yulin.github.io/tags/Nodejs/
 http://chen-yulin.github.io/tags/Html/
 http://chen-yulin.github.io/tags/Web/
-http://chen-yulin.github.io/tags/Latex/
 http://chen-yulin.github.io/tags/Emotion/
 http://chen-yulin.github.io/tags/ROS/
 http://chen-yulin.github.io/tags/Foundation/
@@ -435,8 +435,8 @@ http://chen-yulin.github.io/tags/Zen/
 http://chen-yulin.github.io/tags/Love/
 http://chen-yulin.github.io/tags/Movie/
 http://chen-yulin.github.io/tags/Communication/
-http://chen-yulin.github.io/tags/Family/
 http://chen-yulin.github.io/tags/YKLL/
+http://chen-yulin.github.io/tags/Family/
 http://chen-yulin.github.io/tags/Star-rail/
 http://chen-yulin.github.io/tags/Debate/
 http://chen-yulin.github.io/tags/Emoation/
