@@ -105,8 +105,8 @@ http://chen-yulin.github.io/2024/09/12/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6
 http://chen-yulin.github.io/2024/10/17/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E5%AD%A6%E5%81%9A%E5%B7%A5%EF%BC%9A%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7%E5%AD%90%E5%BC%9F%E4%B8%BA%E4%BD%95%E7%BB%A7%E6%89%BF%E7%88%B6%E4%B8%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap11/
 http://chen-yulin.github.io/2024/05/22/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/
 http://chen-yulin.github.io/2024/05/23/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AA%84%E9%97%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap7/
-http://chen-yulin.github.io/2025/05/19/[OBS]Travel-2025%20Disneyland/
 http://chen-yulin.github.io/2023/05/10/[OBS]Travel-2023%20Christmas/
+http://chen-yulin.github.io/2025/05/19/[OBS]Travel-2025%20Disneyland/
 http://chen-yulin.github.io/2024/12/17/[OBS]ML-The%20Bitter%20Lesson/
 http://chen-yulin.github.io/2023/05/10/[OBS]ML-ML%20Basics/
 http://chen-yulin.github.io/2024/11/21/[OBS]Reconstruct%20Anything/
@@ -122,8 +122,8 @@ http://chen-yulin.github.io/2023/05/10/[OBS]AI-GPT-%E4%B8%80%E4%BA%9BAI%E7%9A%84
 http://chen-yulin.github.io/2023/05/10/[OBS]AI-GPT-%E4%B8%80%E4%BA%9B%E5%9F%BA%E4%BA%8EGPT%20AI%E5%BC%80%E5%8F%91%E7%9A%84APP/
 http://chen-yulin.github.io/2025/04/01/[OBS]AI-%E8%87%AA%E7%84%B6%E8%BE%A9%E8%AF%81%E6%B3%95%E5%88%86%E4%BA%AB%E4%B9%8BAI%E4%B8%AD%E7%9A%84%E6%B6%8C%E7%8E%B0/
 http://chen-yulin.github.io/2024/04/05/[OBS]AI-Wechat%20bot/
-http://chen-yulin.github.io/2025/05/07/[OBS]linux-Write%20Latex%20in%20Neovim%20on%20Archlinux/
 http://chen-yulin.github.io/2023/05/10/[OBS]linux-Linux%20Basics/
+http://chen-yulin.github.io/2025/05/07/[OBS]linux-Write%20Latex%20in%20Neovim%20on%20Archlinux/
 http://chen-yulin.github.io/2025/04/07/[OBS]linux-SJTU-HPC-SJTU-HPC%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/
 http://chen-yulin.github.io/2023/05/10/[OBS]linux-WM/
 http://chen-yulin.github.io/2024/05/24/[OBS]linux-Copy-Paste%20in%20Hyprland%20across%20Wayland%20&%20XWayland/
@@ -192,8 +192,8 @@ http://chen-yulin.github.io/2024/05/21/[OBS]EmbededSystem-STM32%20Development%20
 http://chen-yulin.github.io/2025/04/22/[OBS]%E7%A7%91%E7%A0%94-FCSGG%20Repository%20Application/
 http://chen-yulin.github.io/2025/04/23/[OBS]%E7%A7%91%E7%A0%94-FCSGG%20Repo%20Explanation/
 http://chen-yulin.github.io/2025/03/31/[OBS]%E7%A7%91%E7%A0%94-DINOv2%20Repository%20Application/
-http://chen-yulin.github.io/2025/05/13/[OBS]%E7%A7%91%E7%A0%94-Part-level%20Dataset%20Available%20for%20Augmentation/
 http://chen-yulin.github.io/2025/05/23/[OBS]%E7%A7%91%E7%A0%94-Pixtral%2012B%20API%20Inference/
+http://chen-yulin.github.io/2025/05/13/[OBS]%E7%A7%91%E7%A0%94-Part-level%20Dataset%20Available%20for%20Augmentation/
 http://chen-yulin.github.io/2025/03/24/[OBS]%E7%A7%91%E7%A0%94-Semantic-SAM%20Repository%20Application/
 http://chen-yulin.github.io/2025/03/25/[OBS]%E7%A7%91%E7%A0%94-(Roadmap)%20Deeper%20Scene%20Graph%20For%20Robots/
 http://chen-yulin.github.io/2025/04/22/[OBS]%E7%A7%91%E7%A0%94-Detectron/
@@ -227,14 +227,15 @@ http://chen-yulin.github.io/2024/09/22/[OBS]2024%20Fall%20Schedule/
 http://chen-yulin.github.io/2023/05/10/[OBS]Postgraduate%20recommendation-Summer%20Camp/
 http://chen-yulin.github.io/2024/12/23/[OBS]477%20Challenge/
 http://chen-yulin.github.io/2024/05/19/[OBS]%E6%9D%82%E8%AE%B0-%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/
-http://chen-yulin.github.io/2024/05/13/[OBS]philosophy-Matter%20of%20Life%20and%20Death/
 http://chen-yulin.github.io/2024/10/22/[OBS]%E4%BF%A1%E6%81%AF%E5%B7%AE-%E5%AF%86%E9%99%A2%E7%BD%97%E6%96%AF%E5%95%86%E5%AD%A6%E9%99%A2%E5%8F%8C%E5%AD%A6%E4%BD%8D%E9%A1%B9%E7%9B%AE/
+http://chen-yulin.github.io/2024/05/13/[OBS]philosophy-Matter%20of%20Life%20and%20Death/
 http://chen-yulin.github.io/2023/05/10/[OBS]DynamicProgramming-Dynamic-Programming%20basics/
 http://chen-yulin.github.io/2023/05/10/[OBS]ROS-Environment%20generation/
 http://chen-yulin.github.io/2023/05/10/[OBS]AR-AR%20IPP%20%E5%B0%8F%E7%BB%93/
 http://chen-yulin.github.io/2023/05/10/[OBS]WoodOxen-UnityRef/
 http://chen-yulin.github.io/2023/05/10/[OBS]WoodOxen-WeeklyProgress-WoodOxen%20M1/
 http://chen-yulin.github.io/2023/05/10/[OBS]WoodOxen-RoadArchitect/
+http://chen-yulin.github.io/2025/07/02/%E2%99%A5%E5%A4%8F%E5%A4%A9%E5%92%8C%E6%B3%A2%E5%AD%90%E6%B1%BD%E6%B0%B4%E6%98%AF%E7%BB%9D%E9%85%8D%E2%99%A5/
 http://chen-yulin.github.io/2025/01/15/%E8%AE%A9%E4%B8%80%E5%88%87%E9%9A%90%E4%BA%8E%E6%99%A6%E6%9C%94%EF%BC%8C%E5%B0%B1%E5%9C%A8%E9%82%A3%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2/
 http://chen-yulin.github.io/2025/04/12/%E5%8D%9A%E5%AE%A2%E4%B8%89%E5%91%A8%E5%B9%B4/
 http://chen-yulin.github.io/2024/09/18/%E9%BA%BB%E4%B8%8E%E6%89%A7%EF%BC%8C%E6%B8%90%E7%A6%BB%E7%9A%84%E6%9F%94%E8%BD%AF%E5%92%8C%E6%81%B0%E5%88%B0%E5%A5%BD%E5%A4%84%E7%9A%84%E6%94%BB%E5%87%BB%E6%80%A7/
@@ -344,8 +345,8 @@ http://chen-yulin.github.io/tags/Physics-engine/
 http://chen-yulin.github.io/tags/Jolt/
 http://chen-yulin.github.io/tags/PhysX/
 http://chen-yulin.github.io/tags/Git/
-http://chen-yulin.github.io/tags/Repository/
 http://chen-yulin.github.io/tags/Submodule/
+http://chen-yulin.github.io/tags/Repository/
 http://chen-yulin.github.io/tags/Version-management/
 http://chen-yulin.github.io/tags/HRI/
 http://chen-yulin.github.io/tags/%F0%9F%90%B1/
@@ -467,4 +468,5 @@ http://chen-yulin.github.io/categories/Schedule/
 http://chen-yulin.github.io/categories/%E8%AF%BB%E8%AF%BB%E5%99%9C/
 http://chen-yulin.github.io/categories/%E7%90%B4%E8%B0%B1/
 http://chen-yulin.github.io/categories/%E6%B0%91%E4%BB%A5%E9%A3%9F%E4%B8%BA%E5%A4%A9/
+http://chen-yulin.github.io/categories/%E7%94%9C%E7%94%9C%E7%9A%84%E6%81%8B%E7%88%B1%E6%97%A5%E5%B8%B8%E5%91%80/
 http://chen-yulin.github.io/categories/%E5%8F%8B%E4%BA%BA%E5%B8%90/
