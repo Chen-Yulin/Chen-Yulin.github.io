@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/08/26/[OBS]Travel-2025%20%E9%95%BF%E6%B2%99%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F/</loc>
-    
-    <lastmod>2025-08-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2025/08/27/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E8%8E%93%E8%BE%A3MAYLOVE%20%E8%AF%BB%E4%B9%A6%E4%BC%9Ap17/</loc>
-    
-    <lastmod>2025-08-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2024/10/22/[OBS]Quantum%20Computing-ProxiML%20--%20Building%20Machine%20Learning%20Classifiers%20for%20Photonic%20Quantum%20Computing/</loc>
     
     <lastmod>2025-08-27</lastmod>
@@ -146,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/12/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Scene%20Graph%20Generation-%20A%20comprehensive%20survey/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/12/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-SceneGraphFusion-%20Incremental%203D%20Scene%20Graph%20Prediction%20from%20RGB-D%20Sequences/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -155,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/12/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-SceneGraphFusion-%20Incremental%203D%20Scene%20Graph%20Prediction%20from%20RGB-D%20Sequences/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/12/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Scene%20Graph%20Generation-%20A%20comprehensive%20survey/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -245,7 +227,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/13/[OBS]Reconstruct%20Anything-Relation-Energy-Based%20Learning%20for%20Scene%20Graph%20Generation/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/14/[OBS]Reconstruct%20Anything-Relation-(FCSGG)%20Fully%20Convolutional%20Scene%20Graph%20Generation/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -254,7 +236,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/14/[OBS]Reconstruct%20Anything-Relation-(FCSGG)%20Fully%20Convolutional%20Scene%20Graph%20Generation/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/13/[OBS]Reconstruct%20Anything-Relation-Energy-Based%20Learning%20for%20Scene%20Graph%20Generation/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -317,7 +299,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/18/[OBS]Reconstruct%20Anything-Relation-(VtransE)%20Visual%20Translation%20Embedding%20Network%20for%20Visual%20Relation%20Detection/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/14/[OBS]Reconstruct%20Anything-Relation-Visual%20Relationship%20Detection%20with%20Language%20Priors/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -326,7 +308,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/14/[OBS]Reconstruct%20Anything-Relation-Visual%20Relationship%20Detection%20with%20Language%20Priors/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/18/[OBS]Reconstruct%20Anything-Relation-(VtransE)%20Visual%20Translation%20Embedding%20Network%20for%20Visual%20Relation%20Detection/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -407,7 +389,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/04/[OBS]Reconstruct%20Anything-Semantic-ALBEF/</loc>
+    <loc>http://chen-yulin.github.io/2024/12/09/[OBS]Reconstruct%20Anything-Semantic-Deep%20Hierarchical%20Semantic%20Segmentation/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -416,7 +398,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/12/09/[OBS]Reconstruct%20Anything-Semantic-Deep%20Hierarchical%20Semantic%20Segmentation/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/04/[OBS]Reconstruct%20Anything-Semantic-ALBEF/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -461,7 +443,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/01/09/[OBS]Reconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
+    <loc>http://chen-yulin.github.io/2025/01/06/[OBS]Reconstruct%20Anything-Semantic-Simple%20Open-Vocabulary%20Object%20Detection%20with%20Vision%20Transformers/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -470,7 +452,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/01/06/[OBS]Reconstruct%20Anything-Semantic-Simple%20Open-Vocabulary%20Object%20Detection%20with%20Vision%20Transformers/</loc>
+    <loc>http://chen-yulin.github.io/2025/01/09/[OBS]Reconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -659,15 +641,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/11/05/[OBS]Deep%20Learning-Imitation%20Learnning-AR2-D2%20--%20Training%20a%20Robot%20Without%20a%20Robot/</loc>
-    
-    <lastmod>2025-08-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2024/12/31/[OBS]Deep%20Learning-Imitation%20Learnning-A%20Survey%20of%20Imitation%20Learning-%20Algorithms,%20Recent%20%20Developments,%20and%20Challenges/</loc>
     
     <lastmod>2025-08-27</lastmod>
@@ -677,7 +650,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/04/24/[OBS]Deep%20Learning-CV-CenterNet/</loc>
+    <loc>http://chen-yulin.github.io/2024/11/05/[OBS]Deep%20Learning-Imitation%20Learnning-AR2-D2%20--%20Training%20a%20Robot%20Without%20a%20Robot/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -687,6 +660,15 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2024/12/31/[OBS]Deep%20Learning-Imitation%20Learnning-One-Shot%20Visual%20Imitation%20Learning%20via%20Meta-Learning/</loc>
+    
+    <lastmod>2025-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2025/04/24/[OBS]Deep%20Learning-CV-CenterNet/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -848,15 +830,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/04/13/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AE%80%E5%8D%95%E7%9A%84%E6%BF%80%E6%83%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap16/</loc>
-    
-    <lastmod>2025-08-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2025/03/13/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%B4%A0%E9%A3%9F%E8%80%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap15/</loc>
     
     <lastmod>2025-08-27</lastmod>
@@ -866,7 +839,25 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2025/04/13/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AE%80%E5%8D%95%E7%9A%84%E6%BF%80%E6%83%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap16/</loc>
+    
+    <lastmod>2025-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2025/02/13/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E6%82%89%E8%BE%BE%E5%A4%9A%E3%80%8B%20%E8%AF%BB%E4%B9%A6%E4%BC%9Ap14/</loc>
+    
+    <lastmod>2025-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2025/08/27/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E8%8E%93%E8%BE%A3MAYLOVE%20%E8%AF%BB%E4%B9%A6%E4%BC%9Ap17/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -975,6 +966,15 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2024/05/23/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AA%84%E9%97%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap7/</loc>
+    
+    <lastmod>2025-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2025/08/26/[OBS]Travel-2025%20%E9%95%BF%E6%B2%99%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1226,7 +1226,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/12/10/[OBS]linux-Use%20SSH%20to%20Connect%20Jupyter-lab/</loc>
+    <loc>http://chen-yulin.github.io/2025/05/07/[OBS]linux-Davinci-resolve%20on%20Archlinux/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1235,7 +1235,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/05/07/[OBS]linux-Davinci-resolve%20on%20Archlinux/</loc>
+    <loc>http://chen-yulin.github.io/2024/12/10/[OBS]linux-Use%20SSH%20to%20Connect%20Jupyter-lab/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1307,7 +1307,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Goal/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]PSY-Emotion&Motivation/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1316,7 +1316,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]PSY-Emotion&Motivation/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Goal/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1442,15 +1442,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/08/[OBS]Python-PyTorch%20Einsum/</loc>
-    
-    <lastmod>2025-08-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Python-regex/</loc>
     
     <lastmod>2025-08-27</lastmod>
@@ -1460,7 +1451,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Python-sklearn/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/08/[OBS]Python-PyTorch%20Einsum/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1470,6 +1461,15 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Python-DataFrame/</loc>
+    
+    <lastmod>2025-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Python-sklearn/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1532,7 +1532,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/07/14/[OBS]%E8%AF%BE%E7%A8%8B-Math6003%20Hw5/</loc>
+    <loc>http://chen-yulin.github.io/2025/06/11/[OBS]%E8%AF%BE%E7%A8%8B-%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E8%80%83%E8%AF%95%E7%BA%B2%E8%A6%81/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1541,7 +1541,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/06/11/[OBS]%E8%AF%BE%E7%A8%8B-%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E8%80%83%E8%AF%95%E7%BA%B2%E8%A6%81/</loc>
+    <loc>http://chen-yulin.github.io/2025/07/14/[OBS]%E8%AF%BE%E7%A8%8B-Math6003%20Hw5/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1910,7 +1910,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/04/25/[OBS]Capstone-Graduate%20Project/</loc>
+    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-Python-Unity%20Network/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -1919,7 +1919,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/08/01/[OBS]Capstone-Python-Unity%20Network/</loc>
+    <loc>http://chen-yulin.github.io/2024/04/25/[OBS]Capstone-Graduate%20Project/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -2063,7 +2063,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/09/13/[OBS]%E7%90%B4%E8%B0%B1-%E4%BD%BF%E4%B8%80%E9%A2%97%E5%BF%83%E5%85%8D%E4%BA%8E%E5%93%80%E4%BC%A4-ykll%E8%B0%B1/</loc>
+    <loc>http://chen-yulin.github.io/2024/09/13/[OBS]%E7%90%B4%E8%B0%B1-%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E6%80%9D%E5%BF%B5-ykll%E8%B0%B1/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -2072,7 +2072,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/09/13/[OBS]%E7%90%B4%E8%B0%B1-%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E6%80%9D%E5%BF%B5-ykll%E8%B0%B1/</loc>
+    <loc>http://chen-yulin.github.io/2024/09/13/[OBS]%E7%90%B4%E8%B0%B1-%E4%BD%BF%E4%B8%80%E9%A2%97%E5%BF%83%E5%85%8D%E4%BA%8E%E5%93%80%E4%BC%A4-ykll%E8%B0%B1/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -2171,7 +2171,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]AR-AR%20IPP%20%E5%B0%8F%E7%BB%93/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]ROS-Environment%20generation/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -2180,7 +2180,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]ROS-Environment%20generation/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]AR-AR%20IPP%20%E5%B0%8F%E7%BB%93/</loc>
     
     <lastmod>2025-08-27</lastmod>
     
@@ -3166,20 +3166,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Behaviorism/</loc>
-    <lastmod>2025-08-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Humanism/</loc>
-    <lastmod>2025-08-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Well-being/</loc>
     <lastmod>2025-08-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -3188,6 +3174,20 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Health/</loc>
+    <lastmod>2025-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Behaviorism/</loc>
+    <lastmod>2025-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Humanism/</loc>
     <lastmod>2025-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
