@@ -89,6 +89,7 @@ http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E8%87%AA%E5%8A%A
 http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E4%BA%BA%E9%97%B4%E4%B8%80%E8%B6%9F%EF%BC%8C%E5%BF%83%E6%97%A0%E6%8C%82%E7%A2%8Dvs%E5%BF%83%E6%9C%89%E6%89%80%E5%B1%9E%E6%9B%B4%E5%80%BC%E5%BE%97/
 http://chen-yulin.github.io/2023/05/10/[OBS]XbortPark-Lecture-March21/
 http://chen-yulin.github.io/2024/05/12/[OBS]%E5%A6%82%E6%9E%9C%E5%93%AA%E5%A4%A9%E6%9C%89%E5%B9%B8%E6%8E%A5%E8%A7%A6%E4%B9%90%E5%99%A8%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E8%B0%88%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%9B%B2%E5%AD%90%E5%91%80/
+http://chen-yulin.github.io/2025/10/10/[OBS]%E6%94%80%E7%88%AC%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%94%80%E7%88%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%93%E6%9E%84%E8%B0%83%E7%A0%94/
 http://chen-yulin.github.io/2024/04/09/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap1/
 http://chen-yulin.github.io/2025/03/13/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%B4%A0%E9%A3%9F%E8%80%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap15/
 http://chen-yulin.github.io/2025/04/13/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AE%80%E5%8D%95%E7%9A%84%E6%BF%80%E6%83%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap16/
@@ -106,6 +107,7 @@ http://chen-yulin.github.io/2024/09/12/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6
 http://chen-yulin.github.io/2024/10/17/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E5%AD%A6%E5%81%9A%E5%B7%A5%EF%BC%9A%E5%B7%A5%E4%BA%BA%E9%98%B6%E7%BA%A7%E5%AD%90%E5%BC%9F%E4%B8%BA%E4%BD%95%E7%BB%A7%E6%89%BF%E7%88%B6%E4%B8%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap11/
 http://chen-yulin.github.io/2024/05/22/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap6/
 http://chen-yulin.github.io/2024/05/23/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%AA%84%E9%97%A8%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap7/
+http://chen-yulin.github.io/2025/09/17/[OBS]Travel-2025%E9%9F%A9%E5%9B%BD/
 http://chen-yulin.github.io/2023/05/10/[OBS]Travel-2023%20Christmas/
 http://chen-yulin.github.io/2025/08/26/[OBS]Travel-2025%20%E9%95%BF%E6%B2%99%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F/
 http://chen-yulin.github.io/2025/05/19/[OBS]Travel-2025%20Disneyland/
@@ -147,6 +149,7 @@ http://chen-yulin.github.io/2023/05/10/[OBS]PSY-Emotion&Motivation/
 http://chen-yulin.github.io/2023/05/10/[OBS]Goal/
 http://chen-yulin.github.io/2023/05/10/[OBS]Shader-SemanticSegmentation/
 http://chen-yulin.github.io/2024/09/20/[OBS]Shader-Shader%20Learning%20Materials/
+http://chen-yulin.github.io/2025/09/14/[OBS]%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%84%E5%88%9D%E7%8F%AD-Lec1/
 http://chen-yulin.github.io/2025/02/18/[OBS]NSFC%20-%20SceneLLM+KnowledgeGraph/
 http://chen-yulin.github.io/2024/05/24/[OBS]Game-dev-JustWork%20%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3/
 http://chen-yulin.github.io/2024/10/23/[OBS]Game-dev-Godot%20Learning%20Plan/
@@ -174,9 +177,9 @@ http://chen-yulin.github.io/2025/06/09/[OBS]%E9%A3%9F%E8%B0%B1-%E8%80%81%E5%8F%8
 http://chen-yulin.github.io/2023/05/10/[OBS]SmartCity-autonomousDriving/
 http://chen-yulin.github.io/2023/05/10/[OBS]SmartCity-Aircraft%20control%20policy/
 http://chen-yulin.github.io/2024/10/06/[OBS]MBTI-64%E5%9E%8B%E8%87%AA%E6%B5%8B/
-http://chen-yulin.github.io/2023/05/10/[OBS]IPP_Robot_Motion_Planning-Human%20motion%20prediction/
 http://chen-yulin.github.io/2024/10/11/[OBS]TC-VG501%20Description%20of%20Experimental%20Method%20and%20Details/
-http://chen-yulin.github.io/2025/05/01/[OBS]2025%20Summer%20Schedule/
+http://chen-yulin.github.io/2023/05/10/[OBS]IPP_Robot_Motion_Planning-Human%20motion%20prediction/
+http://chen-yulin.github.io/2025/10/09/[OBS]2025%20Summer%20Schedule/
 http://chen-yulin.github.io/2025/06/05/[OBS]Homework%202=%20Curve%20Fitting/
 http://chen-yulin.github.io/2025/01/16/[OBS]2025%20Winter&Spring%20Schedule/
 http://chen-yulin.github.io/2024/10/12/[OBS]nvim-plugin_dev-Basic%20Neovim%20Plugin%20Development%20Tutorial/
@@ -227,9 +230,11 @@ http://chen-yulin.github.io/2023/05/10/[OBS]Git-Git%20Submodule/
 http://chen-yulin.github.io/2023/05/10/[OBS]Git-Git%20Version/
 http://chen-yulin.github.io/2023/05/10/[OBS]Git-Git%20Merge/
 http://chen-yulin.github.io/2023/05/10/[OBS]Git-Git%20Repository/
+http://chen-yulin.github.io/2025/09/14/[OBS]%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%84%E9%AB%98%E7%8F%AD-Lec1/
 http://chen-yulin.github.io/2024/09/25/[OBS]%E7%90%B4%E8%B0%B1-Merry%20Go%20Round%20of%20Life%20-%20ykll%E8%B0%B1/
 http://chen-yulin.github.io/2024/09/13/[OBS]%E7%90%B4%E8%B0%B1-%E4%BD%BF%E4%B8%80%E9%A2%97%E5%BF%83%E5%85%8D%E4%BA%8E%E5%93%80%E4%BC%A4-ykll%E8%B0%B1/
 http://chen-yulin.github.io/2024/09/13/[OBS]%E7%90%B4%E8%B0%B1-%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E6%80%9D%E5%BF%B5-ykll%E8%B0%B1/
+http://chen-yulin.github.io/2025/05/01/[OBS]2025%20Fall%20Schedule/
 http://chen-yulin.github.io/2023/05/10/[OBS]Unity-Prefab/
 http://chen-yulin.github.io/2024/05/16/[OBS]Computer%20Network-Unix%20Network%20Programming%20SRC/
 http://chen-yulin.github.io/2023/05/10/[OBS]Math-LinearAlgebra/
@@ -297,8 +302,8 @@ http://chen-yulin.github.io/tags/Nodejs/
 http://chen-yulin.github.io/tags/Html/
 http://chen-yulin.github.io/tags/Web/
 http://chen-yulin.github.io/tags/Latex/
-http://chen-yulin.github.io/tags/Emotion/
 http://chen-yulin.github.io/tags/ROS/
+http://chen-yulin.github.io/tags/Emotion/
 http://chen-yulin.github.io/tags/Foundation/
 http://chen-yulin.github.io/tags/SJTU-Lecture/
 http://chen-yulin.github.io/tags/Tech-Communication/
@@ -428,11 +433,11 @@ http://chen-yulin.github.io/tags/%E2%99%A5%EF%B8%8F/
 http://chen-yulin.github.io/tags/Prefab/
 http://chen-yulin.github.io/tags/Json/
 http://chen-yulin.github.io/tags/Docs/
-http://chen-yulin.github.io/tags/Css/
-http://chen-yulin.github.io/tags/Website/
 http://chen-yulin.github.io/tags/PHD/
 http://chen-yulin.github.io/tags/Business/
 http://chen-yulin.github.io/tags/Academic/
+http://chen-yulin.github.io/tags/Css/
+http://chen-yulin.github.io/tags/Website/
 http://chen-yulin.github.io/tags/Aliyun/
 http://chen-yulin.github.io/tags/Live2d/
 http://chen-yulin.github.io/tags/Window-manager/
@@ -467,6 +472,8 @@ http://chen-yulin.github.io/tags/Zen/
 http://chen-yulin.github.io/tags/Love/
 http://chen-yulin.github.io/tags/Movie/
 http://chen-yulin.github.io/tags/Communication/
+http://chen-yulin.github.io/tags/Lego/
+http://chen-yulin.github.io/tags/MindPlus/
 http://chen-yulin.github.io/tags/Family/
 http://chen-yulin.github.io/tags/YKLL/
 http://chen-yulin.github.io/tags/Star-rail/
@@ -484,5 +491,5 @@ http://chen-yulin.github.io/categories/Schedule/
 http://chen-yulin.github.io/categories/%E8%AF%BB%E8%AF%BB%E5%99%9C/
 http://chen-yulin.github.io/categories/%E7%90%B4%E8%B0%B1/
 http://chen-yulin.github.io/categories/%E6%B0%91%E4%BB%A5%E9%A3%9F%E4%B8%BA%E5%A4%A9/
-http://chen-yulin.github.io/categories/%E7%94%9C%E7%94%9C%E7%9A%84%E6%81%8B%E7%88%B1%E6%97%A5%E5%B8%B8%E5%91%80/
 http://chen-yulin.github.io/categories/%E5%8F%8B%E4%BA%BA%E5%B8%90/
+http://chen-yulin.github.io/categories/%E7%94%9C%E7%94%9C%E7%9A%84%E6%81%8B%E7%88%B1%E6%97%A5%E5%B8%B8%E5%91%80/
