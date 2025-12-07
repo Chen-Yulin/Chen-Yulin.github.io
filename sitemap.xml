@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/12/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-SceneGraphFusion-%20Incremental%203D%20Scene%20Graph%20Prediction%20from%20RGB-D%20Sequences/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/12/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Scene%20Graph%20Generation-%20A%20comprehensive%20survey/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/12/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-Scene%20Graph%20Generation-%20A%20comprehensive%20survey/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/12/[OBS]Reconstruct%20Anything-%E7%9B%B8%E8%BF%91%E5%B7%A5%E4%BD%9C-SceneGraphFusion-%20Incremental%203D%20Scene%20Graph%20Prediction%20from%20RGB-D%20Sequences/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -263,6 +263,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2025/03/13/[OBS]Reconstruct%20Anything-Relation-Scene%20Graph%20Generation%20With%20Hierarchical%20Context/</loc>
+    
+    <lastmod>2025-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2025/03/13/[OBS]Reconstruct%20Anything-Relation-GPS-Net=%20Graph%20Property%20Sensing%20Network%20for%20Scene%20Graph%20Generation/</loc>
     
     <lastmod>2025-12-07</lastmod>
@@ -273,15 +282,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/2025/04/15/[OBS]Reconstruct%20Anything-Relation-OpenPose%20Using%20Part%20Affinity%20Fields/</loc>
-    
-    <lastmod>2025-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/2025/03/13/[OBS]Reconstruct%20Anything-Relation-Scene%20Graph%20Generation%20With%20Hierarchical%20Context/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -470,7 +470,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/01/09/[OBS]Reconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/04/[OBS]Reconstruct%20Anything-Semantic-ViLT/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -479,7 +479,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/04/[OBS]Reconstruct%20Anything-Semantic-ViLT/</loc>
+    <loc>http://chen-yulin.github.io/2025/01/09/[OBS]Reconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -695,7 +695,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/04/24/[OBS]Deep%20Learning-CV-CenterNet/</loc>
+    <loc>http://chen-yulin.github.io/2025/05/06/[OBS]Deep%20Learning-CV-Deformable%20Convolutional%20Networks/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -704,7 +704,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/05/06/[OBS]Deep%20Learning-CV-Deformable%20Convolutional%20Networks/</loc>
+    <loc>http://chen-yulin.github.io/2025/04/24/[OBS]Deep%20Learning-CV-CenterNet/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -803,7 +803,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9A%84%E6%AD%BB%E4%BA%A1%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%91%8A%E8%AF%89ta%E5%90%97/</loc>
+    <loc>http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%81%87%E5%88%B0%E5%8D%B1%E9%99%A9%E6%97%B6%EF%BC%8C%E4%B9%98%E5%AE%A2%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88vs%E8%A1%8C%E4%BA%BA%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -812,7 +812,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%81%87%E5%88%B0%E5%8D%B1%E9%99%A9%E6%97%B6%EF%BC%8C%E4%B9%98%E5%AE%A2%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88vs%E8%A1%8C%E4%BA%BA%E4%BF%9D%E6%8A%A4%E4%BC%98%E5%85%88/</loc>
+    <loc>http://chen-yulin.github.io/2024/04/05/[OBS]%E8%BE%A9%E8%AE%BA-%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%88%AB%E4%BA%BA%E7%9A%84%E6%AD%BB%E4%BA%A1%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%91%8A%E8%AF%89ta%E5%90%97/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -848,7 +848,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/04/09/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap1/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/13/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%B4%A0%E9%A3%9F%E8%80%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap15/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -857,7 +857,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/13/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E7%B4%A0%E9%A3%9F%E8%80%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap15/</loc>
+    <loc>http://chen-yulin.github.io/2024/04/09/[OBS]%E6%98%9F%E7%A9%BA%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E3%80%8A%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89%E3%80%8B%E8%AF%BB%E4%B9%A6%E4%BC%9Ap1/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -1010,7 +1010,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Travel-2023%20Christmas/</loc>
+    <loc>http://chen-yulin.github.io/2025/08/26/[OBS]Travel-2025%20%E9%95%BF%E6%B2%99%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -1019,7 +1019,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/08/26/[OBS]Travel-2025%20%E9%95%BF%E6%B2%99%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Travel-2023%20Christmas/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -1406,7 +1406,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/05/24/[OBS]Game-dev-JustWork%20%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3/</loc>
+    <loc>http://chen-yulin.github.io/2024/10/23/[OBS]Game-dev-Godot%20Learning%20Plan/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -1415,7 +1415,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/10/23/[OBS]Game-dev-Godot%20Learning%20Plan/</loc>
+    <loc>http://chen-yulin.github.io/2024/05/24/[OBS]Game-dev-JustWork%20%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -1892,7 +1892,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/05/13/[OBS]%E7%A7%91%E7%A0%94-Part-level%20Dataset%20Available%20for%20Augmentation/</loc>
+    <loc>http://chen-yulin.github.io/2025/05/23/[OBS]%E7%A7%91%E7%A0%94-Pixtral%2012B%20API%20Inference/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -1901,7 +1901,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/05/23/[OBS]%E7%A7%91%E7%A0%94-Pixtral%2012B%20API%20Inference/</loc>
+    <loc>http://chen-yulin.github.io/2025/05/13/[OBS]%E7%A7%91%E7%A0%94-Part-level%20Dataset%20Available%20for%20Augmentation/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -1919,7 +1919,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/25/[OBS]%E7%A7%91%E7%A0%94-(Roadmap)%20Deeper%20Scene%20Graph%20For%20Robots/</loc>
+    <loc>http://chen-yulin.github.io/2025/04/22/[OBS]%E7%A7%91%E7%A0%94-Detectron/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -1928,7 +1928,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/04/22/[OBS]%E7%A7%91%E7%A0%94-Detectron/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/25/[OBS]%E7%A7%91%E7%A0%94-(Roadmap)%20Deeper%20Scene%20Graph%20For%20Robots/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -2090,7 +2090,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Git-Git%20Merge/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Git-Git%20Version/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -2099,7 +2099,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Git-Git%20Version/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Git-Git%20Merge/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -2180,15 +2180,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Math-LinearAlgebra/</loc>
-    
-    <lastmod>2025-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/2024/09/22/[OBS]2024%20Fall%20Schedule/</loc>
     
     <lastmod>2025-12-07</lastmod>
@@ -2198,7 +2189,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Postgraduate%20recommendation-Summer%20Camp/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Math-LinearAlgebra/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -2216,6 +2207,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Postgraduate%20recommendation-Summer%20Camp/</loc>
+    
+    <lastmod>2025-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2024/05/19/[OBS]%E6%9D%82%E8%AE%B0-%E5%92%96%E5%96%B1%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
     
     <lastmod>2025-12-07</lastmod>
@@ -2225,7 +2225,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/05/13/[OBS]philosophy-Matter%20of%20Life%20and%20Death/</loc>
+    <loc>http://chen-yulin.github.io/2024/10/22/[OBS]%E4%BF%A1%E6%81%AF%E5%B7%AE-%E5%AF%86%E9%99%A2%E7%BD%97%E6%96%AF%E5%95%86%E5%AD%A6%E9%99%A2%E5%8F%8C%E5%AD%A6%E4%BD%8D%E9%A1%B9%E7%9B%AE/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -2234,7 +2234,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/10/22/[OBS]%E4%BF%A1%E6%81%AF%E5%B7%AE-%E5%AF%86%E9%99%A2%E7%BD%97%E6%96%AF%E5%95%86%E5%AD%A6%E9%99%A2%E5%8F%8C%E5%AD%A6%E4%BD%8D%E9%A1%B9%E7%9B%AE/</loc>
+    <loc>http://chen-yulin.github.io/2024/05/13/[OBS]philosophy-Matter%20of%20Life%20and%20Death/</loc>
     
     <lastmod>2025-12-07</lastmod>
     
@@ -3587,14 +3587,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/C/</loc>
+    <loc>http://chen-yulin.github.io/tags/Shell/</loc>
     <lastmod>2025-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Shell/</loc>
+    <loc>http://chen-yulin.github.io/tags/C/</loc>
     <lastmod>2025-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3888,14 +3888,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Meme/</loc>
+    <loc>http://chen-yulin.github.io/tags/Music/</loc>
     <lastmod>2025-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Music/</loc>
+    <loc>http://chen-yulin.github.io/tags/Meme/</loc>
     <lastmod>2025-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4100,14 +4100,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/%E7%94%9C%E7%94%9C%E7%9A%84%E6%81%8B%E7%88%B1%E6%97%A5%E5%B8%B8%E5%91%80/</loc>
+    <loc>http://chen-yulin.github.io/categories/%E5%8F%8B%E4%BA%BA%E5%B8%90/</loc>
     <lastmod>2025-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/categories/%E5%8F%8B%E4%BA%BA%E5%B8%90/</loc>
+    <loc>http://chen-yulin.github.io/categories/%E7%94%9C%E7%94%9C%E7%9A%84%E6%81%8B%E7%88%B1%E6%97%A5%E5%B8%B8%E5%91%80/</loc>
     <lastmod>2025-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
