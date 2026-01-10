@@ -121,8 +121,8 @@ http://chen-yulin.github.io/2024/09/16/[OBS]hexo-live2d%20%E5%A4%8D%E6%B4%BB%E8%
 http://chen-yulin.github.io/2024/09/03/[OBS]hexo-Hexo%20Comment%20System%20--%20Twikoo/
 http://chen-yulin.github.io/2024/10/28/[OBS]hexo-Blog%20Template%20For%20New%20Hexo%20User%20(%E7%B3%95)/
 http://chen-yulin.github.io/2024/07/15/[OBS]hexo-Hexo%20plugin%20--%20hexo-photo-wall/
-http://chen-yulin.github.io/2024/04/05/[OBS]hexo-Customize%20hexo%20Icarus/
 http://chen-yulin.github.io/2024/10/08/[OBS]hexo-Hexo%20AI%20Assistant/
+http://chen-yulin.github.io/2024/04/05/[OBS]hexo-Customize%20hexo%20Icarus/
 http://chen-yulin.github.io/2024/04/08/[OBS]AI-Amazon%20Echo%20Alexa%20persuade%20people%20to%20commit%20suicide/
 http://chen-yulin.github.io/2025/08/13/[OBS]AI-RAG-Graph/
 http://chen-yulin.github.io/2023/05/10/[OBS]AI-AIGC-March24/
@@ -326,9 +326,9 @@ http://chen-yulin.github.io/tags/Scene-graph/
 http://chen-yulin.github.io/tags/Visual-Relation/
 http://chen-yulin.github.io/tags/Research-paper/
 http://chen-yulin.github.io/tags/Tasks/
+http://chen-yulin.github.io/tags/Algorithm/
 http://chen-yulin.github.io/tags/AIGC/
 http://chen-yulin.github.io/tags/AI/
-http://chen-yulin.github.io/tags/Algorithm/
 http://chen-yulin.github.io/tags/Ethic/
 http://chen-yulin.github.io/tags/GPT/
 http://chen-yulin.github.io/tags/App/
@@ -337,10 +337,10 @@ http://chen-yulin.github.io/tags/Multi-Agent/
 http://chen-yulin.github.io/tags/RAG/
 http://chen-yulin.github.io/tags/Graph/
 http://chen-yulin.github.io/tags/AR/
-http://chen-yulin.github.io/tags/CV/
 http://chen-yulin.github.io/tags/6-D/
-http://chen-yulin.github.io/tags/Supervised-learning/
+http://chen-yulin.github.io/tags/CV/
 http://chen-yulin.github.io/tags/Capstone/
+http://chen-yulin.github.io/tags/Supervised-learning/
 http://chen-yulin.github.io/tags/IK/
 http://chen-yulin.github.io/tags/Planning/
 http://chen-yulin.github.io/tags/Network/
