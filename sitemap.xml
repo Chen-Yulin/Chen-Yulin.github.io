@@ -344,7 +344,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/02/15/[OBS]Reconstruct%20Anything-Scene-LLM/</loc>
+    <loc>http://chen-yulin.github.io/2025/02/13/[OBS]Reconstruct%20Anything-PointLLM/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -353,7 +353,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/02/13/[OBS]Reconstruct%20Anything-PointLLM/</loc>
+    <loc>http://chen-yulin.github.io/2025/02/15/[OBS]Reconstruct%20Anything-Scene-LLM/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -470,7 +470,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/03/04/[OBS]Reconstruct%20Anything-Semantic-ViLT/</loc>
+    <loc>http://chen-yulin.github.io/2025/01/09/[OBS]Reconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -479,7 +479,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2025/01/09/[OBS]Reconstruct%20Anything-Semantic-DINOv2-%20Learning%20Robust%20Visual%20Features%20without%20Supervision/</loc>
+    <loc>http://chen-yulin.github.io/2025/03/04/[OBS]Reconstruct%20Anything-Semantic-ViLT/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -632,7 +632,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/09/27/[OBS]Deep%20Learning-RNN-Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling/</loc>
+    <loc>http://chen-yulin.github.io/2024/09/26/[OBS]%E8%AE%BA%E6%96%87%E5%B7%A5%E4%BD%9C%E6%B5%81/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -641,7 +641,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/09/26/[OBS]%E8%AE%BA%E6%96%87%E5%B7%A5%E4%BD%9C%E6%B5%81/</loc>
+    <loc>http://chen-yulin.github.io/2024/09/27/[OBS]Deep%20Learning-RNN-Empirical%20Evaluation%20of%20Gated%20Recurrent%20Neural%20Networks%20on%20Sequence%20Modeling/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -1181,6 +1181,15 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/2026/01/29/[OBS]AI-ELBO-Variational-Inference/</loc>
+    
+    <lastmod>2026-01-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/2023/05/10/[OBS]AI-GPT-%E4%B8%80%E4%BA%9BAI%E7%9A%84%E5%88%A9%E7%94%A8%E6%96%B9%E5%BC%8F/</loc>
     
     <lastmod>2026-01-29</lastmod>
@@ -1226,7 +1235,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2026/01/29/[OBS]AI-KL%20Divergence%20in%20VAEs%20and%20Diffusion%20Models/</loc>
+    <loc>http://chen-yulin.github.io/2026/01/29/[OBS]AI-Bayes-Theorem/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -1883,7 +1892,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_Input_Capture/</loc>
+    <loc>http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_Output_Compare/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -1892,7 +1901,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_Output_Compare/</loc>
+    <loc>http://chen-yulin.github.io/2024/06/16/[OBS]EmbededSystem-ECE3730J%20RC2_Input_Capture/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -2018,7 +2027,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/04/20/[OBS]docs-Docusaurus/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Shell-Implement%20Build-in%20Command%20in%20C/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -2027,7 +2036,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Shell-Implement%20Build-in%20Command%20in%20C/</loc>
+    <loc>http://chen-yulin.github.io/2024/04/20/[OBS]docs-Docusaurus/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -2243,7 +2252,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2024/05/16/[OBS]Computer%20Network-Unix%20Network%20Programming%20SRC/</loc>
+    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Unity-Prefab/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -2252,7 +2261,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/2023/05/10/[OBS]Unity-Prefab/</loc>
+    <loc>http://chen-yulin.github.io/2024/05/16/[OBS]Computer%20Network-Unix%20Network%20Programming%20SRC/</loc>
     
     <lastmod>2026-01-29</lastmod>
     
@@ -2858,6 +2867,13 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Discrete-Mathematics/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/SJTU-Lecture/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2866,13 +2882,6 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Tech-Communication/</loc>
-    <lastmod>2026-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Discrete-Mathematics/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2977,6 +2986,27 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Statistics/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Bayesian-Inference/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Machine-Learning/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/Claude/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2998,6 +3028,27 @@
   </url>
   
   <url>
+    <loc>http://chen-yulin.github.io/tags/Variational-Inference/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/VAE/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Deep-Learning/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chen-yulin.github.io/tags/GPT/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3012,42 +3063,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Deep-Learning/</loc>
-    <lastmod>2026-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/VAE/</loc>
-    <lastmod>2026-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Diffusion-Models/</loc>
-    <lastmod>2026-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/Information-Theory/</loc>
-    <lastmod>2026-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Machine-Learning/</loc>
-    <lastmod>2026-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chen-yulin.github.io/tags/Statistics/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3096,13 +3112,6 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/CV/</loc>
-    <lastmod>2026-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chen-yulin.github.io/tags/6-D/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3110,7 +3119,7 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Supervised-learning/</loc>
+    <loc>http://chen-yulin.github.io/tags/CV/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3118,6 +3127,13 @@
   
   <url>
     <loc>http://chen-yulin.github.io/tags/Capstone/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chen-yulin.github.io/tags/Supervised-learning/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4083,14 +4099,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/CD/</loc>
+    <loc>http://chen-yulin.github.io/tags/Science-fiction/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Science-fiction/</loc>
+    <loc>http://chen-yulin.github.io/tags/CD/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4153,14 +4169,14 @@
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/Family/</loc>
+    <loc>http://chen-yulin.github.io/tags/YKLL/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chen-yulin.github.io/tags/YKLL/</loc>
+    <loc>http://chen-yulin.github.io/tags/Family/</loc>
     <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
