@@ -11750,7 +11750,7 @@ body:before {
   overflow: visible;
   backdrop-filter: blur(8px) saturate(1.4);
   -webkit-backdrop-filter: blur(8px) saturate(1.4);
-  background-color: rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.45);
   border: 1px solid rgba(255,255,255,0.5);
   box-shadow: 0 4px 16px rgba(0,0,0,0.08), 0 1px 3px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.6), inset 0 -1px 0 rgba(0,0,0,0.05);
   transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
@@ -11769,8 +11769,9 @@ body:before {
   z-index: 0;
 }
 .card:hover {
-  transform: scale(1.02);
-  background-color: rgba(255,255,255,0.35);
+  transform: translateY(-4px);
+  z-index: 1;
+  background-color: rgba(255,255,255,0.55);
   box-shadow: 0 6px 24px rgba(0,0,0,0.1), 0 2px 6px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.7), inset 0 -1px 0 rgba(0,0,0,0.05);
   border-color: rgba(255,255,255,0.65);
 }
@@ -11844,6 +11845,33 @@ footer.footer {
 }
 a {
   color: #449bff;
+}
+body,
+strong,
+time,
+.title,
+.subtitle,
+.card,
+.content,
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6,
+.navbar-item,
+.navbar-item.is-active,
+.navbar-link,
+.menu-list a,
+.menu-label,
+.level-item,
+.article-licensing {
+  color: #1a1a1a;
+}
+.media-content,
+.has-text-grey,
+.link-muted {
+  color: #444 !important;
 }
 .button.is-link {
   background-color: #5d93db;
@@ -11922,27 +11950,25 @@ article .title:hover a {
   padding: 0;
 }
 .widget .tags .tag:first-child {
-  background: rgba(255,255,255,0.35);
-  color: #242424;
+  background: rgba(255,255,255,0.7);
+  color: #333;
 }
 .widget .tags .tag:last-child {
-  background: rgba(255,255,255,0.25);
-  color: #242424;
+  background: rgba(255,255,255,0.6);
+  color: #333;
 }
 .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent),
 .tag:not(body) {
-  backdrop-filter: blur(6px) saturate(1.3);
-  -webkit-backdrop-filter: blur(6px) saturate(1.3);
-  background-color: rgba(255,255,255,0.2);
-  border: 1px solid rgba(255,255,255,0.4);
-  box-shadow: inset 0 1px 0 rgba(255,255,255,0.4), 0 2px 6px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+  background: linear-gradient(180deg, rgba(255,255,255,0.78) 0%, rgba(255,255,255,0.62) 100%);
+  border: 1px solid rgba(255,255,255,0.5);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 2px 6px rgba(0,0,0,0.05);
+  color: #333;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
 }
 .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent):hover,
 .tag:not(body):hover {
-  transform: scale(1.05);
-  background-color: rgba(255,255,255,0.35);
-  box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 4px 10px rgba(0,0,0,0.08);
+  background: linear-gradient(180deg, rgba(255,255,255,0.88) 0%, rgba(255,255,255,0.72) 100%);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 4px 10px rgba(0,0,0,0.08);
 }
 #universe,
 #flower {
@@ -12082,7 +12108,7 @@ body.night .navbar-main .navbar-menu .navbar-item:focus {
 }
 body.night .navbar,
 body.night .card {
-  background-color: rgba(30,33,40,0.35);
+  background-color: rgba(30,33,40,0.55);
   backdrop-filter: blur(8px) saturate(1.2) brightness(0.95);
   -webkit-backdrop-filter: blur(8px) saturate(1.2) brightness(0.95);
   border-color: rgba(255,255,255,0.08);
@@ -12098,8 +12124,8 @@ body.night .card::after {
   background: linear-gradient(180deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0) 100%);
 }
 body.night .card:hover {
-  transform: scale(1.02);
-  background-color: rgba(30,33,40,0.5);
+  transform: translateY(-4px);
+  background-color: rgba(30,33,40,0.65);
   box-shadow: 0 6px 24px rgba(0,0,0,0.25), 0 2px 6px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.1), inset 0 -1px 0 rgba(0,0,0,0.2);
   border-color: rgba(255,255,255,0.12);
 }
@@ -12305,13 +12331,13 @@ body.night .menu-list li ul {
 }
 body.night .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent),
 body.night .tag:not(body) {
-  background-color: rgba(30,33,40,0.4);
+  background: linear-gradient(180deg, rgba(50,54,64,0.55) 0%, rgba(30,33,40,0.45) 100%);
   border-color: rgba(255,255,255,0.1);
   box-shadow: inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(0,0,0,0.15), 0 2px 8px rgba(0,0,0,0.15);
 }
 body.night .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent):hover,
 body.night .tag:not(body):hover {
-  background-color: rgba(30,33,40,0.55);
+  background: linear-gradient(180deg, rgba(50,54,64,0.7) 0%, rgba(30,33,40,0.6) 100%);
   box-shadow: inset 0 1px 0 rgba(255,255,255,0.1), inset 0 -1px 0 rgba(0,0,0,0.15), 0 4px 12px rgba(0,0,0,0.2);
 }
 body.night .timeline .media:last-child:after {
@@ -12478,7 +12504,7 @@ body.night .twikoo code {
   }
   body:not(.light) .navbar,
   body:not(.light) .card {
-    background-color: rgba(30,33,40,0.35);
+    background-color: rgba(30,33,40,0.55);
     backdrop-filter: blur(8px) saturate(1.2) brightness(0.95);
     -webkit-backdrop-filter: blur(8px) saturate(1.2) brightness(0.95);
     border-color: rgba(255,255,255,0.08);
@@ -12494,8 +12520,8 @@ body.night .twikoo code {
     background: linear-gradient(180deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0) 100%);
   }
   body:not(.light) .card:hover {
-    transform: scale(1.02);
-    background-color: rgba(30,33,40,0.5);
+    transform: translateY(-4px);
+    background-color: rgba(30,33,40,0.65);
     box-shadow: 0 6px 24px rgba(0,0,0,0.25), 0 2px 6px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.1), inset 0 -1px 0 rgba(0,0,0,0.2);
     border-color: rgba(255,255,255,0.12);
   }
@@ -12701,13 +12727,13 @@ body.night .twikoo code {
   }
   body:not(.light) .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent),
   body:not(.light) .tag:not(body) {
-    background-color: rgba(30,33,40,0.4);
+    background: linear-gradient(180deg, rgba(50,54,64,0.55) 0%, rgba(30,33,40,0.45) 100%);
     border-color: rgba(255,255,255,0.1);
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(0,0,0,0.15), 0 2px 8px rgba(0,0,0,0.15);
   }
   body:not(.light) .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent):hover,
   body:not(.light) .tag:not(body):hover {
-    background-color: rgba(30,33,40,0.55);
+    background: linear-gradient(180deg, rgba(50,54,64,0.7) 0%, rgba(30,33,40,0.6) 100%);
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.1), inset 0 -1px 0 rgba(0,0,0,0.15), 0 4px 12px rgba(0,0,0,0.2);
   }
   body:not(.light) .timeline .media:last-child:after {
