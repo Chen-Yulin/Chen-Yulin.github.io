@@ -136,22 +136,38 @@ body.night .navbar-main .navbar-menu .navbar-item:focus {
 }
 body.night .navbar,
 body.night .card {
-  background-color: rgba(40,44,52,0.7);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
+  background-color: rgba(30,33,40,0.35);
+  backdrop-filter: blur(8px) saturate(1.2) brightness(0.95);
+  -webkit-backdrop-filter: blur(8px) saturate(1.2) brightness(0.95);
+  border-color: rgba(255,255,255,0.08);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2), 0 1px 3px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(0,0,0,0.2);
+}
+body.night .navbar {
+  backdrop-filter: blur(12px) saturate(1.2) brightness(0.95);
+  -webkit-backdrop-filter: blur(12px) saturate(1.2) brightness(0.95);
+  border-bottom-color: rgba(255,255,255,0.06);
+  box-shadow: 0 1px 12px rgba(0,0,0,0.15), inset 0 -1px 0 rgba(255,255,255,0.06);
+}
+body.night .card::after {
+  background: linear-gradient(180deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0) 100%);
 }
 body.night .card:hover {
-  background-color: rgba(40,44,52,0.85);
+  transform: scale(1.02);
+  background-color: rgba(30,33,40,0.5);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.25), 0 2px 6px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.1), inset 0 -1px 0 rgba(0,0,0,0.2);
+  border-color: rgba(255,255,255,0.12);
 }
 body.night .card .breadcrumb li.is-active a {
   color: #c0c0c0;
 }
 body.night .footer {
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(12px) saturate(1.2) brightness(0.95);
+  -webkit-backdrop-filter: blur(12px) saturate(1.2) brightness(0.95);
+  border-top-color: rgba(255,255,255,0.06);
+  box-shadow: 0 -1px 12px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.06);
 }
 body.night .footer:before {
-  background-color: rgba(40,44,52,0.5);
+  background-color: rgba(30,33,40,0.3);
 }
 body.night .input,
 body.night .textarea {
@@ -341,6 +357,17 @@ body.night .menu-list a.is-active {
 body.night .menu-list li ul {
   border-color: #50486e;
 }
+body.night .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent),
+body.night .tag:not(body) {
+  background-color: rgba(30,33,40,0.4);
+  border-color: rgba(255,255,255,0.1);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(0,0,0,0.15), 0 2px 8px rgba(0,0,0,0.15);
+}
+body.night .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent):hover,
+body.night .tag:not(body):hover {
+  background-color: rgba(30,33,40,0.55);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.1), inset 0 -1px 0 rgba(0,0,0,0.15), 0 4px 12px rgba(0,0,0,0.2);
+}
 body.night .timeline .media:last-child:after {
   background-color: #252936;
 }
@@ -505,22 +532,38 @@ body.night .twikoo code {
   }
   body:not(.light) .navbar,
   body:not(.light) .card {
-    background-color: rgba(40,44,52,0.7);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    background-color: rgba(30,33,40,0.35);
+    backdrop-filter: blur(8px) saturate(1.2) brightness(0.95);
+    -webkit-backdrop-filter: blur(8px) saturate(1.2) brightness(0.95);
+    border-color: rgba(255,255,255,0.08);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2), 0 1px 3px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(0,0,0,0.2);
+  }
+  body:not(.light) .navbar {
+    backdrop-filter: blur(12px) saturate(1.2) brightness(0.95);
+    -webkit-backdrop-filter: blur(12px) saturate(1.2) brightness(0.95);
+    border-bottom-color: rgba(255,255,255,0.06);
+    box-shadow: 0 1px 12px rgba(0,0,0,0.15), inset 0 -1px 0 rgba(255,255,255,0.06);
+  }
+  body:not(.light) .card::after {
+    background: linear-gradient(180deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0) 100%);
   }
   body:not(.light) .card:hover {
-    background-color: rgba(40,44,52,0.85);
+    transform: scale(1.02);
+    background-color: rgba(30,33,40,0.5);
+    box-shadow: 0 6px 24px rgba(0,0,0,0.25), 0 2px 6px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.1), inset 0 -1px 0 rgba(0,0,0,0.2);
+    border-color: rgba(255,255,255,0.12);
   }
   body:not(.light) .card .breadcrumb li.is-active a {
     color: #c0c0c0;
   }
   body:not(.light) .footer {
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(12px) saturate(1.2) brightness(0.95);
+    -webkit-backdrop-filter: blur(12px) saturate(1.2) brightness(0.95);
+    border-top-color: rgba(255,255,255,0.06);
+    box-shadow: 0 -1px 12px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.06);
   }
   body:not(.light) .footer:before {
-    background-color: rgba(40,44,52,0.5);
+    background-color: rgba(30,33,40,0.3);
   }
   body:not(.light) .input,
   body:not(.light) .textarea {
@@ -709,6 +752,17 @@ body.night .twikoo code {
   }
   body:not(.light) .menu-list li ul {
     border-color: #50486e;
+  }
+  body:not(.light) .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent),
+  body:not(.light) .tag:not(body) {
+    background-color: rgba(30,33,40,0.4);
+    border-color: rgba(255,255,255,0.1);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(0,0,0,0.15), 0 2px 8px rgba(0,0,0,0.15);
+  }
+  body:not(.light) .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent):hover,
+  body:not(.light) .tag:not(body):hover {
+    background-color: rgba(30,33,40,0.55);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1), inset 0 -1px 0 rgba(0,0,0,0.15), 0 4px 12px rgba(0,0,0,0.2);
   }
   body:not(.light) .timeline .media:last-child:after {
     background-color: #252936;

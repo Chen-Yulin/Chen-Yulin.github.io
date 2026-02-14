@@ -26,9 +26,11 @@ body:before {
   background-size: cover;
 }
 .navbar {
-  background-color: rgba(255,255,255,0.7);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
+  background-color: rgba(255,255,255,0.25);
+  backdrop-filter: blur(12px) saturate(1.3);
+  -webkit-backdrop-filter: blur(12px) saturate(1.3);
+  border-bottom: 1px solid rgba(255,255,255,0.4);
+  box-shadow: 0 1px 12px rgba(0,0,0,0.06), inset 0 -1px 0 rgba(255,255,255,0.3);
 }
 .navbar-main .navbar-menu {
   background-color: transparent;
@@ -64,17 +66,41 @@ body:before {
   }
 }
 .card {
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
+  position: relative;
   overflow: visible;
-  transition: background-color 0.5s ease;
-  background-color: rgba(255,255,255,0.5);
+  backdrop-filter: blur(8px) saturate(1.4);
+  -webkit-backdrop-filter: blur(8px) saturate(1.4);
+  background-color: rgba(255,255,255,0.2);
+  border: 1px solid rgba(255,255,255,0.5);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08), 0 1px 3px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.6), inset 0 -1px 0 rgba(0,0,0,0.05);
+  transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  will-change: transform;
+}
+.card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50%;
+  border-radius: 15px 15px 0 0;
+  background: linear-gradient(180deg, rgba(255,255,255,0.25) 0%, rgba(255,255,255,0) 100%);
+  pointer-events: none;
+  z-index: 0;
 }
 .card:hover {
-  background-color: rgba(255,255,255,0.75);
+  transform: scale(1.02);
+  background-color: rgba(255,255,255,0.35);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.1), 0 2px 6px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.7), inset 0 -1px 0 rgba(0,0,0,0.05);
+  border-color: rgba(255,255,255,0.65);
 }
 .card.card-transparent {
   background-color: transparent !important;
+  border-color: transparent !important;
+  box-shadow: none !important;
+}
+.card.card-transparent::after {
+  display: none;
 }
 .card.card-transparent .level-start,
 .card.card-transparent .level-end {
@@ -100,9 +126,11 @@ footer.footer {
   background-color: transparent;
 }
 .footer {
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(12px) saturate(1.3);
+  -webkit-backdrop-filter: blur(12px) saturate(1.3);
   position: relative;
+  border-top: 1px solid rgba(255,255,255,0.4);
+  box-shadow: 0 -1px 12px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.3);
 }
 .footer:before {
   content: '';
@@ -111,7 +139,7 @@ footer.footer {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255,255,255,0.2);
 }
 .footer-logo img {
   max-height: 2rem;
@@ -214,10 +242,25 @@ article .title:hover a {
   padding: 0;
 }
 .widget .tags .tag:first-child {
-  background: $white-ter;
+  background: rgba(255,255,255,0.35);
   color: $black-ter;
 }
 .widget .tags .tag:last-child {
-  background: $white-bis;
+  background: rgba(255,255,255,0.25);
   color: $black-ter;
+}
+.button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent),
+.tag:not(body) {
+  backdrop-filter: blur(6px) saturate(1.3);
+  -webkit-backdrop-filter: blur(6px) saturate(1.3);
+  background-color: rgba(255,255,255,0.2);
+  border: 1px solid rgba(255,255,255,0.4);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.4), 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+}
+.button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent):hover,
+.tag:not(body):hover {
+  transform: scale(1.05);
+  background-color: rgba(255,255,255,0.35);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 4px 10px rgba(0,0,0,0.08);
 }

@@ -1,0 +1,693 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="robots" content="noindex"><meta name="theme-color" content="#123456"><title>Tag: MoE - Chen Yulin&#039;s Blog</title><link rel="manifest" href="/manifest.json"><meta name="theme-color" content="#6495ed"><meta name="application-name" content="Icarus - Hexo Theme"><meta name="msapplication-TileImage" content="/img/favicon.svg"><meta name="msapplication-TileColor" content="#6495ed"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Icarus - Hexo Theme"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta property="og:type" content="blog"><meta property="og:title" content="Chen Yulin&#039;s Blog"><meta property="og:url" content="http://chen-yulin.github.io/"><meta property="og:site_name" content="Chen Yulin&#039;s Blog"><meta property="og:locale" content="en_US"><meta property="og:image" content="http://chen-yulin.github.io/img/og_image.png"><meta property="article:author" content="Chen Yulin"><meta property="twitter:card" content="summary"><meta property="twitter:image:src" content="http://chen-yulin.github.io/img/og_image.png"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://chen-yulin.github.io"},"headline":"Chen Yulin's Blog","image":["http://chen-yulin.github.io/img/og_image.png"],"author":{"@type":"Person","name":"Chen Yulin"},"publisher":{"@type":"Organization","name":"Chen Yulin's Blog","logo":{"@type":"ImageObject","url":{"light":"/img/cyllogo.png","dark":"/img/cyllogonight.png"}}},"description":""}</script><link rel="icon" href="/img/favicon.svg"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"><link data-pjax rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.7.0/styles/atom-one-light.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;600&amp;family=Source+Code+Pro"><link data-pjax rel="stylesheet" href="/css/default.css"><style>body>.footer,body>.navbar,body>.section{opacity:0}</style><!--!--><!--!--><!--!--><!--!--><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css"><!--!--><!--!--><style>.pace{-webkit-pointer-events:none;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;user-select:none}.pace-inactive{display:none}.pace .pace-progress{background:#3273dc;position:fixed;z-index:2000;top:0;right:100%;width:100%;height:2px}</style><script src="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js"></script><!--!--><!--!--><!-- hexo injector head_end start --><script>
+  (function () {
+      function switchTab() {
+          if (!location.hash) {
+            return;
+          }
+
+          const id = '#' + CSS.escape(location.hash.substring(1));
+          const $tabMenu = document.querySelector(`.tabs a[href="${id}"]`);
+          if (!$tabMenu) {
+            return;
+          }
+
+          const $tabMenuContainer = $tabMenu.parentElement.parentElement;
+          Array.from($tabMenuContainer.children).forEach($menu => $menu.classList.remove('is-active'));
+          Array.from($tabMenuContainer.querySelectorAll('a'))
+              .map($menu => document.getElementById($menu.getAttribute("href").substring(1)))
+              .forEach($content => $content.classList.add('is-hidden'));
+
+          if ($tabMenu) {
+              $tabMenu.parentElement.classList.add('is-active');
+          }
+          const $activeTab = document.querySelector(id);
+          if ($activeTab) {
+              $activeTab.classList.remove('is-hidden');
+          }
+      }
+      switchTab();
+      window.addEventListener('hashchange', switchTab, false);
+  })();
+  </script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.3.0"></head><body class="is-3-column"><svg style="position:absolute;width:0;height:0;" aria-hidden="true"><defs><filter id="liquid-glass-sm" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="2" result="noise" seed="5"></feTurbulence><feDisplacementMap in="SourceGraphic" in2="noise" scale="2" xchannelselector="R" ychannelselector="G"></feDisplacementMap></filter></defs></svg><script type="text/javascript" src="/js/imaegoo/night.js"></script><canvas id="universe"></canvas><canvas id="flower"></canvas><nav class="navbar navbar-main"><div class="container navbar-container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/"><img class="logo-img" src="/img/cyllogo.png" alt="Chen Yulin&#039;s Blog" height="28"><img class="logo-img-dark" src="/img/cyllogonight.png" alt="Chen Yulin&#039;s Blog" height="28"></a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">Home</a><a class="navbar-item" href="/archives">Archives</a><a class="navbar-item" href="/categories">Categories</a><a class="navbar-item" href="/tags">Tags</a><a class="navbar-item" href="/about">About</a></div><div class="navbar-end"><a class="navbar-item night" id="night-nav" title="Night Mode" href="javascript:;"><i class="fas fa-moon" id="night-icon"></i></a><a class="navbar-item" target="_blank" rel="noopener" title="Download on GitHub" href="https://github.com/Chen-Yulin"><i class="fab fa-github"></i></a><a class="navbar-item search" title="Search" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-6-widescreen"><div class="card"><div class="card-content"><nav class="breadcrumb" aria-label="breadcrumbs"><ul><li><a href="/tags/">Tags</a></li><li class="is-active"><a href="#" aria-current="page">MoE</a></li></ul></nav></div></div><div class="card"><div class="card-image"><a class="image is-7by3" href="/2026/02/06/%5BOBS%5DDeep%20Learning-BAGEL-Unified-Multimodal-Pretraining/"><img class="fill" src="/gallery/Research-paper.png" alt="BAGEL-Unified-Multimodal-Pretraining" referrerpolicy="no-referrer"></a></div><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item">Posted&nbsp;<time dateTime="2026-02-05T21:30:00.000Z" title="2/6/2026, 5:30:00 AM">2026-02-06</time></span><span class="level-item">Updated&nbsp;<time dateTime="2026-02-14T13:35:59.982Z" title="2/14/2026, 9:35:59 PM">2026-02-14</time></span><span class="level-item"><a class="link-muted" href="/categories/Review/">Review</a></span><span class="level-item">10 minutes read (About 1443 words)</span></div></div><p class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2026/02/06/%5BOBS%5DDeep%20Learning-BAGEL-Unified-Multimodal-Pretraining/">BAGEL-Unified-Multimodal-Pretraining</a></p><div class="content"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><h1 id="BAGEL-Emerging-Properties-in-Unified-Multimodal-Pretraining"><a href="#BAGEL-Emerging-Properties-in-Unified-Multimodal-Pretraining" class="headerlink" title="BAGEL: Emerging Properties in Unified Multimodal Pretraining"></a>BAGEL: Emerging Properties in Unified Multimodal Pretraining</h1><p><a target="_blank" rel="noopener" href="https://arxiv.org/abs/2505.14683">论文链接</a> | <a target="_blank" rel="noopener" href="https://bagel-ai.org/">项目主页</a></p>
+<p><strong>作者</strong>：Chaorui Deng, Deyao Zhu, Kunchang Li 等 (ByteDance Seed)</p>
+<hr>
+<h2 id="研究背景"><a href="#研究背景" class="headerlink" title="研究背景"></a>研究背景</h2><p>统一多模态理解与生成（Unified Multimodal Understanding and Generation）是当前AI领域的热点方向。GPT-4o、Gemini 2.0等闭源系统展现了强大能力，但开源模型与之仍存在显著差距。现有开源统一模型主要在图文配对数据上训练，缺乏对复杂多模态交错数据（Interleaved Data）的利用。</p>
+<hr>
+<h2 id="研究目标"><a href="#研究目标" class="headerlink" title="研究目标"></a>研究目标</h2><ol>
+<li>缩小开源统一多模态模型与闭源系统（GPT-4o、Gemini 2.0）之间的性能差距</li>
+<li>解决现有模型架构中理解与生成模块之间的<strong>信息瓶颈（Bottleneck）</strong>问题</li>
+<li>构建能够支持复杂多模态推理的大规模交错数据</li>
+</ol>
+<hr>
+<h2 id="核心概念"><a href="#核心概念" class="headerlink" title="核心概念"></a>核心概念</h2><h3 id="理解与生成之间的瓶颈（Bottleneck）"><a href="#理解与生成之间的瓶颈（Bottleneck）" class="headerlink" title="理解与生成之间的瓶颈（Bottleneck）"></a>理解与生成之间的瓶颈（Bottleneck）</h3><p>在采用 <strong>External Diffuser</strong> 架构的模型中，LLM&#x2F;VLM 与扩散模型通过轻量级适配器连接：</p>
+<ul>
+<li>语言模型生成少量潜在token作为”语义条件”</li>
+<li>这些token被传递给扩散模块生成图像</li>
+<li><strong>问题</strong>：LLM的丰富上下文被压缩到少量token中，导致信息损失，尤其影响长上下文多模态推理</li>
+</ul>
+<h3 id="Mixture-of-Transformer-Experts-MoT"><a href="#Mixture-of-Transformer-Experts-MoT" class="headerlink" title="Mixture-of-Transformer-Experts (MoT)"></a>Mixture-of-Transformer-Experts (MoT)</h3><p>与传统MoE不同，MoT复制整个Transformer层而非仅FFN：</p>
+<ul>
+<li><strong>理解专家</strong>：处理文本和ViT token</li>
+<li><strong>生成专家</strong>：处理VAE token</li>
+<li>两个专家通过<strong>共享自注意力</strong>在每层交互</li>
+</ul>
+<hr>
+<h2 id="研究方法"><a href="#研究方法" class="headerlink" title="研究方法"></a>研究方法</h2><h3 id="架构设计"><a href="#架构设计" class="headerlink" title="架构设计"></a>架构设计</h3><p>BAGEL采用<strong>无瓶颈的集成Transformer</strong>方案：</p>
+<div class="post-content"><a href="/2026/02/06/[OBS]Deep Learning-BAGEL-Unified-Multimodal-Pretraining/Pasted_image_20260205155618.png" title="" title=" class="gallery-item"><img src="/2026/02/06/[OBS]Deep Learning-BAGEL-Unified-Multimodal-Pretraining/Pasted_image_20260205155618.png" alt="" title=""></a></div>
+
+<p><strong>双视觉编码器</strong>：</p>
+<ul>
+<li><strong>理解编码器</strong>：SigLIP2-so400m&#x2F;14，捕获语义信息</li>
+<li><strong>生成编码器</strong>：FLUX VAE，处理像素级信息</li>
+</ul>
+<h3 id="训练范式"><a href="#训练范式" class="headerlink" title="训练范式"></a>训练范式</h3><table>
+<thead>
+<tr>
+<th>模态</th>
+<th>方法</th>
+<th>损失函数</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>文本</td>
+<td>Next-Token-Prediction</td>
+<td>Cross-Entropy</td>
+</tr>
+<tr>
+<td>视觉</td>
+<td>Rectified Flow</td>
+<td>MSE</td>
+</tr>
+</tbody></table>
+<p>损失权重比：$\text{CE} : \text{MSE} &#x3D; 0.25 : 1$</p>
+<h3 id="广义因果注意力（Generalized-Causal-Attention）"><a href="#广义因果注意力（Generalized-Causal-Attention）" class="headerlink" title="广义因果注意力（Generalized Causal Attention）"></a>广义因果注意力（Generalized Causal Attention）</h3><p>对于交错多图像生成：</p>
+<ul>
+<li><strong>Noised VAE tokens</strong>：用于Rectified-Flow训练</li>
+<li><strong>Clean VAE tokens</strong>：作为后续生成的条件</li>
+<li><strong>ViT tokens</strong>：统一输入格式，提升交错生成质量</li>
+</ul>
+<p>采用<strong>Diffusion Forcing</strong>策略，对不同图像添加独立噪声级别。</p>
+<hr>
+<h2 id="数据构���"><a href="#数据构���" class="headerlink" title="数据构���"></a>数据构���</h2><h3 id="数据规模"><a href="#数据规模" class="headerlink" title="数据规模"></a>数据规模</h3><table>
+<thead>
+<tr>
+<th>数据类型</th>
+<th>数据量</th>
+<th>Token数</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>纯文本</td>
+<td>400M</td>
+<td>0.4T</td>
+</tr>
+<tr>
+<td>图文配对（理解）</td>
+<td>500M</td>
+<td>0.5T</td>
+</tr>
+<tr>
+<td>图文配对（生成）</td>
+<td>1600M</td>
+<td>2.6T</td>
+</tr>
+<tr>
+<td>交错理解数据</td>
+<td>100M</td>
+<td>0.5T</td>
+</tr>
+<tr>
+<td>交错生成数据（视频）</td>
+<td>45M</td>
+<td>0.7T</td>
+</tr>
+<tr>
+<td>交错生成数据（网页）</td>
+<td>20M</td>
+<td>0.4T</td>
+</tr>
+</tbody></table>
+<h3 id="交错数据构建流程"><a href="#交错数据构建流程" class="headerlink" title="交错数据构建流程"></a>交错数据构建流程</h3><p><strong>视频数据</strong>：</p>
+<ol>
+<li>视频预处理（分割、裁剪、质量过滤）</li>
+<li>使用蒸馏的小型VLM生成帧间描述</li>
+<li>构建时序对齐的交错序列</li>
+</ol>
+<p><strong>网页数据</strong>：</p>
+<ol>
+<li>两阶段主题筛选（LLM + fastText）</li>
+<li>质量过滤（分辨率、清晰度、相关性）</li>
+<li>Caption-first策略：为每张图像生成描述并插入其前</li>
+</ol>
+<h3 id="推理增强数据（Reasoning-Augmented-Data）"><a href="#推理增强数据（Reasoning-Augmented-Data）" class="headerlink" title="推理增强数据（Reasoning-Augmented Data）"></a>推理增强数据（Reasoning-Augmented Data）</h3><p>受DeepSeek-R1启发，构建50万条推理增强样本：</p>
+<ul>
+<li>Text-to-Image生成</li>
+<li>自由形式图像操作</li>
+<li>概念性编辑</li>
+</ul>
+<hr>
+<h2 id="主要发现"><a href="#主要发现" class="headerlink" title="主要发现"></a>主要发现</h2><h3 id="涌现能力（Emerging-Properties）"><a href="#涌现能力（Emerging-Properties）" class="headerlink" title="涌现能力（Emerging Properties）"></a>涌现能力（Emerging Properties）</h3><p>论文定义：<strong>某能力在早期训练阶段不存在，但在后期训练中出现</strong></p>
+<p>不同能力的涌现时间点（达到85%峰值性能所需token数）：</p>
+<table>
+<thead>
+<tr>
+<th>能力</th>
+<th>涌现时间点</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>多模态理解</td>
+<td>~0.18T tokens</td>
+</tr>
+<tr>
+<td>图像生成</td>
+<td>~0.68T tokens</td>
+</tr>
+<tr>
+<td>图像编辑</td>
+<td>~2.64T tokens</td>
+</tr>
+<tr>
+<td>智能编辑（复杂推理）</td>
+<td>~3.61T tokens</td>
+</tr>
+</tbody></table>
+<p><strong>关键发现</strong>：</p>
+<ul>
+<li>理解和生成能力最先收敛</li>
+<li>编辑能力随后涌现</li>
+<li>需要复杂推理的智能编辑能力最后涌现</li>
+<li>ViT tokens对智能编辑至关重要（移除后性能下降16%）</li>
+</ul>
+<h3 id="架构对比实验"><a href="#架构对比实验" class="headerlink" title="架构对比实验"></a>架构对比实验</h3><p>在1.5B模型上对比Dense、MoE、MoT三种架构：</p>
+<ul>
+<li><strong>MoT在生成任务上优势最明显</strong></li>
+<li>表明理解和生成可能需要不同的参数空间</li>
+</ul>
+<hr>
+<h2 id="实验结果"><a href="#实验结果" class="headerlink" title="实验结果"></a>实验结果</h2><h3 id="多模态理解（7B参数）"><a href="#多模态理解（7B参数）" class="headerlink" title="多模态理解（7B参数）"></a>多模态理解（7B参数）</h3><table>
+<thead>
+<tr>
+<th>基准</th>
+<th>BAGEL</th>
+<th>Janus-Pro</th>
+<th>Qwen2.5-VL</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>MMMU</td>
+<td>58.6</td>
+<td>41.8</td>
+<td>49.3</td>
+</tr>
+<tr>
+<td>MM-Vet</td>
+<td>73.1</td>
+<td>55.9</td>
+<td>62.8</td>
+</tr>
+<tr>
+<td>MathVista</td>
+<td>69.3</td>
+<td>54.7</td>
+<td>68.2</td>
+</tr>
+<tr>
+<td>MMVP</td>
+<td>67.2</td>
+<td>48.3</td>
+<td>-</td>
+</tr>
+</tbody></table>
+<h3 id="图像生成（GenEval）"><a href="#图像生成（GenEval）" class="headerlink" title="图像生成（GenEval）"></a>图像生成（GenEval）</h3><table>
+<thead>
+<tr>
+<th>模型</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>BAGEL (w&#x2F; rewriter)</td>
+<td>0.88</td>
+</tr>
+<tr>
+<td>BAGEL</td>
+<td>0.82</td>
+</tr>
+<tr>
+<td>Janus-Pro</td>
+<td>0.80</td>
+</tr>
+<tr>
+<td>FLUX.1-dev</td>
+<td>0.82</td>
+</tr>
+<tr>
+<td>SD3-Medium</td>
+<td>0.74</td>
+</tr>
+</tbody></table>
+<h3 id="智能编辑（IntelligentBench）"><a href="#智能编辑（IntelligentBench）" class="headerlink" title="智能编辑（IntelligentBench）"></a>智能编辑（IntelligentBench）</h3><table>
+<thead>
+<tr>
+<th>模型</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>GPT-4o</td>
+<td>78.9</td>
+</tr>
+<tr>
+<td>BAGEL w&#x2F; Self-CoT</td>
+<td>55.3</td>
+</tr>
+<tr>
+<td>BAGEL</td>
+<td>44.9</td>
+</tr>
+<tr>
+<td>Gemini 2.0</td>
+<td>57.6</td>
+</tr>
+<tr>
+<td>Step1X-Edit</td>
+<td>14.9</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="讨论"><a href="#讨论" class="headerlink" title="讨论"></a>讨论</h2><h3 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h3><ul>
+<li><strong>无瓶颈架构</strong>：理解与生成模块间无损信息交互</li>
+<li><strong>涌现能力</strong>：首次系统揭示统一多模态预训练的涌现规律</li>
+<li><strong>开源贡献</strong>：发布代码、模型权重和数据构建协议</li>
+<li><strong>推理增强</strong>：CoT显著提升复杂任务表现（WISE: +0.18, IntelligentBench: +10.4）</li>
+</ul>
+<h3 id="局限性"><a href="#局限性" class="headerlink" title="局限性"></a>局限性</h3><ul>
+<li>与GPT-4o在智能编辑上仍有差距（55.3 vs 78.9）</li>
+<li>模型规模相对较小（7B active &#x2F; 14B total）</li>
+<li>训练计算成本高（需要大规模交错数据）</li>
+</ul>
+<hr>
+<h2 id="相关工作"><a href="#相关工作" class="headerlink" title="相关工作"></a>相关工作</h2><p><strong>统一多模态模型</strong>：</p>
+<ul>
+<li>Janus-Pro：采用离散视觉tokenizer的自回归方法</li>
+<li>MetaQuery-XL：冻结预训练VLM backbone</li>
+<li>Transfusion：统一AR和扩散的早期探索</li>
+</ul>
+<p><strong>视觉生成</strong>：</p>
+<ul>
+<li>FLUX.1-dev：当前SOTA扩散模型</li>
+<li>SD3-Medium：Stable Diffusion系列</li>
+</ul>
+<hr>
+<h2 id="未来方向"><a href="#未来方向" class="headerlink" title="未来方向"></a>未来方向</h2><ol>
+<li><strong>更大规模训练</strong>：探索更大模型和更多数据下的涌现行为</li>
+<li><strong>视频生成</strong>：论文展示了初步的视频生成能力，有待深入</li>
+<li><strong>强化学习</strong>：无瓶颈架构为多模态RL提供了基础</li>
+<li><strong>世界建模</strong>：导航、3D操作等世界建模任务的进一步探索</li>
+</ol>
+<hr>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ul>
+<li>Deng et al. (2025). Emerging Properties in Unified Multimodal Pretraining. arXiv:2505.14683</li>
+<li>DeepSeek-AI (2025). DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</li>
+<li>Esser et al. (2024). Scaling Rectified Flow Transformers for High-Resolution Image Synthesis (SD3)</li>
+</ul>
+</div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script></div></article></div><div class="card"><div class="card-image"><a class="image is-7by3" href="/2026/02/05/%5BOBS%5DDeep%20Learning-Transformer-Mixture-of-Experts-Survey/"><img class="fill" src="/gallery/LLM.png" alt="Mixture-of-Experts-Survey" referrerpolicy="no-referrer"></a></div><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item">Posted&nbsp;<time dateTime="2026-02-05T15:30:00.000Z" title="2/5/2026, 11:30:00 PM">2026-02-05</time></span><span class="level-item">Updated&nbsp;<time dateTime="2026-02-14T13:35:59.968Z" title="2/14/2026, 9:35:59 PM">2026-02-14</time></span><span class="level-item"><a class="link-muted" href="/categories/Review/">Review</a></span><span class="level-item">11 minutes read (About 1682 words)</span></div></div><p class="title is-3 is-size-4-mobile"><a class="link-muted" href="/2026/02/05/%5BOBS%5DDeep%20Learning-Transformer-Mixture-of-Experts-Survey/">Mixture-of-Experts-Survey</a></p><div class="content"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css" /><div class=".article-gallery"><div class="post-content"><a href="/2026/02/05/[OBS]Deep Learning-Transformer-Mixture-of-Experts-Survey/Pasted_image_20260205143754.png" title="" title=" class="gallery-item"><img src="/2026/02/05/[OBS]Deep Learning-Transformer-Mixture-of-Experts-Survey/Pasted_image_20260205143754.png" alt="" title=""></a></div>
+<div class="post-content"><a href="/2026/02/05/[OBS]Deep Learning-Transformer-Mixture-of-Experts-Survey/Pasted_image_20260205143818.png" title="" title=" class="gallery-item"><img src="/2026/02/05/[OBS]Deep Learning-Transformer-Mixture-of-Experts-Survey/Pasted_image_20260205143818.png" alt="" title=""></a></div>
+# A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications
+
+<p><a target="_blank" rel="noopener" href="https://arxiv.org/abs/2503.07137">arXiv:2503.07137</a></p>
+<p><strong>作者</strong>：Siyuan Mu (四川农业大学), Sen Lin (休斯顿大学)</p>
+<hr>
+<h2 id="研究背景"><a href="#研究背景" class="headerlink" title="研究背景"></a>研究背景</h2><p>随着AI基础大模型的快速发展，现代数据集变得越来越多样化和复杂，包含多模态数据（文本、图像、音频）和复杂结构（图、层次关系）。这给大模型发展带来两大挑战：</p>
+<ol>
+<li><strong>计算资源消耗巨大</strong>：训练和部署大模型的计算成本呈指数增长</li>
+<li><strong>异构数据拟��困难</strong>：在单一模型中整合冲突或异构知识变得困难，导致训练不稳定和性能次优</li>
+</ol>
+<p>混合专家模型（Mixture of Experts, MoE）通过动态选择和激活最相关的子模型来处理输入数据，成为解决这些挑战的有效方案。</p>
+<hr>
+<h2 id="研究目标"><a href="#研究目标" class="headerlink" title="研究目标"></a>研究目标</h2><ul>
+<li>填补现有MoE综述的空白（过时或缺乏关键领域讨论）</li>
+<li>全面总结MoE的基础设计、算法、理论和应用四大关键组件</li>
+<li>为研究者提供系统性参考，激发进一步研究</li>
+</ul>
+<hr>
+<h2 id="核心概念"><a href="#核心概念" class="headerlink" title="核心概念"></a>核心概念</h2><h3 id="MoE基本原理"><a href="#MoE基本原理" class="headerlink" title="MoE基本原理"></a>MoE基本原理</h3><p>MoE采用”分而治之”（divide and conquer）策略，与传统密集模型不同：</p>
+<ul>
+<li><strong>传统模型</strong>：对每个输入激活所有参数</li>
+<li><strong>MoE模型</strong>：根据输入特征动态选择和激活最相关的参数子集</li>
+</ul>
+<h3 id="MoE层数学表示"><a href="#MoE层数学表示" class="headerlink" title="MoE层数学表示"></a>MoE层数学表示</h3><p>$$<br>\text{MoE}(x) &#x3D; \sum_{i \in \mathcal{I}_D} w_i M_i(x)<br>$$<br>其中 $\mathcal{I}_D$ 是被选中专家的索引集，$w_i$ 是第 $i$ 个专家的权重，$M_i(x)$ 是专家网络输出。</p>
+<hr>
+<h2 id="研究方法"><a href="#研究方法" class="headerlink" title="研究方法"></a>研究方法</h2><h3 id="1-门控函数（Gating-Function）"><a href="#1-门控函数（Gating-Function）" class="headerlink" title="1. 门控函数（Gating Function）"></a>1. 门控函数（Gating Function）</h3><h4 id="线性门控（Softmax-Gating）"><a href="#线性门控（Softmax-Gating）" class="headerlink" title="线性门控（Softmax Gating）"></a>线性门控（Softmax Gating）</h4><p>$$<br>G(x)<em>i &#x3D; \text{softmax}(\text{TopK}(g(x) + R</em>{noise}, k))<em>i<br>$$<br>其中 $g(x)$ 是线性函数计算的门控值，$R</em>{noise}$ 是鼓励专家探索的噪声。</p>
+<h4 id="非线性门控"><a href="#非线性门控" class="headerlink" title="非线性门控"></a>非线性门控</h4><ul>
+<li><strong>余弦门控</strong>（GMoE）：<br>$$<br>G(x) &#x3D; \text{TopK}\left(\text{softmax}\left(\frac{E^T W_{linear} x}{\tau |W_{linear} x| |E|}\right)\right)<br>$$</li>
+<li><strong>指数族分布门控</strong></li>
+<li><strong>Soft MoE</strong>：使用加权平均而非离散分配</li>
+</ul>
+<h3 id="2-专家网络（Expert-Network）"><a href="#2-专家网络（Expert-Network）" class="headerlink" title="2. 专家网络（Expert Network）"></a>2. 专家网络（Expert Network）</h3><table>
+<thead>
+<tr>
+<th>类型</th>
+<th>描述</th>
+<th>应用场景</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>FFN专家</td>
+<td>替换Transformer中的FFN层</td>
+<td>最常用，如Switch Transformer</td>
+</tr>
+<tr>
+<td>MoA（混合注意力）</td>
+<td>将MoE应用于注意力模块</td>
+<td>图像生成、多模态任务</td>
+</tr>
+<tr>
+<td>CNN专家</td>
+<td>将MoE应用于CNN层</td>
+<td>计算机视觉任务</td>
+</tr>
+</tbody></table>
+<h3 id="3-路由策略（Routing-Strategy）"><a href="#3-路由策略（Routing-Strategy）" class="headerlink" title="3. 路由策略（Routing Strategy）"></a>3. 路由策略（Routing Strategy）</h3><ul>
+<li><strong>Token级路由</strong>：基于token表示进行路由决策（最经典）</li>
+<li><strong>模态级路由</strong>：根据数据模态进行路由（多模态任务）</li>
+<li><strong>任务级路由</strong>：根据任务ID确定路由（多任务学习）</li>
+</ul>
+<h3 id="4-训练策略"><a href="#4-训练策略" class="headerlink" title="4. 训练策略"></a>4. 训练策略</h3><h4 id="负载均衡损失（Switch-Transformer）"><a href="#负载均衡损失（Switch-Transformer）" class="headerlink" title="负载均衡损失（Switch Transformer）"></a>负载均衡损失（Switch Transformer）</h4><p>$$<br>\mathcal{L}<em>{aux} &#x3D; \alpha \cdot N \cdot \sum</em>{i&#x3D;1}^{N} f_i \cdot Q_i<br>$$<br>其中 $f_i$ 是分配给专家 $i$ 的token比例，$Q_i$ 是路由概率比例。</p>
+<hr>
+<h2 id="MoA（Mixture-of-Attention）详解"><a href="#MoA（Mixture-of-Attention）详解" class="headerlink" title="MoA（Mixture-of-Attention）详解"></a>MoA（Mixture-of-Attention）详解</h2><h3 id="基本架构"><a href="#基本架构" class="headerlink" title="基本架构"></a>基本架构</h3><p>MoA将MoE机制引入多头注意力模块，每个注意力头视为一个”专家”。</p>
+<h3 id="工作流程"><a href="#工作流程" class="headerlink" title="工作流程"></a>工作流程</h3><ol>
+<li>输入token进入MoA层</li>
+<li>门控网络计算每个注意力头的重要性分数</li>
+<li>选择TopK个最相关的注意力头</li>
+<li>仅计算被选中头的输出并加权求和</li>
+</ol>
+<h3 id="代码实现核心"><a href="#代码实现核心" class="headerlink" title="代码实现核心"></a>代码实现核心</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">MixtureOfAttention</span>(nn.Module):</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">__init__</span>(<span class="params">self, d_model, num_heads=<span class="number">8</span>, head_dim=<span class="number">64</span>, top_k=<span class="number">2</span></span>):</span><br><span class="line">        <span class="variable language_">self</span>.attention_experts = nn.ModuleList([</span><br><span class="line">            AttentionExpert(d_model, head_dim) <span class="keyword">for</span> _ <span class="keyword">in</span> <span class="built_in">range</span>(num_heads)</span><br><span class="line">        ])</span><br><span class="line">        <span class="variable language_">self</span>.router = AttentionRouter(d_model, num_heads, top_k)</span><br><span class="line"></span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">forward</span>(<span class="params">self, x</span>):</span><br><span class="line">        weights, indices, logits = <span class="variable language_">self</span>.router(x)</span><br><span class="line">        output = torch.zeros_like(x)</span><br><span class="line">        <span class="keyword">for</span> k <span class="keyword">in</span> <span class="built_in">range</span>(<span class="variable language_">self</span>.top_k):</span><br><span class="line">            <span class="keyword">for</span> head_idx <span class="keyword">in</span> <span class="built_in">range</span>(<span class="variable language_">self</span>.num_heads):</span><br><span class="line">                mask_k = (indices[:, :, k] == head_idx)</span><br><span class="line">                <span class="keyword">if</span> mask_k.<span class="built_in">any</span>():</span><br><span class="line">                    head_output = <span class="variable language_">self</span>.attention_experts[head_idx](x)</span><br><span class="line">                    output[mask_k] += weights[:, :, k][mask_k].unsqueeze(-<span class="number">1</span>) * head_output[mask_k]</span><br><span class="line">        <span class="keyword">return</span> output</span><br></pre></td></tr></table></figure>
+
+<h3 id="MoA-vs-标准多头注意力"><a href="#MoA-vs-标准多头注意力" class="headerlink" title="MoA vs 标准多头注意力"></a>MoA vs 标准多头注意力</h3><table>
+<thead>
+<tr>
+<th>特性</th>
+<th>标准多头注意力</th>
+<th>MoA</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>头激活</td>
+<td>所有头同时激活</td>
+<td>动态选择部分头</td>
+</tr>
+<tr>
+<td>计算开销</td>
+<td>与头数量成正比</td>
+<td>仅计算被选中的头</td>
+</tr>
+<tr>
+<td>可扩展性</td>
+<td>增加头数直接增加计算量</td>
+<td>可扩展更多头而不显著增加计算</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="主要发现"><a href="#主要发现" class="headerlink" title="主要发现"></a>主要发现</h2><h3 id="算法应用领域"><a href="#算法应用领域" class="headerlink" title="算法应用领域"></a>算法应用领域</h3><table>
+<thead>
+<tr>
+<th>领域</th>
+<th>代表性工作</th>
+<th>核心贡献</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>持续学习</td>
+<td>CN-DPM, Lifelong-MoE, PMoE</td>
+<td>缓解灾难性遗忘</td>
+</tr>
+<tr>
+<td>元学习</td>
+<td>MoE-NPs, MixER, Meta-DMoE</td>
+<td>增强快速适应能力</td>
+</tr>
+<tr>
+<td>多任务学习</td>
+<td>MMoE, MOOR, TaskExpert</td>
+<td>解耦任务、减少干扰</td>
+</tr>
+<tr>
+<td>强化学习</td>
+<td>MMRL, MACE, MENTOR</td>
+<td>处理非平稳环境</td>
+</tr>
+</tbody></table>
+<h3 id="应用领域"><a href="#应用领域" class="headerlink" title="应用领域"></a>应用领域</h3><table>
+<thead>
+<tr>
+<th>领域</th>
+<th>任务</th>
+<th>代表性工作</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>计算机视觉</td>
+<td>图像分类</td>
+<td>V-MoE, Soft MoE, CLIP-MoE</td>
+</tr>
+<tr>
+<td></td>
+<td>目标检测</td>
+<td>MoCaE, DAMEX</td>
+</tr>
+<tr>
+<td></td>
+<td>语义分割</td>
+<td>DeepMoE, Swin2-MoSE</td>
+</tr>
+<tr>
+<td></td>
+<td>图像生成</td>
+<td>RAPHAEL, MEGAN</td>
+</tr>
+<tr>
+<td>自然语言处理</td>
+<td>NLU</td>
+<td>GLaM, MoE-LPR</td>
+</tr>
+<tr>
+<td></td>
+<td>机器翻译</td>
+<td>GShard, NLLB</td>
+</tr>
+<tr>
+<td></td>
+<td>多模态融合</td>
+<td>LIMoE, LLaVA-MoLE</td>
+</tr>
+</tbody></table>
+<h3 id="代表性大模型"><a href="#代表性大模型" class="headerlink" title="代表性大模型"></a>代表性大模型</h3><table>
+<thead>
+<tr>
+<th>模型</th>
+<th>参数规模</th>
+<th>主要成就</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Switch Transformer</td>
+<td>万亿级</td>
+<td>预训练速度比T5-Base快7倍</td>
+</tr>
+<tr>
+<td>GLaM</td>
+<td>万亿级</td>
+<td>增强上下文信息利用能力</td>
+</tr>
+<tr>
+<td>Mixtral 8×7B</td>
+<td>470亿（激活130亿）</td>
+<td>高参数效率</td>
+</tr>
+<tr>
+<td>DeepSeek系列</td>
+<td>-</td>
+<td>多项基准SOTA</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="讨论"><a href="#讨论" class="headerlink" title="讨论"></a>讨论</h2><h3 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h3><ul>
+<li><strong>计算效率</strong>：通过稀疏激活显著降低计算成本</li>
+<li><strong>模型容量</strong>：可扩展至万亿参数而不成比例增加计算</li>
+<li><strong>专业化学习</strong>：不同专家专注于不同知识领域</li>
+<li><strong>可解释性</strong>：通过分析专家分配机制理解模型行为</li>
+</ul>
+<h3 id="局限性"><a href="#局限性" class="headerlink" title="局限性"></a>局限性</h3><ul>
+<li><strong>训练稳定性</strong>：动态专家选择可能导致负载不均衡和模型崩溃</li>
+<li><strong>系统复杂性</strong>：All-to-All通信模式增加系统设计难度</li>
+<li><strong>内存需求</strong>：多专家参数存储可能超出单设备容量</li>
+</ul>
+<hr>
+<h2 id="未来方向"><a href="#未来方向" class="headerlink" title="未来方向"></a>未来方向</h2><ol>
+<li><strong>训练稳定性与负载均衡</strong>：开发更鲁棒的训练策略</li>
+<li><strong>训练与系统效率</strong>：优化硬件-软件协同设计</li>
+<li><strong>架构设计</strong>：使用元学习或强化学习动态调整专家数量</li>
+<li><strong>理论发展</strong>：深入理解专家路由决策和聚类机制</li>
+<li><strong>定制算法设计</strong>：探索MoE与对比学习、自监督学习的结合</li>
+<li><strong>新应用领域</strong>：医疗、机器人、自动驾驶、教育、金融</li>
+</ol>
+<hr>
+<h2 id="相关工作"><a href="#相关工作" class="headerlink" title="相关工作"></a>相关工作</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://arxiv.org/abs/2101.03961">Switch Transformer</a>：首个万亿参数MoE模型</li>
+<li><a target="_blank" rel="noopener" href="https://arxiv.org/abs/2106.05974">V-MoE</a>：视觉领域MoE应用</li>
+<li><a target="_blank" rel="noopener" href="https://arxiv.org/abs/2401.04088">Mixtral 8×7B</a>：高效MoE语言模型</li>
+<li><a target="_blank" rel="noopener" href="https://arxiv.org/abs/2308.00951">Soft MoE</a>：软分配MoE新范式</li>
+<li>[[BAGEL-Unified-Multimodal-Pretraining]]</li>
+</ul>
+<hr>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><ul>
+<li>Fedus et al. (2022). Switch Transformers: Scaling to Trillion Parameter Models. JMLR.</li>
+<li>Shazeer et al. (2017). Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer. arXiv.</li>
+<li>Riquelme et al. (2021). Scaling Vision with Sparse Mixture of Experts. NeurIPS.</li>
+<li>Jiang et al. (2024). Mixtral of Experts. arXiv.</li>
+</ul>
+</div><script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-thumbnail.js@1.2.0/dist/lg-thumbnail.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-fullscreen.js@1.2.0/dist/lg-fullscreen.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-zoom.js@1.3.0/dist/lg-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-autoplay.js@1.2.0/dist/lg-autoplay.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-video.js@1.3.0/dist/lg-video.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-hash.js@1.0.0/dist/lg-hash.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lg-pager.js@1.0.0/dist/lg-pager.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script></div></article></div></div><style>.column.column-left,.column.column-right{display:none}</style><div class="column column-left is-4-tablet is-4-desktop is-3-widescreen  order-1 is-sticky"><div class="card widget" data-type="profile"><div class="card-content"><nav class="level"><div class="level-item has-text-centered flex-shrink-1"><div><figure class="image is-128x128 mx-auto mb-2"><img class="avatar is-rounded" src="/img/avatar.png" alt="Chen Yulin"></figure><p class="title is-size-4 is-block" style="line-height:inherit;">Chen Yulin</p><p class="is-size-6 is-block">SJTU student</p><p class="is-size-6 is-flex justify-content-center"><i class="fas fa-map-marker-alt mr-1"></i><span>Manchester by the Sea</span></p></div></div></nav><nav class="level is-mobile"><div class="level-item has-text-centered is-marginless"><div><p class="heading">Posts</p><a href="/archives/"><p class="title">312</p></a></div></div><div class="level-item has-text-centered is-marginless"><div><p class="heading">Categories</p><a href="/categories/"><p class="title">10</p></a></div></div><div class="level-item has-text-centered is-marginless"><div><p class="heading">Tags</p><a href="/tags/"><p class="title">235</p></a></div></div></nav><div class="level"><a class="level-item button is-primary is-rounded" href="https://github.com/Chen-Yulin" target="_blank" rel="me noopener">Follow</a></div><div class="level is-mobile is-multiline"><a class="level-item button is-transparent is-marginless" target="_blank" rel="me noopener" title="Github" href="https://github.com/Chen-Yulin"><i class="fab fa-github"></i></a></div></div></div><!--!--><div class="card widget" data-type="archives"><div class="card-content"><div class="menu"><h3 class="menu-label">Archives</h3><ul class="menu-list"><li><a class="level is-mobile" href="/archives/2026/02/"><span class="level-start"><span class="level-item">February 2026</span></span><span class="level-end"><span class="level-item tag">11</span></span></a></li><li><a class="level is-mobile" href="/archives/2026/01/"><span class="level-start"><span class="level-item">January 2026</span></span><span class="level-end"><span class="level-item tag">8</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/12/"><span class="level-start"><span class="level-item">December 2025</span></span><span class="level-end"><span class="level-item tag">3</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/11/"><span class="level-start"><span class="level-item">November 2025</span></span><span class="level-end"><span class="level-item tag">6</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/10/"><span class="level-start"><span class="level-item">October 2025</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/09/"><span class="level-start"><span class="level-item">September 2025</span></span><span class="level-end"><span class="level-item tag">3</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/08/"><span class="level-start"><span class="level-item">August 2025</span></span><span class="level-end"><span class="level-item tag">6</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/07/"><span class="level-start"><span class="level-item">July 2025</span></span><span class="level-end"><span class="level-item tag">5</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/06/"><span class="level-start"><span class="level-item">June 2025</span></span><span class="level-end"><span class="level-item tag">6</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/05/"><span class="level-start"><span class="level-item">May 2025</span></span><span class="level-end"><span class="level-item tag">10</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/04/"><span class="level-start"><span class="level-item">April 2025</span></span><span class="level-end"><span class="level-item tag">17</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/03/"><span class="level-start"><span class="level-item">March 2025</span></span><span class="level-end"><span class="level-item tag">45</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/02/"><span class="level-start"><span class="level-item">February 2025</span></span><span class="level-end"><span class="level-item tag">12</span></span></a></li><li><a class="level is-mobile" href="/archives/2025/01/"><span class="level-start"><span class="level-item">January 2025</span></span><span class="level-end"><span class="level-item tag">13</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/12/"><span class="level-start"><span class="level-item">December 2024</span></span><span class="level-end"><span class="level-item tag">12</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/11/"><span class="level-start"><span class="level-item">November 2024</span></span><span class="level-end"><span class="level-item tag">4</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/10/"><span class="level-start"><span class="level-item">October 2024</span></span><span class="level-end"><span class="level-item tag">18</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/09/"><span class="level-start"><span class="level-item">September 2024</span></span><span class="level-end"><span class="level-item tag">16</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/08/"><span class="level-start"><span class="level-item">August 2024</span></span><span class="level-end"><span class="level-item tag">13</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/07/"><span class="level-start"><span class="level-item">July 2024</span></span><span class="level-end"><span class="level-item tag">3</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/06/"><span class="level-start"><span class="level-item">June 2024</span></span><span class="level-end"><span class="level-item tag">5</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/05/"><span class="level-start"><span class="level-item">May 2024</span></span><span class="level-end"><span class="level-item tag">13</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/04/"><span class="level-start"><span class="level-item">April 2024</span></span><span class="level-end"><span class="level-item tag">17</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/03/"><span class="level-start"><span class="level-item">March 2024</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2024/01/"><span class="level-start"><span class="level-item">January 2024</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2023/12/"><span class="level-start"><span class="level-item">December 2023</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2023/05/"><span class="level-start"><span class="level-item">May 2023</span></span><span class="level-end"><span class="level-item tag">46</span></span></a></li><li><a class="level is-mobile" href="/archives/2022/08/"><span class="level-start"><span class="level-item">August 2022</span></span><span class="level-end"><span class="level-item tag">1</span></span></a></li><li><a class="level is-mobile" href="/archives/2022/05/"><span class="level-start"><span class="level-item">May 2022</span></span><span class="level-end"><span class="level-item tag">6</span></span></a></li><li><a class="level is-mobile" href="/archives/2022/04/"><span class="level-start"><span class="level-item">April 2022</span></span><span class="level-end"><span class="level-item tag">9</span></span></a></li></ul></div></div></div><div class="column-right-shadow is-hidden-widescreen"></div></div><div class="column column-right is-4-tablet is-4-desktop is-3-widescreen is-hidden-touch is-hidden-desktop-only order-3"><div class="card widget" data-type="recent-posts"><div class="card-content"><h3 class="menu-label">Recents</h3><article class="media"><figure class="media-left"><a class="image" href="/2026/02/14/%5BOBS%5Dexist_label/"><img src="/thumb/Research-paper.png" alt="exist_label"></a></figure><div class="media-content"><p class="date"><time dateTime="2026-02-14T12:01:54.000Z">2026-02-14</time></p><p class="title"><a href="/2026/02/14/%5BOBS%5Dexist_label/">exist_label</a></p><p class="categories"><a href="/categories/Note/">Note</a></p></div></article><article class="media"><figure class="media-left"><a class="image" href="/2026/02/06/%5BOBS%5DDeep%20Learning-BAGEL-Unified-Multimodal-Pretraining/"><img src="/thumb/Research-paper.png" alt="BAGEL-Unified-Multimodal-Pretraining"></a></figure><div class="media-content"><p class="date"><time dateTime="2026-02-05T21:30:00.000Z">2026-02-06</time></p><p class="title"><a href="/2026/02/06/%5BOBS%5DDeep%20Learning-BAGEL-Unified-Multimodal-Pretraining/">BAGEL-Unified-Multimodal-Pretraining</a></p><p class="categories"><a href="/categories/Review/">Review</a></p></div></article><article class="media"><figure class="media-left"><a class="image" href="/2026/02/05/%5BOBS%5DDeep%20Learning-LingBot-VLA/"><img src="/thumb/Research-paper.png" alt="LingBot-VLA"></a></figure><div class="media-content"><p class="date"><time dateTime="2026-02-05T15:30:00.000Z">2026-02-05</time></p><p class="title"><a href="/2026/02/05/%5BOBS%5DDeep%20Learning-LingBot-VLA/">LingBot-VLA</a></p><p class="categories"><a href="/categories/Review/">Review</a></p></div></article><article class="media"><figure class="media-left"><a class="image" href="/2026/02/05/%5BOBS%5DDeep%20Learning-Transformer-Mixture-of-Experts-Survey/"><img src="/thumb/LLM.png" alt="Mixture-of-Experts-Survey"></a></figure><div class="media-content"><p class="date"><time dateTime="2026-02-05T15:30:00.000Z">2026-02-05</time></p><p class="title"><a href="/2026/02/05/%5BOBS%5DDeep%20Learning-Transformer-Mixture-of-Experts-Survey/">Mixture-of-Experts-Survey</a></p><p class="categories"><a href="/categories/Review/">Review</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2026-02-05T00:00:00.000Z">2026-02-05</time></p><p class="title"><a href="/2026/02/05/%5BOBS%5DRobotics-Humanoid-Robot-Control-Methods/">人形机器人控制方法综述</a></p><p class="categories"><a href="/categories/Note/">Note</a></p></div></article></div></div><div class="card widget" data-type="tags"><div class="card-content"><div class="menu"><h3 class="menu-label">Tags</h3><div class="field is-grouped is-grouped-multiline"><div class="control"><a class="tags has-addons" href="/tags/3D-Scene/"><span class="tag">3D-Scene</span><span class="tag">17</span></a></div><div class="control"><a class="tags has-addons" href="/tags/6-D/"><span class="tag">6-D</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/AI/"><span class="tag">AI</span><span class="tag">16</span></a></div><div class="control"><a class="tags has-addons" href="/tags/AIGC/"><span class="tag">AIGC</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/API/"><span class="tag">API</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/AR/"><span class="tag">AR</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Academic/"><span class="tag">Academic</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Algorithm/"><span class="tag">Algorithm</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Aliyun/"><span class="tag">Aliyun</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/App/"><span class="tag">App</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Atlas/"><span class="tag">Atlas</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/BS4/"><span class="tag">BS4</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Bayesian-Inference/"><span class="tag">Bayesian-Inference</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Beautify/"><span class="tag">Beautify</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Behaviorism/"><span class="tag">Behaviorism</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Business/"><span class="tag">Business</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/C/"><span class="tag">C</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CADC/"><span class="tag">CADC</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CD/"><span class="tag">CD</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CLI/"><span class="tag">CLI</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CLIP/"><span class="tag">CLIP</span><span class="tag">11</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CNN/"><span class="tag">CNN</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/CV/"><span class="tag">CV</span><span class="tag">68</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Camera/"><span class="tag">Camera</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Capstone/"><span class="tag">Capstone</span><span class="tag">10</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Chemistry/"><span class="tag">Chemistry</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Claude/"><span class="tag">Claude</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Communication/"><span class="tag">Communication</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Contrastive-Learning/"><span class="tag">Contrastive-Learning</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Control/"><span class="tag">Control</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Csharp/"><span class="tag">Csharp</span><span class="tag">9</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Css/"><span class="tag">Css</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Cuda/"><span class="tag">Cuda</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/DD/"><span class="tag">DD</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/DINO/"><span class="tag">DINO</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/DT/"><span class="tag">DT</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Dataframe/"><span class="tag">Dataframe</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Debate/"><span class="tag">Debate</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Debugger/"><span class="tag">Debugger</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Deep-Learning/"><span class="tag">Deep-Learning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Development-Tools/"><span class="tag">Development-Tools</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Diffusion/"><span class="tag">Diffusion</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Diffusion-Policy/"><span class="tag">Diffusion-Policy</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/DiffusionModel/"><span class="tag">DiffusionModel</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Discrete-Mathematics/"><span class="tag">Discrete-Mathematics</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Disney/"><span class="tag">Disney</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Docker/"><span class="tag">Docker</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Docs/"><span class="tag">Docs</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Dynamic-programming/"><span class="tag">Dynamic-programming</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ESP32/"><span class="tag">ESP32</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Education/"><span class="tag">Education</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Embeded-System/"><span class="tag">Embeded-System</span><span class="tag">9</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Embodied-AI/"><span class="tag">Embodied-AI</span><span class="tag">19</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Emoation/"><span class="tag">Emoation</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Emotion/"><span class="tag">Emotion</span><span class="tag">13</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Ethic/"><span class="tag">Ethic</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Experiment/"><span class="tag">Experiment</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/FL/"><span class="tag">FL</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/FPN/"><span class="tag">FPN</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Family/"><span class="tag">Family</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Federated-Learning/"><span class="tag">Federated-Learning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Foundation/"><span class="tag">Foundation</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/FoundationModel/"><span class="tag">FoundationModel</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Functional-programming/"><span class="tag">Functional programming</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/GPT/"><span class="tag">GPT</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Game/"><span class="tag">Game</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Gated-NN/"><span class="tag">Gated-NN</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Git/"><span class="tag">Git</span><span class="tag">7</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Github/"><span class="tag">Github</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Godot/"><span class="tag">Godot</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Graph/"><span class="tag">Graph</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/HPC/"><span class="tag">HPC</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/HRI/"><span class="tag">HRI</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Haskell/"><span class="tag">Haskell</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Health/"><span class="tag">Health</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hexo/"><span class="tag">Hexo</span><span class="tag">10</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hierarchical/"><span class="tag">Hierarchical</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Html/"><span class="tag">Html</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Humanism/"><span class="tag">Humanism</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Humanoid/"><span class="tag">Humanoid</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/HumanoidRobot/"><span class="tag">HumanoidRobot</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hybrid-Control/"><span class="tag">Hybrid-Control</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Hyprland/"><span class="tag">Hyprland</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/IK/"><span class="tag">IK</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Image-Grounding/"><span class="tag">Image-Grounding</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Image-Text/"><span class="tag">Image-Text</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Image-generation/"><span class="tag">Image-generation</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Image2Text/"><span class="tag">Image2Text</span><span class="tag">7</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ImgGen/"><span class="tag">ImgGen</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ImitationLearning/"><span class="tag">ImitationLearning</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Information-Theory/"><span class="tag">Information-Theory</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Jolt/"><span class="tag">Jolt</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Json/"><span class="tag">Json</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/LLM/"><span class="tag">LLM</span><span class="tag">17</span></a></div><div class="control"><a class="tags has-addons" href="/tags/LSP/"><span class="tag">LSP</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/LatentAction/"><span class="tag">LatentAction</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Latex/"><span class="tag">Latex</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Lego/"><span class="tag">Lego</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Life/"><span class="tag">Life</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/LinearAlgebra/"><span class="tag">LinearAlgebra</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Linux/"><span class="tag">Linux</span><span class="tag">22</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Live2d/"><span class="tag">Live2d</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Love/"><span class="tag">Love</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Lua/"><span class="tag">Lua</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/MBTI/"><span class="tag">MBTI</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ML/"><span class="tag">ML</span><span class="tag">14</span></a></div><div class="control"><a class="tags has-addons" href="/tags/MPC/"><span class="tag">MPC</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/MR-AR/"><span class="tag">MR/AR</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Machine-Learning/"><span class="tag">Machine-Learning</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Mason/"><span class="tag">Mason</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Math/"><span class="tag">Math</span><span class="tag">7</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Meme/"><span class="tag">Meme</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Message-Passing/"><span class="tag">Message-Passing</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/MindPlus/"><span class="tag">MindPlus</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/MoE/"><span class="tag">MoE</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Mod/"><span class="tag">Mod</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Model-Predictive-Control/"><span class="tag">Model-Predictive-Control</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Motivation/"><span class="tag">Motivation</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Moveit/"><span class="tag">Moveit</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Movie/"><span class="tag">Movie</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Multi-Agent/"><span class="tag">Multi-Agent</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Multi-modal/"><span class="tag">Multi-modal</span><span class="tag">14</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Multi-view/"><span class="tag">Multi-view</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/MultiModal/"><span class="tag">MultiModal</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Music/"><span class="tag">Music</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NLP/"><span class="tag">NLP</span><span class="tag">6</span></a></div><div class="control"><a class="tags has-addons" href="/tags/NN/"><span class="tag">NN</span><span class="tag">12</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Network/"><span class="tag">Network</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Nodejs/"><span class="tag">Nodejs</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Numpy/"><span class="tag">Numpy</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Nvim/"><span class="tag">Nvim</span><span class="tag">9</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Object-Detection/"><span class="tag">Object-Detection</span><span class="tag">9</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Open-Vocabulary/"><span class="tag">Open-Vocabulary</span><span class="tag">11</span></a></div><div class="control"><a class="tags has-addons" href="/tags/OpenCV/"><span class="tag">OpenCV</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Oral/"><span class="tag">Oral</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/PHD/"><span class="tag">PHD</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/PSY/"><span class="tag">PSY</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Pandas/"><span class="tag">Pandas</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Panoptic/"><span class="tag">Panoptic</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Path/"><span class="tag">Path</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Philosophy/"><span class="tag">Philosophy</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/PhysX/"><span class="tag">PhysX</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Physical-Scene/"><span class="tag">Physical-Scene</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Physics-engine/"><span class="tag">Physics-engine</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Pio/"><span class="tag">Pio</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Planning/"><span class="tag">Planning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Plugin/"><span class="tag">Plugin</span><span class="tag">8</span></a></div><div class="control"><a class="tags has-addons" href="/tags/PoseEstimation/"><span class="tag">PoseEstimation</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Postgraduate/"><span class="tag">Postgraduate</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Prefab/"><span class="tag">Prefab</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Probability/"><span class="tag">Probability</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Python/"><span class="tag">Python</span><span class="tag">30</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Pytorch/"><span class="tag">Pytorch</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/QML/"><span class="tag">QML</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Quantum/"><span class="tag">Quantum</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/RAG/"><span class="tag">RAG</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/RL/"><span class="tag">RL</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/RNN/"><span class="tag">RNN</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ROS/"><span class="tag">ROS</span><span class="tag">6</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Reading/"><span class="tag">Reading</span><span class="tag">19</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Real2Sim/"><span class="tag">Real2Sim</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Reconstruct/"><span class="tag">Reconstruct</span><span class="tag">13</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Regex/"><span class="tag">Regex</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Reinforcement-Learning/"><span class="tag">Reinforcement-Learning</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Reinforcement-learning/"><span class="tag">Reinforcement-learning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Repository/"><span class="tag">Repository</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Representation-Learning/"><span class="tag">Representation-Learning</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Research-paper/"><span class="tag">Research-paper</span><span class="tag">97</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Robot/"><span class="tag">Robot</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/RobotLearning/"><span class="tag">RobotLearning</span><span class="tag">13</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Robotics/"><span class="tag">Robotics</span><span class="tag">38</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SJTU-Lecture/"><span class="tag">SJTU-Lecture</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SQL/"><span class="tag">SQL</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/SSH/"><span class="tag">SSH</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Scalability/"><span class="tag">Scalability</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Scene-graph/"><span class="tag">Scene-graph</span><span class="tag">34</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Scene-synthesis/"><span class="tag">Scene-synthesis</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Science-fiction/"><span class="tag">Science-fiction</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Scrap/"><span class="tag">Scrap</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Script/"><span class="tag">Script</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Segmentation/"><span class="tag">Segmentation</span><span class="tag">8</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Semantic/"><span class="tag">Semantic</span><span class="tag">15</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Shader/"><span class="tag">Shader</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Shell/"><span class="tag">Shell</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Signals-and-Systems/"><span class="tag">Signals and Systems</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Sim2Real/"><span class="tag">Sim2Real</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Sklearn/"><span class="tag">Sklearn</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Snippets/"><span class="tag">Snippets</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Society/"><span class="tag">Society</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Star-rail/"><span class="tag">Star-rail</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Statistics/"><span class="tag">Statistics</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Subgraph/"><span class="tag">Subgraph</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Submodule/"><span class="tag">Submodule</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Supervised-learning/"><span class="tag">Supervised-learning</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Survey/"><span class="tag">Survey</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/TC/"><span class="tag">TC</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/TOEFL/"><span class="tag">TOEFL</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Task-Planning/"><span class="tag">Task-Planning</span><span class="tag">9</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Tasks/"><span class="tag">Tasks</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Tech-Communication/"><span class="tag">Tech Communication</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Torch/"><span class="tag">Torch</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Transformer/"><span class="tag">Transformer</span><span class="tag">20</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Translation-Embedding/"><span class="tag">Translation-Embedding</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Travel/"><span class="tag">Travel</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/UI/"><span class="tag">UI</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Unified-Multimodal/"><span class="tag">Unified-Multimodal</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Unity/"><span class="tag">Unity</span><span class="tag">20</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Unsupervised-learning/"><span class="tag">Unsupervised-learning</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/VAE/"><span class="tag">VAE</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/VLA/"><span class="tag">VLA</span><span class="tag">4</span></a></div><div class="control"><a class="tags has-addons" href="/tags/VLM/"><span class="tag">VLM</span><span class="tag">9</span></a></div><div class="control"><a class="tags has-addons" href="/tags/VLP/"><span class="tag">VLP</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/VQ-VAE/"><span class="tag">VQ-VAE</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Variational-Inference/"><span class="tag">Variational-Inference</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Version-management/"><span class="tag">Version-management</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/ViT/"><span class="tag">ViT</span><span class="tag">5</span></a></div><div class="control"><a class="tags has-addons" href="/tags/VideoEditing/"><span class="tag">VideoEditing</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Vim/"><span class="tag">Vim</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Visual-Relation/"><span class="tag">Visual-Relation</span><span class="tag">23</span></a></div><div class="control"><a class="tags has-addons" href="/tags/WSL/"><span class="tag">WSL</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Waybar/"><span class="tag">Waybar</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Wayland/"><span class="tag">Wayland</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Web/"><span class="tag">Web</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Website/"><span class="tag">Website</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Well-being/"><span class="tag">Well-being</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Window-manager/"><span class="tag">Window-manager</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/WorldModel/"><span class="tag">WorldModel</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/YKLL/"><span class="tag">YKLL</span><span class="tag">3</span></a></div><div class="control"><a class="tags has-addons" href="/tags/Zen/"><span class="tag">Zen</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/%E2%99%A5%EF%B8%8F/"><span class="tag">♥️</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/%E5%AE%9E%E4%B9%A0/"><span class="tag">实习</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/%F0%9F%8D%A2/"><span class="tag">🍢</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/%F0%9F%8D%B0/"><span class="tag">🍰</span><span class="tag">1</span></a></div><div class="control"><a class="tags has-addons" href="/tags/%F0%9F%90%B1/"><span class="tag">🐱</span><span class="tag">2</span></a></div><div class="control"><a class="tags has-addons" href="/tags/%F0%9F%A7%80/"><span class="tag">🧀</span><span class="tag">1</span></a></div></div></div></div></div></div><style>.column.column-left,.column.column-right{display:block}</style></div></div></section><footer class="footer"><div class="container"><div class="level"><div class="level-start"><a class="footer-logo is-block mb-2" href="/"><img class="logo-img" src="/img/cyllogo.png" alt="Chen Yulin&#039;s Blog" height="28"><img class="logo-img-dark" src="/img/cyllogonight.png" alt="Chen Yulin&#039;s Blog" height="28"></a><p class="is-size-7"><span>&copy; 2026 Chen Yulin</span>  Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> &amp; <a href="https://github.com/imaegoo/hexo-theme-icarus" target="_blank" rel="noopener">Icarus</a></p></div><div class="level-end"><div class="field has-addons"><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Creative Commons" href="https://creativecommons.org/"><i class="fab fa-creative-commons"></i></a></p><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Attribution 4.0 International" href="https://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons-by"></i></a></p><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Download on GitHub" href="https://github.com/Chen-Yulin"><i class="fab fa-github"></i></a></p></div></div></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment-with-locales.min.js"></script><script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.4/dist/clipboard.min.js" defer></script><script>moment.locale("en");</script><script>var IcarusThemeSettings = {
+            article: {
+                highlight: {
+                    clipboard: true,
+                    fold: 'unfolded'
+                }
+            }
+        };</script><script data-pjax src="/js/column.js"></script><script src="/js/animation.js"></script><a id="back-to-top" title="Back to top" href="javascript:;"><i class="fas fa-chevron-up"></i></a><script data-pjax src="/js/back_to_top.js" defer></script><!--!--><!--!--><!--!--><script src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script>window.addEventListener("load", () => {
+      window.cookieconsent.initialise({
+        type: "info",
+        theme: "edgeless",
+        static: false,
+        position: "bottom-left",
+        content: {
+          message: "This website uses cookies to improve your experience.",
+          dismiss: "Got it!",
+          allow: "Allow cookies",
+          deny: "Decline",
+          link: "Learn more",
+          policy: "Cookie Policy",
+          href: "https://www.cookiesandyou.com/",
+        },
+        palette: {
+          popup: {
+            background: "#edeff5",
+            text: "#838391"
+          },
+          button: {
+            background: "#4b81e8"
+          },
+        },
+      });
+    });</script><script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery.min.js" defer></script><script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js" defer></script><script>window.addEventListener("load", () => {
+            if (typeof $.fn.lightGallery === 'function') {
+                $('.article').lightGallery({ selector: '.gallery-item' });
+            }
+            if (typeof $.fn.justifiedGallery === 'function') {
+                if ($('.justified-gallery > p > .gallery-item').length) {
+                    $('.justified-gallery > p > .gallery-item').unwrap();
+                }
+                $('.justified-gallery').justifiedGallery();
+            }
+        });</script><!--!--><!--!--><!--!--><!--!--><!--!--><script data-pjax src="/js/main.js" defer></script><div class="searchbox"><div class="searchbox-container"><div class="searchbox-header"><div class="searchbox-input-container"><input class="searchbox-input" type="text" placeholder="Type something..."></div><div class="searchbox-pinyin"><label class="checkbox"><input id="search-by-pinyin" type="checkbox" checked="checked"><span> 拼音检索</span></label></div><a class="searchbox-close" href="javascript:;">×</a></div><div class="searchbox-body"></div></div></div><script src="/js/imaegoo/pinyin.js" defer></script><script src="/js/insight.js" defer></script><script>document.addEventListener('DOMContentLoaded', function () {
+            loadInsight({"contentUrl":"/content.json"}, {"hint":"Type something...","untitled":"(Untitled)","posts":"Posts","pages":"Pages","categories":"Categories","tags":"Tags"});
+        });</script><script type="text/javascript" src="/js/imaegoo/imaegoo.js"></script><script type="text/javascript" src="/js/imaegoo/universe.js"></script><script type="text/javascript" src="/js/imaegoo/falling-petals.js"></script><!-- hexo injector body_end start -->
+<link rel="stylesheet" crossorigin href="https://g.alicdn.com/aliyun-documentation/web-chatbot-ui/0.0.11/index.css" />
+<script type="module" crossorigin src="https://g.alicdn.com/aliyun-documentation/web-chatbot-ui/0.0.11/index.js"></script>
+<script>
+  window.CHATBOT_CONFIG = {
+    endpoint: "https://webchat-bot-iqu-knzhgrvznd.cn-hangzhou.fcapp.run/chat", // 可以替换为 https://{your-fc-http-trigger-domain}/chat
+    displayByDefault: false, // 默认不展示 AI 助手聊天框
+    aiChatOptions: { // aiChatOptions 中 options 会传递 aiChat 组件，自定义取值参考：https://docs.nlkit.com/nlux/reference/ui/ai-chat
+      conversationOptions: { // 自定义取值参考：https://docs.nlkit.com/nlux/reference/ui/ai-chat#conversation-options
+        conversationStarters: [
+          {prompt: '你是谁？'},
+          {prompt: '博主又是谁？'},
+          {prompt: '怎么使用这个网站？'},
+          {prompt: '想要博主联系方式！'},
+        ]
+      },
+      displayOptions: { // 自定义取值参考：https://docs.nlkit.com/nlux/reference/ui/ai-chat#display-options
+        height: 600,
+        width: 350,
+      },
+      personaOptions: { // 自定义取值参考：https://docs.nlkit.com/nlux/reference/ui/ai-chat#chat-personas
+        assistant: {          name: '博主的AI助手，十四行诗参上！',
+          // AI 助手的图标
+          avatar: 'https://chen-yulin.github.io/thumb/14.png',
+          tagline: '要不要试试问下面的问题呢？',
+        }
+      }
+    }
+  };
+</script>
+<style>
+  :root {
+    /* webchat 工具栏的颜色 */
+    --webchat-toolbar-background-color: #1464E4;
+    /* webchat 工具栏文字和按钮的颜色 */
+    --webchat-toolbar-text-color: #FFF;
+  }
+  /* webchat 对话框如果被遮挡，可以尝试通过 z-index、bottom、left 等设置来调整位置 */
+  .webchat-container {
+    z-index: 100;
+    bottom: 10px;
+    right: 10px;
+  }
+  /* webchat 的唤起按钮如果被遮挡，可以尝试通过 z-index、bottom、left 等设置来调整位置 */
+  .webchat-bubble-tip {
+    z-index: 99;
+    bottom: 60px;
+    right: 20px;
+  }
+  .webchat-bubble-tip {
+    overflow: visible !important;
+  }
+  @keyframes float {
+    0% {
+      transform: translateY(0px) translateX(-50%);
+    }
+    50% {
+      transform: translateY(-10px) translateX(-50%);
+    }
+    100% {
+      transform: translateY(0px) translateX(-50%);
+    }
+  }
+
+  .webchat-bubble-tip::before {
+    content: '';
+    position: absolute;
+    top: -25px;
+    left: 70%;
+    width: 40px;
+    height: 40px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.5));
+    animation: float 3s ease-in-out infinite;
+  }
+</style><script data-pjax src="https://registry.npmmirror.com/oh-my-live2d/latest/files"></script><script>const oml2d = OML2D.loadOml2d({libraryUrls:{"complete":"https://registry.npmmirror.com/oh-my-live2d/latest/files/lib/complete.js","cubism2":"https://registry.npmmirror.com/oh-my-live2d/latest/files/lib/cubism2.js","cubism5":"https://registry.npmmirror.com/oh-my-live2d/latest/files/lib/cubism5.js"},dockedPosition:"left",mobileDisplay:true,models:[{"path":"https://model.hacxy.cn/mai/model.json","mobilePosition":[25,0],"mobileScale":0.1,"mobileStageStyle":{"width":125,"height":175},"motionPreloadStrategy":"ALL","position":[50,0],"scale":0.2,"stageStyle":{"width":250,"height":350}}],parentElement:document.body,primaryColor:"var(--btn-bg)",sayHello:false,tips:{style: {"width":230,"height":120,"left":"calc(50% - 20px)","top":"-100px"},mobileStyle: {"width":180,"height":80,"left":"calc(50% - 30px)","top":"-100px"},idleTips:{interval:15000,message:function(){
+  return axios.get('https://v1.hitokoto.cn?c=i')
+    .then(function (response) {
+      return response.data.hitokoto ;
+    })
+    .catch(function (error) {
+      console.error(error);
+    });
+}
+}}});</script><!-- hexo injector body_end end --></body></html>
