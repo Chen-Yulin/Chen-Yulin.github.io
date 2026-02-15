@@ -12065,6 +12065,9 @@ body.night .hljs-link {
 body.night .content code {
   color: #cbba7d;
 }
+body.night .content {
+  color: #c0c0c0;
+}
 body.night #universe {
   background: url("/img/shower.jpg") no-repeat center/auto;
   background-size: cover;
@@ -12334,6 +12337,7 @@ body.night .tag:not(body) {
   background: linear-gradient(180deg, rgba(50,54,64,0.55) 0%, rgba(30,33,40,0.45) 100%);
   border-color: rgba(255,255,255,0.1);
   box-shadow: inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(0,0,0,0.15), 0 2px 8px rgba(0,0,0,0.15);
+  color: #c0c0c0;
 }
 body.night .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent):hover,
 body.night .tag:not(body):hover {
@@ -12460,6 +12464,9 @@ body.night .twikoo code {
   }
   body:not(.light) .content code {
     color: #cbba7d;
+  }
+  body:not(.light) .content {
+    color: #c0c0c0;
   }
   body:not(.light) #universe {
     background: url("/img/shower.jpg") no-repeat center/auto;
@@ -12730,6 +12737,7 @@ body.night .twikoo code {
     background: linear-gradient(180deg, rgba(50,54,64,0.55) 0%, rgba(30,33,40,0.45) 100%);
     border-color: rgba(255,255,255,0.1);
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(0,0,0,0.15), 0 2px 8px rgba(0,0,0,0.15);
+    color: #c0c0c0;
   }
   body:not(.light) .button:not(.is-text):not(.is-link):not(.is-white):not(.is-transparent):hover,
   body:not(.light) .tag:not(body):hover {
